@@ -1,0 +1,1978 @@
+{
+  "version": 1,
+  "repository": "gallery2026",
+  "assets": {
+    "gallery/images/001878d3d8b3269afabe0971a9517feb328009b56dfece2ff93dda9d707894cb/ngc6604-m16-m17-m24-m21-m20-m8-nest-nebula-eagle-nebula-swan-nebula-smal-c6bbb3e5b7.jpg": {
+      "sha256": "001878d3d8b3269afabe0971a9517feb328009b56dfece2ff93dda9d707894cb",
+      "bytes": 2730111
+    },
+    "gallery/images/00318193ce4ef1d2aee59faebd15866067893c5c5baa0c3cc637d995d14789f5/milkyway-andromeda-region-5h-b5a0744245.jpg": {
+      "sha256": "00318193ce4ef1d2aee59faebd15866067893c5c5baa0c3cc637d995d14789f5",
+      "bytes": 525094
+    },
+    "gallery/images/005533589caa0cf1c7beabc3ca3a21a9e55eca0d17f472d4b6293a3f5ed8357e/m27-dumbbell-nebula-4-5h-compare-superres-f75acc87a6.jpg": {
+      "sha256": "005533589caa0cf1c7beabc3ca3a21a9e55eca0d17f472d4b6293a3f5ed8357e",
+      "bytes": 721026
+    },
+    "gallery/images/00e0086fc1dac773362af25d79edcee65f0e69d14713f824d6220ecfd625ef0a/ngc2237-the-rosette-nebula-complex-sho-ha-4h-sii-3h15m-2f39d7458e.jpg": {
+      "sha256": "00e0086fc1dac773362af25d79edcee65f0e69d14713f824d6220ecfd625ef0a",
+      "bytes": 14262136
+    },
+    "gallery/images/010ff32c36ee2befde991278276169c39e6dbe42cb48bcb2f6f8701420f8a650/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-37fb4f3f96.jpg": {
+      "sha256": "010ff32c36ee2befde991278276169c39e6dbe42cb48bcb2f6f8701420f8a650",
+      "bytes": 1484950
+    },
+    "gallery/images/012c1a77847221e5a3ef016ff5cd997917781f6b29ede3bd2d3cd2808df260f1/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-224-minutes-16a1960745.jpg": {
+      "sha256": "012c1a77847221e5a3ef016ff5cd997917781f6b29ede3bd2d3cd2808df260f1",
+      "bytes": 496409
+    },
+    "gallery/images/01da1ed00f22540fc62f4b5173f978af74573cea8dba4435796c05203fa36ba1/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-take-0b59b444da.jpg": {
+      "sha256": "01da1ed00f22540fc62f4b5173f978af74573cea8dba4435796c05203fa36ba1",
+      "bytes": 200069
+    },
+    "gallery/images/01fc316766174d857fdcb3908a8f3a55a561e0127c0cd4ce1da3d00399b32955/m27-dumbbell-nebula-1h-4e25459e7f.jpg": {
+      "sha256": "01fc316766174d857fdcb3908a8f3a55a561e0127c0cd4ce1da3d00399b32955",
+      "bytes": 256696
+    },
+    "gallery/images/020f1420083afa127dbf267e7a8e09b9a805877c7f99d6b6f9e3e298f4278e93/m-64-46-minutes-8fb852e307.jpg": {
+      "sha256": "020f1420083afa127dbf267e7a8e09b9a805877c7f99d6b6f9e3e298f4278e93",
+      "bytes": 258686
+    },
+    "gallery/images/02beabb0b7372f8229fb7de42b1bf3d869adcb06058f51b56a2b8c64010785b6/ngc147-ngc-185-local-group-galaxies-2h-39a16eec67.jpg": {
+      "sha256": "02beabb0b7372f8229fb7de42b1bf3d869adcb06058f51b56a2b8c64010785b6",
+      "bytes": 580403
+    },
+    "gallery/images/0472226898f3cacd08b99ae8fee2ccf6fb7d8c954776da39230483f055028e12/ngc281-pacman-nebula-ha-5-5h-sii-5-5h-89e5c32058.jpg": {
+      "sha256": "0472226898f3cacd08b99ae8fee2ccf6fb7d8c954776da39230483f055028e12",
+      "bytes": 271979
+    },
+    "gallery/images/05aea9654d086d6bb7519d3a5be6692c89ca1e1ab5560320b04f0efd74a98ae0/m16-eagle-nebula-573-minutes-91e869139b.jpg": {
+      "sha256": "05aea9654d086d6bb7519d3a5be6692c89ca1e1ab5560320b04f0efd74a98ae0",
+      "bytes": 163624
+    },
+    "gallery/images/05bcff8bec821c05cc9bf3bb3366110086fc5f2eeb0b3dc9f1efffeff09dc8b2/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-2fb27e4d4c.jpg": {
+      "sha256": "05bcff8bec821c05cc9bf3bb3366110086fc5f2eeb0b3dc9f1efffeff09dc8b2",
+      "bytes": 251970
+    },
+    "gallery/images/064e0a8a358112ad391411d36ec36726ed521117b8cfc2ed35d363aae8853f10/ngc7000-north-america-nebula-102-minutes-f25077e90f.jpg": {
+      "sha256": "064e0a8a358112ad391411d36ec36726ed521117b8cfc2ed35d363aae8853f10",
+      "bytes": 357374
+    },
+    "gallery/images/07682208ff6d707b340ead4ed71b426bfeeff1c5984adeea6928a97bb8808b7b/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-dd89a1ec31.jpg": {
+      "sha256": "07682208ff6d707b340ead4ed71b426bfeeff1c5984adeea6928a97bb8808b7b",
+      "bytes": 433421
+    },
+    "gallery/images/078914c0a6f9dfbf11862c1f7a231c9c6412ad44fa34b75afd018c244e536fe3/m27-dumbbell-nebula-4-5h-compare-native-72457c5537.jpg": {
+      "sha256": "078914c0a6f9dfbf11862c1f7a231c9c6412ad44fa34b75afd018c244e536fe3",
+      "bytes": 178677
+    },
+    "gallery/images/07dc0df2850ca066c2d5bebd8f556ef9ca765721889c80cdcbc8e940611cc440/m27-dumbbell-nebula-4-5h-detail-m27-89849ac3e0.jpg": {
+      "sha256": "07dc0df2850ca066c2d5bebd8f556ef9ca765721889c80cdcbc8e940611cc440",
+      "bytes": 125184
+    },
+    "gallery/images/0875ed81f13eb496912e545d9184c648340aa9da783b5fb1f609a04ccf75e84a/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-09cde870cb.jpg": {
+      "sha256": "0875ed81f13eb496912e545d9184c648340aa9da783b5fb1f609a04ccf75e84a",
+      "bytes": 2157067
+    },
+    "gallery/images/099ff7eea77aa5607afc52cc2575ec2254c330deb61289f7b2f45c1224d4feba/m52-ngc7635-bubble-nebula-5261ce4bc0.jpg": {
+      "sha256": "099ff7eea77aa5607afc52cc2575ec2254c330deb61289f7b2f45c1224d4feba",
+      "bytes": 545201
+    },
+    "gallery/images/09b6c9e49fe80e265c2061545d043e9ae934da3498cea9b94f2bdb0f1890b4ab/m49-10-mins-2e6826d2d1.jpg": {
+      "sha256": "09b6c9e49fe80e265c2061545d043e9ae934da3498cea9b94f2bdb0f1890b4ab",
+      "bytes": 450867
+    },
+    "gallery/images/0a84e7bc484feabc7a72a4fc478014b76ba2704adbd7d175f110e6c8e12c2ad0/ngc7380-wizard-nebula-s-2h35m-h-2h20m-o-2h15m-2f8e219ff2.jpg": {
+      "sha256": "0a84e7bc484feabc7a72a4fc478014b76ba2704adbd7d175f110e6c8e12c2ad0",
+      "bytes": 340173
+    },
+    "gallery/images/0bc55ef46827a64edf70996b185486f5ae95a9aaead3665178a4399ee7274ddc/m8-m20-lagoon-nebula-trifid-nebula-detail-trifid-compare-bortle-5-247-mi-3146cba308.jpg": {
+      "sha256": "0bc55ef46827a64edf70996b185486f5ae95a9aaead3665178a4399ee7274ddc",
+      "bytes": 1132725
+    },
+    "gallery/images/0bd20488881138526e341711468192249c59cfefe188337794aae4cfcec302c1/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-0fe14903d8.jpg": {
+      "sha256": "0bd20488881138526e341711468192249c59cfefe188337794aae4cfcec302c1",
+      "bytes": 1407178
+    },
+    "gallery/images/0c1bb2a8a7c50eea5a73193e126921166d75dabeaf5b56b344d34a1c526607b0/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-flam-ba9671eb9d.jpg": {
+      "sha256": "0c1bb2a8a7c50eea5a73193e126921166d75dabeaf5b56b344d34a1c526607b0",
+      "bytes": 223200
+    },
+    "gallery/images/0c1c2607dc0b48c7a5db0a4a78d39ab7dbf09619aa5d975bad00a472e036dc7a/m27-dumbbell-nebula-4-5h-compare-superres-b7a7764e99.jpg": {
+      "sha256": "0c1c2607dc0b48c7a5db0a4a78d39ab7dbf09619aa5d975bad00a472e036dc7a",
+      "bytes": 179878
+    },
+    "gallery/images/0d5b724ea3ab5bc354f38507e4fafdbf6dddf20966156b826a5faee8528caca8/m-64-46-minutes-detail-m-64-24515af949.jpg": {
+      "sha256": "0d5b724ea3ab5bc354f38507e4fafdbf6dddf20966156b826a5faee8528caca8",
+      "bytes": 54434
+    },
+    "gallery/images/0d7f3faa41e5b622486ac0112ca2f8b1d7aeed47acf247a5190c1e25386e42e4/ngc1579-northern-trifid-nebula-1-5h-detail-ngc1579-60e630ce6f.jpg": {
+      "sha256": "0d7f3faa41e5b622486ac0112ca2f8b1d7aeed47acf247a5190c1e25386e42e4",
+      "bytes": 92861
+    },
+    "gallery/images/0dabb167c3a97c04cd2bc76fcea693d818eba9d0419370c37fa7b8f8c3994819/ngc7000-north-america-nebula-2-hours-d5300-fma135-video-timelapse-poster-5bd50f00a2.jpg": {
+      "sha256": "0dabb167c3a97c04cd2bc76fcea693d818eba9d0419370c37fa7b8f8c3994819",
+      "bytes": 45776
+    },
+    "gallery/images/0e5ac7b89d4526af97d924daeeb13caf44a74d5389cd37de903665c9c6ffffe9/north-america-on-fire-ngc7000-figure-asiair-live-view-39b08be341.jpg": {
+      "sha256": "0e5ac7b89d4526af97d924daeeb13caf44a74d5389cd37de903665c9c6ffffe9",
+      "bytes": 108515
+    },
+    "gallery/images/0ef5b6640748afa51b09c531f4bcb4c655c39f586d324c5708aab7764d00f7a0/ngc2237-the-rosette-nebula-complex-hero-0d3f88d48d.jpg": {
+      "sha256": "0ef5b6640748afa51b09c531f4bcb4c655c39f586d324c5708aab7764d00f7a0",
+      "bytes": 1308337
+    },
+    "gallery/images/0f7ebe10adcb18a9c17484ec275c8a58b0c4cc11cd896041e31cb0d8484f78ae/sh2-157-ngc7635-m52-lobster-claw-bubble-5h-ha-2h-sii-9331214b86.jpg": {
+      "sha256": "0f7ebe10adcb18a9c17484ec275c8a58b0c4cc11cd896041e31cb0d8484f78ae",
+      "bytes": 913791
+    },
+    "gallery/images/1018dcffa05663fb9dc307d2929a08dadf59d9be79de0146a9e4091a1c75a4fa/m8-m20-lagoon-nebula-trifid-nebula-detail-lagoon-compare-bortle-5-247-mi-90cf426b4b.jpg": {
+      "sha256": "1018dcffa05663fb9dc307d2929a08dadf59d9be79de0146a9e4091a1c75a4fa",
+      "bytes": 1377609
+    },
+    "gallery/images/104c35bdf3d9887ac56e06da79366010056e2dfbd872e44b40080cdff77fe882/m-109-66-minutes-dfe0235be6.jpg": {
+      "sha256": "104c35bdf3d9887ac56e06da79366010056e2dfbd872e44b40080cdff77fe882",
+      "bytes": 162564
+    },
+    "gallery/images/10d104ab2edff579a17b20fa78f60248463540f6e6fa7507c9550343b810e94e/m42-m43-orion-4h-rgb-7h-ha-1h-sii-take-2-f3d41928b1.jpg": {
+      "sha256": "10d104ab2edff579a17b20fa78f60248463540f6e6fa7507c9550343b810e94e",
+      "bytes": 219900
+    },
+    "gallery/images/111ae223b747b67ce4ba6a9622313cc55945a5517791e302c12466566c5ff571/m25-36-mins-88babb7311.jpg": {
+      "sha256": "111ae223b747b67ce4ba6a9622313cc55945a5517791e302c12466566c5ff571",
+      "bytes": 490068
+    },
+    "gallery/images/117e229c4ec5e599631d75b9a17ae3a5999bfc9b16d906b4350df8ba99745e26/ngc2237-the-rosette-nebula-complex-detail-rosette-compare-hoo-5bab24ec24.jpg": {
+      "sha256": "117e229c4ec5e599631d75b9a17ae3a5999bfc9b16d906b4350df8ba99745e26",
+      "bytes": 4095324
+    },
+    "gallery/images/119557a0a4a574cfca5a21963a1b9c611727cf26791e31a533079cf1ee38bbb6/m27-dumbell-nebula-101-mins-7f58c7bce1.jpg": {
+      "sha256": "119557a0a4a574cfca5a21963a1b9c611727cf26791e31a533079cf1ee38bbb6",
+      "bytes": 142819
+    },
+    "gallery/images/119a6b48cc259d4852db8c815c6774560a82c1332b77994385dbeb1d0aa9eae4/m14-10-mins-b9dc2fce7a.jpg": {
+      "sha256": "119a6b48cc259d4852db8c815c6774560a82c1332b77994385dbeb1d0aa9eae4",
+      "bytes": 223165
+    },
+    "gallery/images/11e286bbc6caf0f12922823d3437a48e4e5ff200b667181d08440aba03e292c4/m40-35-mins-8205bd5ed8.jpg": {
+      "sha256": "11e286bbc6caf0f12922823d3437a48e4e5ff200b667181d08440aba03e292c4",
+      "bytes": 140944
+    },
+    "gallery/images/11ecf67ae2a15df95181f2ee821a5d1d5a9ae6ac5d61804075936a13730699c5/ngc2237-the-rosette-nebula-complex-detail-foxfur-compare-sho-cbcc7e0eaf.jpg": {
+      "sha256": "11ecf67ae2a15df95181f2ee821a5d1d5a9ae6ac5d61804075936a13730699c5",
+      "bytes": 721005
+    },
+    "gallery/images/1239579886a7367fad6dde6382c87710ae9dc104fe4c6b9e4b322a4ff43930c5/m56-20-mins-bba7f49d2d.jpg": {
+      "sha256": "1239579886a7367fad6dde6382c87710ae9dc104fe4c6b9e4b322a4ff43930c5",
+      "bytes": 371878
+    },
+    "gallery/images/125540c478af4995bd631681bc55d9201e8963b6bbfae6f3910a1f731d1fae52/ngc881-sliver-surfer-galaxy-4h-detail-ngc881-1733b2cbaa.jpg": {
+      "sha256": "125540c478af4995bd631681bc55d9201e8963b6bbfae6f3910a1f731d1fae52",
+      "bytes": 41853
+    },
+    "gallery/images/12ba71aa2d46846a5e0dbb321d948836e05ad8870fbb34eeb18a81ea9f7612e0/ngc2237-the-rosette-nebula-complex-compare-sho-e9ebbc9276.jpg": {
+      "sha256": "12ba71aa2d46846a5e0dbb321d948836e05ad8870fbb34eeb18a81ea9f7612e0",
+      "bytes": 610820
+    },
+    "gallery/images/130830c357855f06609980e37311d0c53b0486ff33515768c6634fe34c817cea/ngc7635-m52-bubble-nebula-254-minutes-ccdf7f471e.jpg": {
+      "sha256": "130830c357855f06609980e37311d0c53b0486ff33515768c6634fe34c817cea",
+      "bytes": 504617
+    },
+    "gallery/images/13249d6d827198b1ccfc8d47db2af5889dda992c1e657e6504ba517f76ed94f1/m31-andromeda-galaxy-25h-compare-after-at2026aabo-3205ac2ebd.jpg": {
+      "sha256": "13249d6d827198b1ccfc8d47db2af5889dda992c1e657e6504ba517f76ed94f1",
+      "bytes": 239417
+    },
+    "gallery/images/13dd8045fbf7343918b6b6bb84f81529553837b13ed4cd52152198ea41597a2c/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-224-minutes-detail-m2-0481835914.jpg": {
+      "sha256": "13dd8045fbf7343918b6b6bb84f81529553837b13ed4cd52152198ea41597a2c",
+      "bytes": 23891
+    },
+    "gallery/images/1484f5e5e844a29647a9000f964ecc6e69ad7d3e98352384e60df73c6deb2908/ngc6604-m16-m17-nest-eagle-swan-sho-10h-ha-13h-sii-76f99ec275.jpg": {
+      "sha256": "1484f5e5e844a29647a9000f964ecc6e69ad7d3e98352384e60df73c6deb2908",
+      "bytes": 295301
+    },
+    "gallery/images/14b345b11c618b1ce8a58adeb4c72ef8fc3cf7d5dd73f61395237e5bd64c116a/m42-ic434-orion-nebula-horsehead-nebula-3h-20m-c07d417bfa.jpg": {
+      "sha256": "14b345b11c618b1ce8a58adeb4c72ef8fc3cf7d5dd73f61395237e5bd64c116a",
+      "bytes": 302063
+    },
+    "gallery/images/14c417514be43e8140c0b61d116cc4bab87e0301eb0ad26c9e86301254575474/m42-orion-nebula-148m-56ef6de4f4.jpg": {
+      "sha256": "14c417514be43e8140c0b61d116cc4bab87e0301eb0ad26c9e86301254575474",
+      "bytes": 4991664
+    },
+    "gallery/images/152b2c518ea0c68b943c27391150d47885ed582e246f16278973b9d8958f5bf7/m17-swan-nebula-sho-7h-ha-10h-sii-3e952af80f.jpg": {
+      "sha256": "152b2c518ea0c68b943c27391150d47885ed582e246f16278973b9d8958f5bf7",
+      "bytes": 324341
+    },
+    "gallery/images/167fef875368aff9ca875b3d2b12f3036131059d3bc5ac6c35034bf204362db1/m84-m86-m88-m100-markarians-chain-157-mins-9de291dfc1.jpg": {
+      "sha256": "167fef875368aff9ca875b3d2b12f3036131059d3bc5ac6c35034bf204362db1",
+      "bytes": 466453
+    },
+    "gallery/images/17349b5aeac9a07708e210ff73fa47387f79af47f3c7af32ab509535e6201ab3/ngc2170-angel-nebula-1-5-hours-0dd6576bbe.jpg": {
+      "sha256": "17349b5aeac9a07708e210ff73fa47387f79af47f3c7af32ab509535e6201ab3",
+      "bytes": 431824
+    },
+    "gallery/images/1777ad550344aa64dc1fc44164528bc9ca05c9bd2f92e4bf0288e54eb675977d/milkyway-extended-cygnus-region-5h-f6ba307011.jpg": {
+      "sha256": "1777ad550344aa64dc1fc44164528bc9ca05c9bd2f92e4bf0288e54eb675977d",
+      "bytes": 572078
+    },
+    "gallery/images/183c6d6e1d951552e75ab895f49e1e9a8490faedd0bd3195b1f39985db477ad5/m8-m20-lagoon-nebula-trifid-nebula-detail-loretta-compare-bortle-5-247-m-5e201c8d73.jpg": {
+      "sha256": "183c6d6e1d951552e75ab895f49e1e9a8490faedd0bd3195b1f39985db477ad5",
+      "bytes": 1168373
+    },
+    "gallery/images/1910dd6469d23d7be403fcebec92ee2efe0aba6099a805ae3345925f767c8820/ngc281-pacman-nebula-mono-11h-62e37a0a13.jpg": {
+      "sha256": "1910dd6469d23d7be403fcebec92ee2efe0aba6099a805ae3345925f767c8820",
+      "bytes": 308886
+    },
+    "gallery/images/19db41f355d20af68b50e3c6a2800d891de04e8699033bea6c71687b30a0e6ce/m8-m20-lagoon-nebula-trifid-nebula-c55541e25c.jpg": {
+      "sha256": "19db41f355d20af68b50e3c6a2800d891de04e8699033bea6c71687b30a0e6ce",
+      "bytes": 494785
+    },
+    "gallery/images/1a0f8354bbeedd5e2b199fd024a558503da67542c794bed6390b07c7b4842e6a/ngc2237-the-rosette-nebula-complex-detail-rosette-compare-hoo-23cb215df1.jpg": {
+      "sha256": "1a0f8354bbeedd5e2b199fd024a558503da67542c794bed6390b07c7b4842e6a",
+      "bytes": 1465419
+    },
+    "gallery/images/1abb485a9f729169ba4e4ea02b21afcbdf510228f72174bd908a7ec733093d5b/ngc2237-rosette-nebula-43-mins-969527d3d7.jpg": {
+      "sha256": "1abb485a9f729169ba4e4ea02b21afcbdf510228f72174bd908a7ec733093d5b",
+      "bytes": 373220
+    },
+    "gallery/images/1b3a984edd8b9287804ba8123eec175991a2ac0fd104e7fdfb607389eb1e424c/ldn1235-ldn1217-dark-shark-nebula-wolfs-cave-nebula-6-5h-detail-ldn1217-2caf3668ff.jpg": {
+      "sha256": "1b3a984edd8b9287804ba8123eec175991a2ac0fd104e7fdfb607389eb1e424c",
+      "bytes": 233851
+    },
+    "gallery/images/1bb00d29940e4d292fc8db9bad77e8b26d98acbf80f759249f085b36feac8c1a/ngc281-pacman-nebula-compare-seestar-10h-3c8fd654ee.jpg": {
+      "sha256": "1bb00d29940e4d292fc8db9bad77e8b26d98acbf80f759249f085b36feac8c1a",
+      "bytes": 1697171
+    },
+    "gallery/images/1be45817e314fe8a6d870b8143e6bf2d3713df8bd12417049b4d516c604da144/milkyway-extended-cygnus-region-5h-compare-processed-2ee64d4115.jpg": {
+      "sha256": "1be45817e314fe8a6d870b8143e6bf2d3713df8bd12417049b4d516c604da144",
+      "bytes": 742999
+    },
+    "gallery/images/1cda9cc078c09519fac636b00616eec77f29376ea01819d2a6b7da0e80fb819d/ngc281-pacman-nebula-ha-5-5h-sii-5-5h-a5676d8399.jpg": {
+      "sha256": "1cda9cc078c09519fac636b00616eec77f29376ea01819d2a6b7da0e80fb819d",
+      "bytes": 1848891
+    },
+    "gallery/images/1d0699e3e87754b5a963c8fbd84034ae7a230c40d21d2cf8f798aa6a2c93edcc/ngc-1909-witches-head-nebula-138m-c1ba19b693.jpg": {
+      "sha256": "1d0699e3e87754b5a963c8fbd84034ae7a230c40d21d2cf8f798aa6a2c93edcc",
+      "bytes": 348515
+    },
+    "gallery/images/1d8706a5650dbefa0ed747f7b8b80a199f5e5876ba13da6e1157a9c3d3854a66/ldn1235-ldn1217-dark-shark-nebula-wolfs-cave-nebula-6-5h-detail-ldn1235-6ca80e8921.jpg": {
+      "sha256": "1d8706a5650dbefa0ed747f7b8b80a199f5e5876ba13da6e1157a9c3d3854a66",
+      "bytes": 276143
+    },
+    "gallery/images/1daf3d2ca13f1c43444d1396a063ac67f29c5f2f27196c8671efbf42e671d2ba/sh2188-firefox-nebula-8-hours-057f5734cd.jpg": {
+      "sha256": "1daf3d2ca13f1c43444d1396a063ac67f29c5f2f27196c8671efbf42e671d2ba",
+      "bytes": 170705
+    },
+    "gallery/images/1dcd6fd9b73eee48e5cf12d9f3d816b5c0177562fc7c325a8ae649d8bc3a2b91/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-6acd9f3688.jpg": {
+      "sha256": "1dcd6fd9b73eee48e5cf12d9f3d816b5c0177562fc7c325a8ae649d8bc3a2b91",
+      "bytes": 229455
+    },
+    "gallery/images/1e542d5ac3c0698e0d503357c3421a2426293ad79848c78446bdf8d686cdff25/m65-m66-leos-triplet-197-minutes-85ef096da1.jpg": {
+      "sha256": "1e542d5ac3c0698e0d503357c3421a2426293ad79848c78446bdf8d686cdff25",
+      "bytes": 444614
+    },
+    "gallery/images/1ea36ef1ace950cc0cf2902eb1aa934fc2f52331c185b415b2bd75055f030961/milkyway-extended-cygnus-region-5h-compare-processed-e3c65ff8d9.jpg": {
+      "sha256": "1ea36ef1ace950cc0cf2902eb1aa934fc2f52331c185b415b2bd75055f030961",
+      "bytes": 1643600
+    },
+    "gallery/images/1f2c1e845f9f6f1b50af25223c5a5fff68d09e11cf34f0f007529d5970cec78e/m8-m20-lagoon-nebula-trifid-nebula-detail-trifid-compare-bortle-5-247-mi-9b866c2065.jpg": {
+      "sha256": "1f2c1e845f9f6f1b50af25223c5a5fff68d09e11cf34f0f007529d5970cec78e",
+      "bytes": 318164
+    },
+    "gallery/images/1f8d1574b9954655bc90efe9a545f12f2ec38b79e91f7494d2ce711431523a3a/m8-m20-lagoon-nebula-trifid-nebula-detail-loretta-compare-bortle-2-49-mi-acf3bfa6fd.jpg": {
+      "sha256": "1f8d1574b9954655bc90efe9a545f12f2ec38b79e91f7494d2ce711431523a3a",
+      "bytes": 1198759
+    },
+    "gallery/images/21deb6366ab48e977e0a3bbbfd7a60960c303a4da68680effad997771b9d4cba/ngc1491-fossil-footprint-nebula-3-hours-detail-ngc1491-a9744c57fb.jpg": {
+      "sha256": "21deb6366ab48e977e0a3bbbfd7a60960c303a4da68680effad997771b9d4cba",
+      "bytes": 137661
+    },
+    "gallery/images/2223b59b64e2ecd9489f8be552f7487fab58cf23b14d8dcc6817f83928c06949/m71-25-mins-3a452b1918.jpg": {
+      "sha256": "2223b59b64e2ecd9489f8be552f7487fab58cf23b14d8dcc6817f83928c06949",
+      "bytes": 298306
+    },
+    "gallery/images/2288d6bedf5872906da1e6de0876b0bdfa1e62231daf6d1a819c9a92e6357d7d/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-take-68a2411d16.jpg": {
+      "sha256": "2288d6bedf5872906da1e6de0876b0bdfa1e62231daf6d1a819c9a92e6357d7d",
+      "bytes": 271356
+    },
+    "gallery/images/2293b56aa66e42314d9b1ea166e7bfc629b56dcb26edefe070aa064b157873aa/ngc7000-north-america-nebula-2-hours-d5300-fma135-annotated-compare-18913ae167.jpg": {
+      "sha256": "2293b56aa66e42314d9b1ea166e7bfc629b56dcb26edefe070aa064b157873aa",
+      "bytes": 8601939
+    },
+    "gallery/images/23149a2e2e1e81a7baaf0d5add7a512f1ee41da894e6e0f975b848a6125bcd05/ngc7023-iris-nebula-13-hours-0687bcd96e.jpg": {
+      "sha256": "23149a2e2e1e81a7baaf0d5add7a512f1ee41da894e6e0f975b848a6125bcd05",
+      "bytes": 732600
+    },
+    "gallery/images/23719392333c0f830abb079db9c650f91e50e558c71b1b1006fb38cf171af101/m87-with-visible-relativistic-black-hole-jet-detail-m87-3dfe4cb4d8.jpg": {
+      "sha256": "23719392333c0f830abb079db9c650f91e50e558c71b1b1006fb38cf171af101",
+      "bytes": 8816
+    },
+    "gallery/images/237da76f617caf6dad73b465e595625f46e8db30aed593633f3b3048bc866d69/ngc7331-deer-lick-group-detail-wide-starless-eebdc2843e.jpg": {
+      "sha256": "237da76f617caf6dad73b465e595625f46e8db30aed593633f3b3048bc866d69",
+      "bytes": 72149
+    },
+    "gallery/images/23a39505929840b07f963859fce9819fa8b952f0e654d94820f1070d5eb01099/ic434-m42-m43-horsehead-nebula-orion-nebula-20-hours-ae2a82b05e.jpg": {
+      "sha256": "23a39505929840b07f963859fce9819fa8b952f0e654d94820f1070d5eb01099",
+      "bytes": 129723
+    },
+    "gallery/images/240f026b922d33f916ea104de3d230cc5d853277bae4e6be3e45bb0401c65cb1/ic1805-ic1848-heart-nebula-soul-nebula-compare-draft-1d131dfda4.jpg": {
+      "sha256": "240f026b922d33f916ea104de3d230cc5d853277bae4e6be3e45bb0401c65cb1",
+      "bytes": 3001167
+    },
+    "gallery/images/24144ec0ae011ac4c609437ad021fc83a9beab4325189b4493c6f7f7c663e656/m72-16-mins-b2d60454a0.jpg": {
+      "sha256": "24144ec0ae011ac4c609437ad021fc83a9beab4325189b4493c6f7f7c663e656",
+      "bytes": 240023
+    },
+    "gallery/images/2418fd9c0fc23c7bdf609fd04d6d7fe2fd49ab16541757377adea620ad2479d1/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-bd08daed63.jpg": {
+      "sha256": "2418fd9c0fc23c7bdf609fd04d6d7fe2fd49ab16541757377adea620ad2479d1",
+      "bytes": 1511173
+    },
+    "gallery/images/241aaa2842ba6a69c92156f41c2bdb0c9d0787b254b9de7ccb17f1d0c2405741/ic434-horsehead-nebula-2h15m-a0fa83b3b0.jpg": {
+      "sha256": "241aaa2842ba6a69c92156f41c2bdb0c9d0787b254b9de7ccb17f1d0c2405741",
+      "bytes": 3974863
+    },
+    "gallery/images/250f1daa5fa8b09ed1e24806e84c7ec500c5f86fea0f0a1b42f97d6a0a1ea6e8/m42-m43-orion-12-hours-detail-m43-dec20c5729.jpg": {
+      "sha256": "250f1daa5fa8b09ed1e24806e84c7ec500c5f86fea0f0a1b42f97d6a0a1ea6e8",
+      "bytes": 17389
+    },
+    "gallery/images/252dd0985aa144858056026613ffd6ce0dad68a777e171428d378634104439f0/ngc881-sliver-surfer-galaxy-4h-291c60fdb7.jpg": {
+      "sha256": "252dd0985aa144858056026613ffd6ce0dad68a777e171428d378634104439f0",
+      "bytes": 321033
+    },
+    "gallery/images/255337fcc89c9223cf4ab39a950e1f393f0347ab2576e048388cac0e5bbdbdd6/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-d296a7abba.jpg": {
+      "sha256": "255337fcc89c9223cf4ab39a950e1f393f0347ab2576e048388cac0e5bbdbdd6",
+      "bytes": 73776
+    },
+    "gallery/images/257bbe2091efefae3fe36bd876b95d6f83f06701dd994e27c66fd48b34fd7c62/m20-m21-trifid-nebula-webbs-cross-75-minutes-tweaked-8874dc0d5e.jpg": {
+      "sha256": "257bbe2091efefae3fe36bd876b95d6f83f06701dd994e27c66fd48b34fd7c62",
+      "bytes": 257742
+    },
+    "gallery/images/259ac41b4a90b821b78032a228332712c98fbf8ba4b684578c7076f5ccf9c4d8/m1-crab-nebula-3-45-hours-4c038997aa.jpg": {
+      "sha256": "259ac41b4a90b821b78032a228332712c98fbf8ba4b684578c7076f5ccf9c4d8",
+      "bytes": 82594
+    },
+    "gallery/images/25a29e48530187b661b2b0ce27d5e31a47222aecb0866d00b05d3e0a71e90282/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-a1176e25a2.jpg": {
+      "sha256": "25a29e48530187b661b2b0ce27d5e31a47222aecb0866d00b05d3e0a71e90282",
+      "bytes": 5347586
+    },
+    "gallery/images/2632f947f5536d531c095cc0056a5c43b80a15510127b15f468530955390fd55/m17-swan-nebula-sho-7h-ha-10h-sii-detail-m17-daaab86e90.jpg": {
+      "sha256": "2632f947f5536d531c095cc0056a5c43b80a15510127b15f468530955390fd55",
+      "bytes": 284172
+    },
+    "gallery/images/2640f260373863eb5c3a0766e61ea91973edcec5ef9498f43a37307f10a1dbcc/ic1318-sadr-region-5c12c93d31.jpg": {
+      "sha256": "2640f260373863eb5c3a0766e61ea91973edcec5ef9498f43a37307f10a1dbcc",
+      "bytes": 926549
+    },
+    "gallery/images/267898ec6142acecfcdd72fdab13fb2cfbd4b71a4b939d72fe1bcdf4f9053665/m13-33-mins-9cf150a13e.jpg": {
+      "sha256": "267898ec6142acecfcdd72fdab13fb2cfbd4b71a4b939d72fe1bcdf4f9053665",
+      "bytes": 132054
+    },
+    "gallery/images/26795d8371e4bd4d107cf0ff0abcd96c3c0c249346fd350f4ff1b8901606b860/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-3c3c232be0.jpg": {
+      "sha256": "26795d8371e4bd4d107cf0ff0abcd96c3c0c249346fd350f4ff1b8901606b860",
+      "bytes": 3082703
+    },
+    "gallery/images/2690f780b559d97549037a4330117dfc896da57d407ece6a5ec294d3ced2f792/ngc7331-deer-lick-group-compare-after-sn2026aaiv-ff740db793.jpg": {
+      "sha256": "2690f780b559d97549037a4330117dfc896da57d407ece6a5ec294d3ced2f792",
+      "bytes": 66362
+    },
+    "gallery/images/26c8c24a6010608aefcee275cc6ff1acfc1aa90a18478639a0989668e086ed7d/m100-42-mins-detail-m100-b06a610677.jpg": {
+      "sha256": "26c8c24a6010608aefcee275cc6ff1acfc1aa90a18478639a0989668e086ed7d",
+      "bytes": 22794
+    },
+    "gallery/images/2844c0049f17522fa5ec330d4d33472e4fc043af7dc869e442bc0365be1e69f6/ic1805-heart-nebula-145-minutes-3d31e4834f.jpg": {
+      "sha256": "2844c0049f17522fa5ec330d4d33472e4fc043af7dc869e442bc0365be1e69f6",
+      "bytes": 530446
+    },
+    "gallery/images/291792873b60d4f3482ba6fadb0a52e301e3d7931ab54839da13524faf91292d/ic1396-elephant-trunk-nebula-11-hours-compare-sho-962a5bb89a.jpg": {
+      "sha256": "291792873b60d4f3482ba6fadb0a52e301e3d7931ab54839da13524faf91292d",
+      "bytes": 1845415
+    },
+    "gallery/images/2a89b43dfdb06f25c1a628d951e12e0cfcb1284b7b7d781eade4b7d88f5ac2ee/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--3e4b5a5852.jpg": {
+      "sha256": "2a89b43dfdb06f25c1a628d951e12e0cfcb1284b7b7d781eade4b7d88f5ac2ee",
+      "bytes": 14763
+    },
+    "gallery/images/2b288a79869ecead7c7cce55bc62e38e6b3b293af824b1dca4d2b6fc7bb37104/ic417-ic410-ic405-spider-nebula-tadpoles-nebula-flaming-star-nebula-13h--881de9cb0e.jpg": {
+      "sha256": "2b288a79869ecead7c7cce55bc62e38e6b3b293af824b1dca4d2b6fc7bb37104",
+      "bytes": 366351
+    },
+    "gallery/images/2c529932ff2685609d07c2b7c97df4bad78827c72b3011356a557a081b61eed8/ngc2264-cone-nebula-6-5h-3a1a11460c.jpg": {
+      "sha256": "2c529932ff2685609d07c2b7c97df4bad78827c72b3011356a557a081b61eed8",
+      "bytes": 298772
+    },
+    "gallery/images/2d498785a852e9afdd5eb3bf67068ebb72cd7fb65d10284d69c4a1386cffb7da/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-2f27fc657f.jpg": {
+      "sha256": "2d498785a852e9afdd5eb3bf67068ebb72cd7fb65d10284d69c4a1386cffb7da",
+      "bytes": 4058259
+    },
+    "gallery/images/2d724374b753cd60640a774b2f8ddc673103b63871a6dcc1dd7eaf590b2dfaac/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-e3b5bee4dd.jpg": {
+      "sha256": "2d724374b753cd60640a774b2f8ddc673103b63871a6dcc1dd7eaf590b2dfaac",
+      "bytes": 2257459
+    },
+    "gallery/images/2e0272111947981dd0c757a484ae9d0f37a18c9acd6fc31489437d65f116f723/ngc-281-pacman-nebula-lextreme-compare-8a3068d0cc.jpg": {
+      "sha256": "2e0272111947981dd0c757a484ae9d0f37a18c9acd6fc31489437d65f116f723",
+      "bytes": 222408
+    },
+    "gallery/images/2e2e80f683e59756e8b54cc99d478809a13efb72926f9f2007711c3461165361/m81-m82-bodes-galaxy-cigar-galaxy-10-5h-rgb-7h-ha-1192c388a5.jpg": {
+      "sha256": "2e2e80f683e59756e8b54cc99d478809a13efb72926f9f2007711c3461165361",
+      "bytes": 165596
+    },
+    "gallery/images/2ea7f771f1780b6748b26646df31dce55a080efb3ad1e795d25dbf15451bc020/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-636b00f162.jpg": {
+      "sha256": "2ea7f771f1780b6748b26646df31dce55a080efb3ad1e795d25dbf15451bc020",
+      "bytes": 398091
+    },
+    "gallery/images/2ea86262250f247390e6461fd22508b4c080c4fafb276ef9b620b7676895f893/ngc7380-wizard-nebula-6h-ha-3h-sii-4bfd9e3e90.jpg": {
+      "sha256": "2ea86262250f247390e6461fd22508b4c080c4fafb276ef9b620b7676895f893",
+      "bytes": 159056
+    },
+    "gallery/images/2f1939e9f3e61b83fb0b97cf8bdbd67ddcf4b5812aa625f71a113d5655f42e84/m31-m32-m110-andromeda-galaxy-4h-rgb-5h-ha-warm-detail-m110-e4192823af.jpg": {
+      "sha256": "2f1939e9f3e61b83fb0b97cf8bdbd67ddcf4b5812aa625f71a113d5655f42e84",
+      "bytes": 7756
+    },
+    "gallery/images/2f684acc125df1f34b04a0121524a7969137f92873cf79bdf36848df97cb4d18/m16-m17-eagle-nebula-swan-nebula-9h-sii-5h-ha-42fb873730.jpg": {
+      "sha256": "2f684acc125df1f34b04a0121524a7969137f92873cf79bdf36848df97cb4d18",
+      "bytes": 171523
+    },
+    "gallery/images/2f69ec17be356be20dc92c9fae981e4e52f1563534adb5b69ade6f26af73fc33/m98-m99-20-minutes-ce5b440992.jpg": {
+      "sha256": "2f69ec17be356be20dc92c9fae981e4e52f1563534adb5b69ade6f26af73fc33",
+      "bytes": 471338
+    },
+    "gallery/images/3062e02881eabe01830610795a2386640d9e53f1d81444252321e90898652652/ngc281-pacman-nebula-compare-dual-narrowband-11h-5dd34e7ec7.jpg": {
+      "sha256": "3062e02881eabe01830610795a2386640d9e53f1d81444252321e90898652652",
+      "bytes": 1720998
+    },
+    "gallery/images/30b3b0fd65b34b42949a25e947346a5043816eef9320b3d3d356cb14b68544e6/ic1805-ic1848-heart-nebula-soul-nebula-variant-detail-stars-and-heart-0262a6c8ab.jpg": {
+      "sha256": "30b3b0fd65b34b42949a25e947346a5043816eef9320b3d3d356cb14b68544e6",
+      "bytes": 413202
+    },
+    "gallery/images/30d1955469e1b7f09dad3b88bb68e76d2d33f49d41f799f777f1106dd603a0b8/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--3a4741213c.jpg": {
+      "sha256": "30d1955469e1b7f09dad3b88bb68e76d2d33f49d41f799f777f1106dd603a0b8",
+      "bytes": 6391
+    },
+    "gallery/images/311def9d74d0cb945a011f2caf510aafe4370c2984bc8238747a33939e7ac266/m8-m20-lagoon-nebula-trifid-nebula-detail-lagoon-compare-bortle-2-49-min-185c65eca0.jpg": {
+      "sha256": "311def9d74d0cb945a011f2caf510aafe4370c2984bc8238747a33939e7ac266",
+      "bytes": 1470004
+    },
+    "gallery/images/313aca19fd1dd8c6ae70e13aa43d044482b9bebb638e3bbc943a127933e2f7c2/m57-3-hours-06a157f2ef.jpg": {
+      "sha256": "313aca19fd1dd8c6ae70e13aa43d044482b9bebb638e3bbc943a127933e2f7c2",
+      "bytes": 29288
+    },
+    "gallery/images/32d1efc5e4fcf734e8b125d318eab9833bcff39717987aa2576b6020505e4752/m2-30-mins-4d8f88fb51.jpg": {
+      "sha256": "32d1efc5e4fcf734e8b125d318eab9833bcff39717987aa2576b6020505e4752",
+      "bytes": 209488
+    },
+    "gallery/images/32e4af222570ade7c7bd643964f48476431fa609620213503836cc62b076a0d0/m77-16-mins-955eced947.jpg": {
+      "sha256": "32e4af222570ade7c7bd643964f48476431fa609620213503836cc62b076a0d0",
+      "bytes": 183301
+    },
+    "gallery/images/32f1f79c5aaaf738dca030cb271480f148a86e1c4b4f590f7a89aa66c3f85f75/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-tadp-98e10028ad.jpg": {
+      "sha256": "32f1f79c5aaaf738dca030cb271480f148a86e1c4b4f590f7a89aa66c3f85f75",
+      "bytes": 122924
+    },
+    "gallery/images/338eb5aa3a1e31ae852a8c182736c9eff55e5028d469240951c2904e26929fdf/milkyway-cygnus-vulpecula-2-hours-cfa45d34f6.jpg": {
+      "sha256": "338eb5aa3a1e31ae852a8c182736c9eff55e5028d469240951c2904e26929fdf",
+      "bytes": 1156022
+    },
+    "gallery/images/34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267/milkyway-sagittarius-1-hour-b5c78dcfe7.jpg": {
+      "sha256": "34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267",
+      "bytes": 479420
+    },
+    "gallery/images/34dd3730d4b29a0458b7e2eaf56565f8a434d006fb8f88c17464dbb52965c365/stowe-captures-0f8a381457.jpg": {
+      "sha256": "34dd3730d4b29a0458b7e2eaf56565f8a434d006fb8f88c17464dbb52965c365",
+      "bytes": 500709
+    },
+    "gallery/images/34ed270d435508f15e3ad17e6bd0d0208f9f79ad24e115b139039c3d31c950de/m34-53-minutes-27956fd610.jpg": {
+      "sha256": "34ed270d435508f15e3ad17e6bd0d0208f9f79ad24e115b139039c3d31c950de",
+      "bytes": 539606
+    },
+    "gallery/images/362ad926810b7c88a140640adf3ed0d98e882bd6ec5442e4785631679dd613ac/ngc6960-veil-nebula-2h-20m-hero-d6d38dc226.jpg": {
+      "sha256": "362ad926810b7c88a140640adf3ed0d98e882bd6ec5442e4785631679dd613ac",
+      "bytes": 2471202
+    },
+    "gallery/images/36f9fad1a9d42f7373513b0111d2e239c665c075f82a9d0f9278154ab265448d/m8-lagoon-nebula-105-minutes-54576e1336.jpg": {
+      "sha256": "36f9fad1a9d42f7373513b0111d2e239c665c075f82a9d0f9278154ab265448d",
+      "bytes": 198848
+    },
+    "gallery/images/3718826ed73ce8451190611ba825f5cc4b11cdb7597d1ed7ad899f9624c198c4/m81-m82-bodes-galaxy-cigar-galaxy-198-minutes-2584a7d7c4.jpg": {
+      "sha256": "3718826ed73ce8451190611ba825f5cc4b11cdb7597d1ed7ad899f9624c198c4",
+      "bytes": 237722
+    },
+    "gallery/images/3735d9f87a6d5efbee6b10d0440308f96a46e37258fb3ebdcd6e8495e0530a5d/ngc7331-deer-lick-group-figure-hubble-potw1805a-7145e2fd89.jpg": {
+      "sha256": "3735d9f87a6d5efbee6b10d0440308f96a46e37258fb3ebdcd6e8495e0530a5d",
+      "bytes": 245298
+    },
+    "gallery/images/37ad316f0ef25b6b2df73870c881713e6da2d00a1ef8b096dd7728d183608901/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-sho-12h-ha-12h-sv-e119bebf86.jpg": {
+      "sha256": "37ad316f0ef25b6b2df73870c881713e6da2d00a1ef8b096dd7728d183608901",
+      "bytes": 482081
+    },
+    "gallery/images/39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879/ngc7331-deer-lick-region-148-mins-2584d03210.jpg": {
+      "sha256": "39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879",
+      "bytes": 101919
+    },
+    "gallery/images/3a1d02294100e6ff1749fc977527ad7563ab9ff753b2a8208ffe5d482684ab8f/ngc1491-fossil-footprint-nebula-3-hours-e2c66a5d52.jpg": {
+      "sha256": "3a1d02294100e6ff1749fc977527ad7563ab9ff753b2a8208ffe5d482684ab8f",
+      "bytes": 192746
+    },
+    "gallery/images/3a1dd62e62bdea370251297edf726acbb83eed2c32a5656dfadfd54f0a29ffee/m8-m20-lagoon-nebula-trifid-nebula-compare-bortle-2-49-mins-41890c66c5.jpg": {
+      "sha256": "3a1dd62e62bdea370251297edf726acbb83eed2c32a5656dfadfd54f0a29ffee",
+      "bytes": 1940777
+    },
+    "gallery/images/3a303cf15bbc2f1b3dee281f259519636bc23006245fab47fd7e8394cd87ce76/m52-ngc7635-bubble-nebula-compare-sho-9a36c4f125.jpg": {
+      "sha256": "3a303cf15bbc2f1b3dee281f259519636bc23006245fab47fd7e8394cd87ce76",
+      "bytes": 1758097
+    },
+    "gallery/images/3a9b6fdf09fcb41afeac23b1a5e974c6c70795db2c907e0a0656da7245475035/ngc-281-pacman-nebula-sho-compare-9b9ace015a.jpg": {
+      "sha256": "3a9b6fdf09fcb41afeac23b1a5e974c6c70795db2c907e0a0656da7245475035",
+      "bytes": 563539
+    },
+    "gallery/images/3b44356128487d8d7d4f056746ef09c0e4b5e5e90d226ea8b8e0297507eff94d/ngc281-pacman-nebula-5-6ha-4-3sii-62cd5362b6.jpg": {
+      "sha256": "3b44356128487d8d7d4f056746ef09c0e4b5e5e90d226ea8b8e0297507eff94d",
+      "bytes": 227245
+    },
+    "gallery/images/3b8ffcf59257260f40392b53c7b4bc7df09454ebee7f7ba2cb447cbf963023c3/m-12-29-mins-6db18afdf0.jpg": {
+      "sha256": "3b8ffcf59257260f40392b53c7b4bc7df09454ebee7f7ba2cb447cbf963023c3",
+      "bytes": 289237
+    },
+    "gallery/images/3bb6ad2ac5428d27121fe39e0fb32636bbe3729488514ac2d329fe4b9e1946b9/ngc-281-pacman-nebula-sv220-compare-fa4dd1912d.jpg": {
+      "sha256": "3bb6ad2ac5428d27121fe39e0fb32636bbe3729488514ac2d329fe4b9e1946b9",
+      "bytes": 800059
+    },
+    "gallery/images/3be14e2b71c7c6b682fa840dd1d8cc0be41bd2dc914a543b4969703152afc396/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-take-fcd717d615.jpg": {
+      "sha256": "3be14e2b71c7c6b682fa840dd1d8cc0be41bd2dc914a543b4969703152afc396",
+      "bytes": 328410
+    },
+    "gallery/images/3c5af6a8b427779e438a31d079fd4d509c8a7f46f3a30c15432337c65a027478/ngc7000-north-america-nebula-2-hours-d5300-fma135-raw-compare-5ca3a7df63.jpg": {
+      "sha256": "3c5af6a8b427779e438a31d079fd4d509c8a7f46f3a30c15432337c65a027478",
+      "bytes": 5609380
+    },
+    "gallery/images/3d18355eb289c5006ec6fabdef907f2273ebb6a0d2bd390b4cadf910cbbfea8f/ic417-ic410-ic405-spider-nebula-tadpoles-nebula-flaming-star-nebula-13h-66ff9b5da1.jpg": {
+      "sha256": "3d18355eb289c5006ec6fabdef907f2273ebb6a0d2bd390b4cadf910cbbfea8f",
+      "bytes": 642982
+    },
+    "gallery/images/3e0676ec9bc84a716f49969e4f519e6c4080cf456d414dd075401eb0f11e5cc6/north-america-on-fire-ngc7000-figure-processing-autostretch-24c8fc491c.jpg": {
+      "sha256": "3e0676ec9bc84a716f49969e4f519e6c4080cf456d414dd075401eb0f11e5cc6",
+      "bytes": 250623
+    },
+    "gallery/images/3e55cd96b9218fc663317e09ac3fae14d5ecbc2918bbf764d97845caf4b624f8/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-bf40fd6219.jpg": {
+      "sha256": "3e55cd96b9218fc663317e09ac3fae14d5ecbc2918bbf764d97845caf4b624f8",
+      "bytes": 2748422
+    },
+    "gallery/images/3e76ad30cd94d5d802550ff0acc6e28f78a81a703221dc4024dc367a428143b3/m27-dumbell-nebula-29-mins-23a7939c3b.jpg": {
+      "sha256": "3e76ad30cd94d5d802550ff0acc6e28f78a81a703221dc4024dc367a428143b3",
+      "bytes": 277534
+    },
+    "gallery/images/3fb9a6e367cd00e484ff368c16f61808a8b1067947992c8f5822d562f10d9dbe/m76-43-mins-018f0b889b.jpg": {
+      "sha256": "3fb9a6e367cd00e484ff368c16f61808a8b1067947992c8f5822d562f10d9dbe",
+      "bytes": 158643
+    },
+    "gallery/images/3feafbab179c3bcaefc029901d93c2e60d30cf2e2efc5f5d3109e00b1457955b/m97-m108-owl-nebula-surfboard-galaxy-8-hours-365515b255.jpg": {
+      "sha256": "3feafbab179c3bcaefc029901d93c2e60d30cf2e2efc5f5d3109e00b1457955b",
+      "bytes": 313809
+    },
+    "gallery/images/4091749a959ad5eaf06bd13c9c53ad289159a16a954d6971a52658ac61d1f8e1/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-sho-12h-ha-12h-sv-det-a9523a44cc.jpg": {
+      "sha256": "4091749a959ad5eaf06bd13c9c53ad289159a16a954d6971a52658ac61d1f8e1",
+      "bytes": 154172
+    },
+    "gallery/images/40d073526639dfca6f0b6adcc9e009b10b6f650dbfb599598e3dcd42a2ff8c21/ic1805-heart-nebula-51-mins-0770eab29b.jpg": {
+      "sha256": "40d073526639dfca6f0b6adcc9e009b10b6f650dbfb599598e3dcd42a2ff8c21",
+      "bytes": 576573
+    },
+    "gallery/images/40dac05896175d4b9fec34b5488f5a5d59d44d1e1d9c4c8c2732e620c1366c93/milkyway-andromeda-perseus-cassiopeia-7-hours-ba79374cc1.jpg": {
+      "sha256": "40dac05896175d4b9fec34b5488f5a5d59d44d1e1d9c4c8c2732e620c1366c93",
+      "bytes": 778486
+    },
+    "gallery/images/42afb0415551ef8ffeb298cb4f3cae4e561036d1c2762848ad1374d4926c8612/m31-andromeda-galaxy-25h-626963ee49.jpg": {
+      "sha256": "42afb0415551ef8ffeb298cb4f3cae4e561036d1c2762848ad1374d4926c8612",
+      "bytes": 318528
+    },
+    "gallery/images/43fa90fbd62b3e8677d64bda451d0f44e84e45bd0fb46dc9f0550dff197cf749/ic1396-elephant-trunk-nebula-11-hours-detail-banner-78e86d5ba5.jpg": {
+      "sha256": "43fa90fbd62b3e8677d64bda451d0f44e84e45bd0fb46dc9f0550dff197cf749",
+      "bytes": 416671
+    },
+    "gallery/images/44239a9aff13016f374f0351067643d16b9bd3439d59901e58a0ba4bc18ac223/ngc281-pacman-nebula-cb9816e3c4.jpg": {
+      "sha256": "44239a9aff13016f374f0351067643d16b9bd3439d59901e58a0ba4bc18ac223",
+      "bytes": 230810
+    },
+    "gallery/images/44caac1caa681a33b139c893d45b64f5db50b45512f20f6bc2393d2eca0d160b/ic1805-heart-nebula-145-minutes-faux-sho-6c1a866d85.jpg": {
+      "sha256": "44caac1caa681a33b139c893d45b64f5db50b45512f20f6bc2393d2eca0d160b",
+      "bytes": 533516
+    },
+    "gallery/images/45851ee5d36d0985af3224c44fd4311c6300ec4d03505b4437d0d8eb1eaeeb16/m31-andromeda-galaxy-25h-compare-before-at2026aabo-04a242bebe.jpg": {
+      "sha256": "45851ee5d36d0985af3224c44fd4311c6300ec4d03505b4437d0d8eb1eaeeb16",
+      "bytes": 281446
+    },
+    "gallery/images/45abb29cedd2785126c1d9cda016a1ec0ff0b22d160168abcd5c25a76e8ccd4a/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-m36-c94116fcd2.jpg": {
+      "sha256": "45abb29cedd2785126c1d9cda016a1ec0ff0b22d160168abcd5c25a76e8ccd4a",
+      "bytes": 19348
+    },
+    "gallery/images/485778ab2f7964a53570646a3ff55a02efd61b2cd10b003b5a9aa32876ab961b/m51-whirlpool-26-hours-df4ac2a879.jpg": {
+      "sha256": "485778ab2f7964a53570646a3ff55a02efd61b2cd10b003b5a9aa32876ab961b",
+      "bytes": 304565
+    },
+    "gallery/images/48b33d6036acb18c08d8ccbb0511188c7b2fea12a8ff1140c4cbf2eac05bcfc7/ngc7635-bubble-nebula-1h45m-9b8ab02182.jpg": {
+      "sha256": "48b33d6036acb18c08d8ccbb0511188c7b2fea12a8ff1140c4cbf2eac05bcfc7",
+      "bytes": 263152
+    },
+    "gallery/images/4924d6da367a2777bf35367b6a1c79b5d62e083951b89ec56dd06b28eb140ed2/ngc-281-pacman-nebula-lextreme-compare-549e28c8dc.jpg": {
+      "sha256": "4924d6da367a2777bf35367b6a1c79b5d62e083951b89ec56dd06b28eb140ed2",
+      "bytes": 784300
+    },
+    "gallery/images/4a2532461547be1aadfd0a31e6d106c6e5279503c29f32eca2e6f9856cffb850/north-america-on-fire-ngc7000-figure-processing-red-channel-7ae2dd571a.jpg": {
+      "sha256": "4a2532461547be1aadfd0a31e6d106c6e5279503c29f32eca2e6f9856cffb850",
+      "bytes": 163941
+    },
+    "gallery/images/4a95f042c092ac0753f14e16cf0e0de1cfb99c858c9bb7f02286af183f8e06a0/ldn1235-ldn1217-dark-shark-nebula-wolfs-cave-nebula-6-5h-hero-62df1429b8.jpg": {
+      "sha256": "4a95f042c092ac0753f14e16cf0e0de1cfb99c858c9bb7f02286af183f8e06a0",
+      "bytes": 1254584
+    },
+    "gallery/images/4ae9a979f4d899becd5f46f1a48f39baa9dceeb65b07385ff2e357778f2f293d/ic1396-elephant-trunk-nebula-11-hours-detail-wallpaper-ba6eadbe3b.jpg": {
+      "sha256": "4ae9a979f4d899becd5f46f1a48f39baa9dceeb65b07385ff2e357778f2f293d",
+      "bytes": 438921
+    },
+    "gallery/images/4c4a702c90291f2f3e9eaafdb998efa2dcd2fa62a0a88756240bad2bdce00819/sh2-157-ngc7635-m52-lobster-claw-bubble-4ha-2sii-911ebd3d66.jpg": {
+      "sha256": "4c4a702c90291f2f3e9eaafdb998efa2dcd2fa62a0a88756240bad2bdce00819",
+      "bytes": 558921
+    },
+    "gallery/images/4cd05492d39d7ee3820a626b2f49028252a756048b8ae7bc5edcc021e2115a04/m51-whirlpool-386-mins-191e3ab8b8.jpg": {
+      "sha256": "4cd05492d39d7ee3820a626b2f49028252a756048b8ae7bc5edcc021e2115a04",
+      "bytes": 324905
+    },
+    "gallery/images/4f525c70a9a2ff5d1ceccca12a3d32b50ff558cf8993d1fbfd18adcdeede3b53/m87-with-visible-relativistic-black-hole-jet-05c4c05246.jpg": {
+      "sha256": "4f525c70a9a2ff5d1ceccca12a3d32b50ff558cf8993d1fbfd18adcdeede3b53",
+      "bytes": 19655
+    },
+    "gallery/images/5085f6992cad82130a9c20d74eb95e3deb2213689422e16f3e4fabf430007ad7/ngc2237-the-rosette-nebula-complex-compare-hoo-15a39c2100.jpg": {
+      "sha256": "5085f6992cad82130a9c20d74eb95e3deb2213689422e16f3e4fabf430007ad7",
+      "bytes": 1852200
+    },
+    "gallery/images/531c6bf687b34446fbe9a323deb9447fb1f866179e9c45e0b6d032aeb4e8090d/ngc7000-ic5070-ic1318-north-america-nebula-pelican-nebula-butterfly-nebu-a761af9d12.jpg": {
+      "sha256": "531c6bf687b34446fbe9a323deb9447fb1f866179e9c45e0b6d032aeb4e8090d",
+      "bytes": 339708
+    },
+    "gallery/images/5424070ac5d9bfbca99955bd69ae687ee6b0bbac75be3df70bc2c20d1cc54d93/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--a77e4f80bb.jpg": {
+      "sha256": "5424070ac5d9bfbca99955bd69ae687ee6b0bbac75be3df70bc2c20d1cc54d93",
+      "bytes": 116857
+    },
+    "gallery/images/5436ecbeb9877ac6616dcab07c83ee1cfb44d6634d17343c5cb773401fd477f5/ic1805-ic1848-heart-nebula-soul-nebula-hero-8e40ed7dc2.jpg": {
+      "sha256": "5436ecbeb9877ac6616dcab07c83ee1cfb44d6634d17343c5cb773401fd477f5",
+      "bytes": 1676161
+    },
+    "gallery/images/547fd252b5b2786e3275e3349eb0f2bbf44dabbc4d6e444d5c44929cbea92268/ic1805-ic1848-heart-nebula-soul-nebula-variant-draft-2671cf125f.jpg": {
+      "sha256": "547fd252b5b2786e3275e3349eb0f2bbf44dabbc4d6e444d5c44929cbea92268",
+      "bytes": 774492
+    },
+    "gallery/images/54a9c36f9446cb75e66d689952d9b2c1e8d73572edb1ea0cdbcac6191e9271da/m42-m43-orion-224-mins-811eb621f6.jpg": {
+      "sha256": "54a9c36f9446cb75e66d689952d9b2c1e8d73572edb1ea0cdbcac6191e9271da",
+      "bytes": 153106
+    },
+    "gallery/images/54b24d437a3a3ee6b03021dca8cee860b5d24d980cd13b5489ce7ad487851502/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-92b37c849c.jpg": {
+      "sha256": "54b24d437a3a3ee6b03021dca8cee860b5d24d980cd13b5489ce7ad487851502",
+      "bytes": 149985
+    },
+    "gallery/images/550fce8875c98acc3754597137702a425604a6c01b0f4f93455f46be5d36ab68/m8-m20-lagoon-nebula-trifid-nebula-detail-loretta-compare-bortle-5-247-m-0d74c712e7.jpg": {
+      "sha256": "550fce8875c98acc3754597137702a425604a6c01b0f4f93455f46be5d36ab68",
+      "bytes": 314660
+    },
+    "gallery/images/556076a743ad975213d189da77715a98948c7443a7c89f0f7f0e09f021a7760b/m20-m21-trifid-nebula-webbs-cross-4-hours-7cc6566686.jpg": {
+      "sha256": "556076a743ad975213d189da77715a98948c7443a7c89f0f7f0e09f021a7760b",
+      "bytes": 557131
+    },
+    "gallery/images/5594d383b9a380c81ad7af4ebdaa8175d449e9c26a6a5a6eb16edf182d205b7e/barnards-loop-8-hours-detail-ic434-c2ea1c63ef.jpg": {
+      "sha256": "5594d383b9a380c81ad7af4ebdaa8175d449e9c26a6a5a6eb16edf182d205b7e",
+      "bytes": 233962
+    },
+    "gallery/images/559961cfd04715ae6693257ef4f1da101a2390a758e37f1901a5dd52c0efae0a/ngc7000-north-america-nebula-2-hours-d5300-fma135-processed-compare-f54f79d61d.jpg": {
+      "sha256": "559961cfd04715ae6693257ef4f1da101a2390a758e37f1901a5dd52c0efae0a",
+      "bytes": 7621241
+    },
+    "gallery/images/560b1b1783a77facc143a2183950967179ac7cd9ee99cb751d16e9d19bf24ae9/m92-16-mins-fdc293ff03.jpg": {
+      "sha256": "560b1b1783a77facc143a2183950967179ac7cd9ee99cb751d16e9d19bf24ae9",
+      "bytes": 91055
+    },
+    "gallery/images/56274e57d3c8346d80557fb6085bccd49e3c9e27e62ccf3f9ac855a6b0991b16/m20-m21-trifid-nebula-webbs-cross-4-hours-detail-m20-e5ad44f0f3.jpg": {
+      "sha256": "56274e57d3c8346d80557fb6085bccd49e3c9e27e62ccf3f9ac855a6b0991b16",
+      "bytes": 520651
+    },
+    "gallery/images/57aff2aaf324aa572475b0c93dacce50b35d3fdc72314c00df8340b1a255bf7b/ngc7000-north-america-nebula-2-hours-d5300-fma135-raw-compare-4296332aa9.jpg": {
+      "sha256": "57aff2aaf324aa572475b0c93dacce50b35d3fdc72314c00df8340b1a255bf7b",
+      "bytes": 2153379
+    },
+    "gallery/images/58169b78d914be52e116c21a2f1bca1beebf76f2122512f564e991393b59f002/m106-99-mins-f57bcd2a90.jpg": {
+      "sha256": "58169b78d914be52e116c21a2f1bca1beebf76f2122512f564e991393b59f002",
+      "bytes": 567085
+    },
+    "gallery/images/58286f1efda353ec70a10fb2b79545474f5c2f5969769cd4151cedbd4450b09b/comet-10p-80-mins-1f33c37487.jpg": {
+      "sha256": "58286f1efda353ec70a10fb2b79545474f5c2f5969769cd4151cedbd4450b09b",
+      "bytes": 125169
+    },
+    "gallery/images/58da14fb72d95477a098f5d3a0be2a755cb5081fba9c606829a0705c0cde102c/sh2-157-ngc7635-m52-lobster-claw-bubble-8h-sv-6hha-efaa1ba2d2.jpg": {
+      "sha256": "58da14fb72d95477a098f5d3a0be2a755cb5081fba9c606829a0705c0cde102c",
+      "bytes": 471103
+    },
+    "gallery/images/58db8b0e3fbe47a8cd0ac3e381bf9b56a61dec2dd61f71182bf5a3bb877cc8f5/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-hoo-bf8b1c41fb.jpg": {
+      "sha256": "58db8b0e3fbe47a8cd0ac3e381bf9b56a61dec2dd61f71182bf5a3bb877cc8f5",
+      "bytes": 242100
+    },
+    "gallery/images/591bf394761ad894f957c20054e33e251da8fd08cddaf31937e2268157d9e778/ngc2237-the-rosette-nebula-complex-detail-foxfur-compare-hoo-e0601b7e45.jpg": {
+      "sha256": "591bf394761ad894f957c20054e33e251da8fd08cddaf31937e2268157d9e778",
+      "bytes": 1865028
+    },
+    "gallery/images/592bd5c8115bd35a4b5e36fdb40f079c87c518aaa0f89db688738fccead01ef6/ngc7635-bubble-nebula-ha-2h40m-sii-2h20m-e3dbac0a22.jpg": {
+      "sha256": "592bd5c8115bd35a4b5e36fdb40f079c87c518aaa0f89db688738fccead01ef6",
+      "bytes": 218565
+    },
+    "gallery/images/595a10cdf745e56c59f7108dbee76059a869dacd4329e61f077f40d5683ba274/m8-m20-lagoon-nebula-trifid-nebula-detail-loretta-compare-bortle-2-49-mi-1bff71ff8b.jpg": {
+      "sha256": "595a10cdf745e56c59f7108dbee76059a869dacd4329e61f077f40d5683ba274",
+      "bytes": 327288
+    },
+    "gallery/images/595b517183d64d5dfec8ca20e8073a530d0f39f951588705a144bbb94d88a25f/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-ad3ffd0535.jpg": {
+      "sha256": "595b517183d64d5dfec8ca20e8073a530d0f39f951588705a144bbb94d88a25f",
+      "bytes": 881319
+    },
+    "gallery/images/59ae74c56285610123eae6f6a4df126321c137b1d3ec7e73ab40223cd1792f10/m73-12-mins-9cccd84afb.jpg": {
+      "sha256": "59ae74c56285610123eae6f6a4df126321c137b1d3ec7e73ab40223cd1792f10",
+      "bytes": 41073
+    },
+    "gallery/images/5b54fba68529472805835bf94ea973ede84ce8638aa81dee46f24db78033cd26/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-d145945f32.jpg": {
+      "sha256": "5b54fba68529472805835bf94ea973ede84ce8638aa81dee46f24db78033cd26",
+      "bytes": 163879
+    },
+    "gallery/images/5b6569b5528ebba24702ddf3fa0b2abea4f9182a59920f3d7fcb994d828976aa/m27-ngc6830-ngc6823-dumbbell-nebula-vulpecula-region-15-hours-d0896bf6d5.jpg": {
+      "sha256": "5b6569b5528ebba24702ddf3fa0b2abea4f9182a59920f3d7fcb994d828976aa",
+      "bytes": 461046
+    },
+    "gallery/images/5be103949398b309944a955a0b167ea6bd27c771d12fd8c3eaeb6a85a992f404/milkyway-sagittarius-5h-15m-70966892c1.jpg": {
+      "sha256": "5be103949398b309944a955a0b167ea6bd27c771d12fd8c3eaeb6a85a992f404",
+      "bytes": 1030389
+    },
+    "gallery/images/5e94da8cbc7197aa66f11b483f5f4e7f8de689877b59db4329a2e794b2e42422/ngc6960-veil-supernova-remnant-143-mins-a933263fbd.jpg": {
+      "sha256": "5e94da8cbc7197aa66f11b483f5f4e7f8de689877b59db4329a2e794b2e42422",
+      "bytes": 774185
+    },
+    "gallery/images/5eca1c170a407ec8a89563770c76c3e3b315e2d7923e0604974ed6fedb5a9e5e/ngc7000-ic5070-ic1318-north-america-nebula-pelican-nebula-butterfly-nebu-e74a45d906.jpg": {
+      "sha256": "5eca1c170a407ec8a89563770c76c3e3b315e2d7923e0604974ed6fedb5a9e5e",
+      "bytes": 353814
+    },
+    "gallery/images/5f0c8c8d0ae68c7dcece878e94cadc796c843204823cf04cb0b32e4d8e98351c/m101-9-hours-d783ec8a41.jpg": {
+      "sha256": "5f0c8c8d0ae68c7dcece878e94cadc796c843204823cf04cb0b32e4d8e98351c",
+      "bytes": 395996
+    },
+    "gallery/images/5f1f0a6f096afb589c436253f2105a1177688a5388fd159673f865c9fe4e1db4/m-109-66-minutes-detail-m-109-3ad6b8cf31.jpg": {
+      "sha256": "5f1f0a6f096afb589c436253f2105a1177688a5388fd159673f865c9fe4e1db4",
+      "bytes": 15362
+    },
+    "gallery/images/5fb2a5bbcc0e4b56c52d89e5a30bb6c3e51a8d87790f65d2a435ec16589552dc/ngc2359-thors-helmet-nebula-e64ff5bec1.jpg": {
+      "sha256": "5fb2a5bbcc0e4b56c52d89e5a30bb6c3e51a8d87790f65d2a435ec16589552dc",
+      "bytes": 127175
+    },
+    "gallery/images/603227ad4bb66375089e3b10ae159e3bfdba7b2a61dab03981cb4c06329b4a33/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-l-extreme-cc77b14e11.jpg": {
+      "sha256": "603227ad4bb66375089e3b10ae159e3bfdba7b2a61dab03981cb4c06329b4a33",
+      "bytes": 366737
+    },
+    "gallery/images/603227ad4bb66375089e3b10ae159e3bfdba7b2a61dab03981cb4c06329b4a33/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-l-extreme-f57aa42a74.jpg": {
+      "sha256": "603227ad4bb66375089e3b10ae159e3bfdba7b2a61dab03981cb4c06329b4a33",
+      "bytes": 366737
+    },
+    "gallery/images/60efb4bd90110b6bd0150a2b706e0473f8933b873a918f279ff1120e77a546ff/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-m38-f15910cab0.jpg": {
+      "sha256": "60efb4bd90110b6bd0150a2b706e0473f8933b873a918f279ff1120e77a546ff",
+      "bytes": 47325
+    },
+    "gallery/images/61e2ea628974ab30a1f5683f1e117b2d9a72f04c968513eea492fa3126e0441c/milkyway-extended-cygnus-region-5h-compare-raw-f5f34dd9c5.jpg": {
+      "sha256": "61e2ea628974ab30a1f5683f1e117b2d9a72f04c968513eea492fa3126e0441c",
+      "bytes": 2578030
+    },
+    "gallery/images/62c7c74ed0ff618f19eca20cdb9f9c01803a81e4ccdfef519694d15abc128905/ngc7000-north-america-region-111-minutes-ad865772ca.jpg": {
+      "sha256": "62c7c74ed0ff618f19eca20cdb9f9c01803a81e4ccdfef519694d15abc128905",
+      "bytes": 317959
+    },
+    "gallery/images/62cb90f5adc5847e47ec702b35cea7f5a167c98a568df5374ca7fac39a51bd15/m44-beehive-cluster-venus-15-minutes-hero-7eb1ded116.jpg": {
+      "sha256": "62cb90f5adc5847e47ec702b35cea7f5a167c98a568df5374ca7fac39a51bd15",
+      "bytes": 1348238
+    },
+    "gallery/images/6311c6b29d702db22ed876a2cc69b63fa0d6ebefe3b99262fec18efc10eb051d/m16-eagle-nebula-sho-7h-ha-10hsii-detail-m16-3463517a31.jpg": {
+      "sha256": "6311c6b29d702db22ed876a2cc69b63fa0d6ebefe3b99262fec18efc10eb051d",
+      "bytes": 229791
+    },
+    "gallery/images/636377ed72da92ed265593d68c89d3c3ea49fdd3dd5c30aa7d67592de32d2df6/m8-m20-lagoon-nebula-trifid-nebula-compare-bortle-5-247-mins-2063175aa7.jpg": {
+      "sha256": "636377ed72da92ed265593d68c89d3c3ea49fdd3dd5c30aa7d67592de32d2df6",
+      "bytes": 12616156
+    },
+    "gallery/images/63a6273675fba067d9e74180f0d7e9cc809c95c7d16bda9870319664617917f4/ngc281-pacman-nebula-mono-11h-fe6d809e1b.jpg": {
+      "sha256": "63a6273675fba067d9e74180f0d7e9cc809c95c7d16bda9870319664617917f4",
+      "bytes": 35261752
+    },
+    "gallery/images/63b0f8a77815c9c51dee964165a3fd0262f57d0e673423202267a29f77f05e08/m42-m43-orion-4h-rgb-7h-ha-1h-sii-3f5386fd5f.jpg": {
+      "sha256": "63b0f8a77815c9c51dee964165a3fd0262f57d0e673423202267a29f77f05e08",
+      "bytes": 138605
+    },
+    "gallery/images/63cc0a35914b434e9c0b87162c8ba3f6997e3c3b6d9c457e908570d21d5a4127/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-d243c7be98.jpg": {
+      "sha256": "63cc0a35914b434e9c0b87162c8ba3f6997e3c3b6d9c457e908570d21d5a4127",
+      "bytes": 308002
+    },
+    "gallery/images/644cbc343c866778b4a930a42032cabcb9224ff814b44c575d71be19e6f98966/ngc281-pacman-nebula-compare-dual-narrowband-11h-188b0c7916.jpg": {
+      "sha256": "644cbc343c866778b4a930a42032cabcb9224ff814b44c575d71be19e6f98966",
+      "bytes": 446611
+    },
+    "gallery/images/651a4454366287b98e8b59042adcd404f4040fcc20804a0cb22193648d4a0e6c/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-e033bc73d2.jpg": {
+      "sha256": "651a4454366287b98e8b59042adcd404f4040fcc20804a0cb22193648d4a0e6c",
+      "bytes": 5216473
+    },
+    "gallery/images/662ec3d7baf7bdabf79e630b2d559a57b1346c1966016dcdaa3fe3024f59476a/m16-m17-eagle-nebula-swan-nebula-265-mins-ha-322-mins-sii-de77c7d5cf.jpg": {
+      "sha256": "662ec3d7baf7bdabf79e630b2d559a57b1346c1966016dcdaa3fe3024f59476a",
+      "bytes": 320196
+    },
+    "gallery/images/667dbbfab7a2ede1e03ba316ab97293d228866cd7d4b5f51f42a267e86ccf143/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-take-330d40de9a.jpg": {
+      "sha256": "667dbbfab7a2ede1e03ba316ab97293d228866cd7d4b5f51f42a267e86ccf143",
+      "bytes": 250605
+    },
+    "gallery/images/66d0ffcd10f249f273650fa5675be764070c5dbf5ddb161b5f0b7a8f4fb1bda6/ngc7293-helix-nebula-1h45m-a96cdfc0fc.jpg": {
+      "sha256": "66d0ffcd10f249f273650fa5675be764070c5dbf5ddb161b5f0b7a8f4fb1bda6",
+      "bytes": 115940
+    },
+    "gallery/images/67c2c258b252ffd16b08163359072819c40981df29bfd58000186debdfd85ad0/m39-23-mins-9cdb66691f.jpg": {
+      "sha256": "67c2c258b252ffd16b08163359072819c40981df29bfd58000186debdfd85ad0",
+      "bytes": 165536
+    },
+    "gallery/images/67f25dbda7d8b33d057c578d716c7b1afaf5383ca2beb46c47d2c658ebeb3317/m1-crab-nebula-35-mins-a62f3b6fbe.jpg": {
+      "sha256": "67f25dbda7d8b33d057c578d716c7b1afaf5383ca2beb46c47d2c658ebeb3317",
+      "bytes": 189739
+    },
+    "gallery/images/67fb6e37252c0b2c19d9f29a59e1d179ee301194fc3d6039996dd0126e548245/ngc281-pacman-nebula-ha-2h30m-sii-2h5m-af693175fe.jpg": {
+      "sha256": "67fb6e37252c0b2c19d9f29a59e1d179ee301194fc3d6039996dd0126e548245",
+      "bytes": 276130
+    },
+    "gallery/images/6852e8a95e58ecedd5af4ee8673df4be80adb229a2a9a8cb51d72d47867c5849/ic1805-ic1848-heart-nebula-soul-nebula-compare-raw-c5190f2556.jpg": {
+      "sha256": "6852e8a95e58ecedd5af4ee8673df4be80adb229a2a9a8cb51d72d47867c5849",
+      "bytes": 1713317
+    },
+    "gallery/images/687f27284364b1cfa7514705ce1394baba6d25a152b5cfe21208eaba7bc683c9/ngc6946-ngc6939-fireworks-galaxy-2-5-hours-d875c1f96a.jpg": {
+      "sha256": "687f27284364b1cfa7514705ce1394baba6d25a152b5cfe21208eaba7bc683c9",
+      "bytes": 333377
+    },
+    "gallery/images/689ccfb789f682d55d3f11043b594407256167da978e74a8947136b42a56bf1e/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-e718b4da91.jpg": {
+      "sha256": "689ccfb789f682d55d3f11043b594407256167da978e74a8947136b42a56bf1e",
+      "bytes": 234610
+    },
+    "gallery/images/69019522b9ea8d7aaad15d39818ebf43e4233e380464db82ac046832268d06ce/m51-whirlpool-26-hours-detail-m51-4b2e67927d.jpg": {
+      "sha256": "69019522b9ea8d7aaad15d39818ebf43e4233e380464db82ac046832268d06ce",
+      "bytes": 23619
+    },
+    "gallery/images/691c67d52366e3afebdfb08b0a31b3bf8486dcd2144a3b053e6ea4d360c2c8d8/ic1805-ic1848-heart-nebula-soul-nebula-compare-raw-6979a2bbd5.jpg": {
+      "sha256": "691c67d52366e3afebdfb08b0a31b3bf8486dcd2144a3b053e6ea4d360c2c8d8",
+      "bytes": 4236488
+    },
+    "gallery/images/6c2480d594bdd4241fabe92a52bf617f873d451a6f6060c585c07babba317481/m27-dumbbell-nebula-4-5h-compare-lanczos4-d28bb7942e.jpg": {
+      "sha256": "6c2480d594bdd4241fabe92a52bf617f873d451a6f6060c585c07babba317481",
+      "bytes": 945553
+    },
+    "gallery/images/6d29a9e2705e21a2ee1397fbcbf9a6d6a1a6278de3c531ee9ec722863e40dfcf/ic1805-ic1848-heart-nebula-soul-nebula-d7493b380a.jpg": {
+      "sha256": "6d29a9e2705e21a2ee1397fbcbf9a6d6a1a6278de3c531ee9ec722863e40dfcf",
+      "bytes": 426580
+    },
+    "gallery/images/6d9f458e483ec6ff693bc01458510ee5f0e3682b53e73a1f45363b7268cf4058/m15-25-mins-a6efc10504.jpg": {
+      "sha256": "6d9f458e483ec6ff693bc01458510ee5f0e3682b53e73a1f45363b7268cf4058",
+      "bytes": 90143
+    },
+    "gallery/images/6fc99906d6dd4f8472a0243a0be7e2f85b7387c1ac99181618618b1d4efd5c23/ngc2237-the-rosette-nebula-complex-detail-foxfur-compare-sho-5e1bf624cf.jpg": {
+      "sha256": "6fc99906d6dd4f8472a0243a0be7e2f85b7387c1ac99181618618b1d4efd5c23",
+      "bytes": 2897843
+    },
+    "gallery/images/70ab066d7e302defb0796d80031dde0cf9fa90774d885816b297f0100196b488/milkyway-extended-cygnus-region-5h-compare-raw-5840a09f4b.jpg": {
+      "sha256": "70ab066d7e302defb0796d80031dde0cf9fa90774d885816b297f0100196b488",
+      "bytes": 1284885
+    },
+    "gallery/images/71158fbe4df4ed80b048e51d52374b92ecc399787b0960bf8f299df655e9df0b/ngc2237-the-rosette-nebula-complex-compare-hoo-70a41f14c8.jpg": {
+      "sha256": "71158fbe4df4ed80b048e51d52374b92ecc399787b0960bf8f299df655e9df0b",
+      "bytes": 11980223
+    },
+    "gallery/images/71607270c1d14d669081f79bc16e3cb205a658fc3b1b014b3f0b340ff908ee00/m42-m43-orion-12-hours-a9a4e0fcf1.jpg": {
+      "sha256": "71607270c1d14d669081f79bc16e3cb205a658fc3b1b014b3f0b340ff908ee00",
+      "bytes": 356699
+    },
+    "gallery/images/723a93056d0c69df06d643af0c142d19c7860ba3f10ae5f2cffc3e31ff98ee0e/m11-5-mins-c19a64f8ad.jpg": {
+      "sha256": "723a93056d0c69df06d643af0c142d19c7860ba3f10ae5f2cffc3e31ff98ee0e",
+      "bytes": 346510
+    },
+    "gallery/images/73747c53acaaeb20eb3f91a817fc4ad8fd1789f8c3493a7e824772e11069700e/ngc2237-rosette-nebula-3h-20m-9e233fcafc.jpg": {
+      "sha256": "73747c53acaaeb20eb3f91a817fc4ad8fd1789f8c3493a7e824772e11069700e",
+      "bytes": 5268377
+    },
+    "gallery/images/745ec736161c7c1626655d84f4dcccec9c35a8b31b68ed5b4973cee09a1ee18f/m42-orion-nebula-9hha-55msii-detail-m43-949906b551.jpg": {
+      "sha256": "745ec736161c7c1626655d84f4dcccec9c35a8b31b68ed5b4973cee09a1ee18f",
+      "bytes": 46328
+    },
+    "gallery/images/75834fddd96cb19f554b6dc7fa28cc0e7c199be472aff01c9626860730676035/m81-m82-bodes-galaxy-cigar-galaxy-205-minutes-ba11ddd126.jpg": {
+      "sha256": "75834fddd96cb19f554b6dc7fa28cc0e7c199be472aff01c9626860730676035",
+      "bytes": 151061
+    },
+    "gallery/images/769ee7f36485fb48ffec5a10562ea6b8dc08fcc6277b42f1635fcf77a9e6d418/ngc-281-pacman-nebula-hoo-compare-481b1c842a.jpg": {
+      "sha256": "769ee7f36485fb48ffec5a10562ea6b8dc08fcc6277b42f1635fcf77a9e6d418",
+      "bytes": 3330033
+    },
+    "gallery/images/76f06e04156ded15fbc447d3dbd38a9deafd03240ab6ef366526976178070513/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-e5b62146d0.jpg": {
+      "sha256": "76f06e04156ded15fbc447d3dbd38a9deafd03240ab6ef366526976178070513",
+      "bytes": 28686
+    },
+    "gallery/images/7716f79bb60ea33a27b9dc399a6bfc6238a904f2462c6e532edda73b633f06e6/m16-eagle-nebula-436-minutes-446daa4fe4.jpg": {
+      "sha256": "7716f79bb60ea33a27b9dc399a6bfc6238a904f2462c6e532edda73b633f06e6",
+      "bytes": 133529
+    },
+    "gallery/images/7798ae1f5328047a879fd97705b74f3bb128f43460951486580fc69fcddee45a/ic434-horsehead-nebula-3h15m-second-draft-49a0b53762.jpg": {
+      "sha256": "7798ae1f5328047a879fd97705b74f3bb128f43460951486580fc69fcddee45a",
+      "bytes": 203526
+    },
+    "gallery/images/77e5bf23fbbbda13db290699f08b26b85d32be7ffaa53b83d70393be48ec9d9d/ic1396-elephant-trunk-nebula-11-hours-detail-trunk-d422db20db.jpg": {
+      "sha256": "77e5bf23fbbbda13db290699f08b26b85d32be7ffaa53b83d70393be48ec9d9d",
+      "bytes": 558675
+    },
+    "gallery/images/788ee776d3dfdcba974545a3837c7884a01eacd7d9d5775d10bf1f98fa0e7066/220pmcnaught-83-minutes-18d5fe42fa.jpg": {
+      "sha256": "788ee776d3dfdcba974545a3837c7884a01eacd7d9d5775d10bf1f98fa0e7066",
+      "bytes": 13926
+    },
+    "gallery/images/78e63440d3a844787cd906692f9654b38be241bdd5fe0695175b19f8ae54d028/milkyway-cepehus-thorugh-vulpecula-2-5h-hero-ac77d414b5.jpg": {
+      "sha256": "78e63440d3a844787cd906692f9654b38be241bdd5fe0695175b19f8ae54d028",
+      "bytes": 3314448
+    },
+    "gallery/images/78e63440d3a844787cd906692f9654b38be241bdd5fe0695175b19f8ae54d028/milkyway-cepheus-through-vulpecula-2-5h-hero-9fcb240e64.jpg": {
+      "sha256": "78e63440d3a844787cd906692f9654b38be241bdd5fe0695175b19f8ae54d028",
+      "bytes": 3314448
+    },
+    "gallery/images/791016af0900acb4af380206605641fbc049a915b2625026eeef63da1fd00262/ngc7293-helix-nebula-50-mins-d3eaca88d9.jpg": {
+      "sha256": "791016af0900acb4af380206605641fbc049a915b2625026eeef63da1fd00262",
+      "bytes": 172701
+    },
+    "gallery/images/7997c3facaa9a211a1d9ae9525f58520b51fb2a4cdbf3b8684da70e071368ca0/ngc7000-ic5070-ic1318-north-america-nebula-pelican-nebula-butterfly-nebu-e63fc67f59.jpg": {
+      "sha256": "7997c3facaa9a211a1d9ae9525f58520b51fb2a4cdbf3b8684da70e071368ca0",
+      "bytes": 433093
+    },
+    "gallery/images/79dad48b2323d54f6141c85dd4eaaa38ef38032086f08024f527b92e4dc59ccf/sh2101-tulip-nebula-9935e92d04.jpg": {
+      "sha256": "79dad48b2323d54f6141c85dd4eaaa38ef38032086f08024f527b92e4dc59ccf",
+      "bytes": 658828
+    },
+    "gallery/images/7a11fccead1167ef11934ef0f0c225b68fead701daad89b081e50f7c10cefb79/m8-m20-lagoon-nebula-trifid-nebula-compare-bortle-2-49-mins-bd6c2d9a73.jpg": {
+      "sha256": "7a11fccead1167ef11934ef0f0c225b68fead701daad89b081e50f7c10cefb79",
+      "bytes": 13412566
+    },
+    "gallery/images/7a697d5c3cba479cbc0457ae7a0745c5a712e1166799423365f15dd5b1fdf600/sh2101-tulip-nebula-8-5h-ha-9-5h-sii-d5abf3b803.jpg": {
+      "sha256": "7a697d5c3cba479cbc0457ae7a0745c5a712e1166799423365f15dd5b1fdf600",
+      "bytes": 398683
+    },
+    "gallery/images/7ad1265c0ae5d71dd447dd92edaec21e344c4f37d6e04468c8a198e6599a137a/m63-3-5h-24c7ddcba7.jpg": {
+      "sha256": "7ad1265c0ae5d71dd447dd92edaec21e344c4f37d6e04468c8a198e6599a137a",
+      "bytes": 24352
+    },
+    "gallery/images/7b6ebf0792dd18c91d568c39a0d519c9f011376b2940b1a791b497d387f2a929/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-6ca83b5f82.jpg": {
+      "sha256": "7b6ebf0792dd18c91d568c39a0d519c9f011376b2940b1a791b497d387f2a929",
+      "bytes": 220255
+    },
+    "gallery/images/7bc15452bd673c3970e864a4a1934d5ff87c681e053b2b01262e1c8a0e77b89e/m16-eagle-nebula-13h-ha-12h-sii-cd19d6c677.jpg": {
+      "sha256": "7bc15452bd673c3970e864a4a1934d5ff87c681e053b2b01262e1c8a0e77b89e",
+      "bytes": 251593
+    },
+    "gallery/images/7bca8667858bc1b0d4648aac1a7097400b9d4c73f4edac8a7a773befb68b916b/milkyway-extended-cygnus-region-5h-compare-annotated-0a5068886d.jpg": {
+      "sha256": "7bca8667858bc1b0d4648aac1a7097400b9d4c73f4edac8a7a773befb68b916b",
+      "bytes": 1319386
+    },
+    "gallery/images/7bd0baee35fa46ff8551b31a068b589a782175c27c9a8d613413644626c26cf7/ngc6960-veil-nebula-8h-c22d6071fa.jpg": {
+      "sha256": "7bd0baee35fa46ff8551b31a068b589a782175c27c9a8d613413644626c26cf7",
+      "bytes": 386442
+    },
+    "gallery/images/7c186ee6ae5afaed8dc56ac9632dc808275a3bd8e3b4b2c91b18f5620696713f/m31-andromeda-galaxy-25h-hero-0038ef3e9a.jpg": {
+      "sha256": "7c186ee6ae5afaed8dc56ac9632dc808275a3bd8e3b4b2c91b18f5620696713f",
+      "bytes": 1254329
+    },
+    "gallery/images/7d83a0824f0567bc18acd11cb02ab90b9614203d53cac386b7057b400aa36572/ic1318-ngc6888-butterfly-nebula-crescent-nebula-6b80d77475.jpg": {
+      "sha256": "7d83a0824f0567bc18acd11cb02ab90b9614203d53cac386b7057b400aa36572",
+      "bytes": 1017518
+    },
+    "gallery/images/7ea2d777868d60555c1339810180cc1099705ca32e79788f488b8fef7e9f4840/ngc1805-ngc1848-heart-nebula-soul-nebula-ha2h-10m-sii-5h-25m-0390cd0a30.jpg": {
+      "sha256": "7ea2d777868d60555c1339810180cc1099705ca32e79788f488b8fef7e9f4840",
+      "bytes": 763140
+    },
+    "gallery/images/7f17c56c2891699dc5e0b746f66ad07ec4d9972d67fa1cec82e9d02aced4d797/ngc7331-deer-lick-group-compare-before-sn2026aaiv-00839aa1a4.jpg": {
+      "sha256": "7f17c56c2891699dc5e0b746f66ad07ec4d9972d67fa1cec82e9d02aced4d797",
+      "bytes": 58168
+    },
+    "gallery/images/7fdb30ab2e04c161de3732114d3bd12eb4f4c296ec23eb1025258596e8a38eda/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-68569a4021.jpg": {
+      "sha256": "7fdb30ab2e04c161de3732114d3bd12eb4f4c296ec23eb1025258596e8a38eda",
+      "bytes": 297270
+    },
+    "gallery/images/8011bddb702a97e648e178990809ddb8a680ec9fc01fa763c654f62f3985f657/ngc-281-pacman-nebula-sho-starless-compare-e9d3c6820c.jpg": {
+      "sha256": "8011bddb702a97e648e178990809ddb8a680ec9fc01fa763c654f62f3985f657",
+      "bytes": 487260
+    },
+    "gallery/images/802abb4adda6235d5127f41b1f631bbadd3df62ab5c6456c127e5971814e0548/m8-m20-lagoon-nebula-trifid-nebula-detail-trifid-compare-bortle-2-49-min-d0a58234c1.jpg": {
+      "sha256": "802abb4adda6235d5127f41b1f631bbadd3df62ab5c6456c127e5971814e0548",
+      "bytes": 333581
+    },
+    "gallery/images/8038cce9422766446ca2568e84272dc7adc8000270546990fb4ca0ce9346a2e3/headphones-nebula-2-5-hours-04ec207853.jpg": {
+      "sha256": "8038cce9422766446ca2568e84272dc7adc8000270546990fb4ca0ce9346a2e3",
+      "bytes": 281755
+    },
+    "gallery/images/80944ffcc5c942ecdea85a374f5ea93f5e3db19e6392a748b792a31587332198/m31-andromeda-galaxy-25h-compare-after-at2026aabo-42802f9ed7.jpg": {
+      "sha256": "80944ffcc5c942ecdea85a374f5ea93f5e3db19e6392a748b792a31587332198",
+      "bytes": 785453
+    },
+    "gallery/images/80dbbf53bd4ced21f54b52be8906fe041930a2ae20ab1d3b726ec47c6a4350ae/m16-eagle-nebula-111-minutes-d2fbd8aa94.jpg": {
+      "sha256": "80dbbf53bd4ced21f54b52be8906fe041930a2ae20ab1d3b726ec47c6a4350ae",
+      "bytes": 240221
+    },
+    "gallery/images/80deab442014bbace11dc37559adbdf3479e417183570a2412cdcd345d1b0b2e/ic1396-elephant-trunk-nebula-11-hours-compare-hoo-d99fd2bc8e.jpg": {
+      "sha256": "80deab442014bbace11dc37559adbdf3479e417183570a2412cdcd345d1b0b2e",
+      "bytes": 2416737
+    },
+    "gallery/images/8207d3108e4928341709481d116ff649d73f334595a5cac5e0c4a84e6653d7f4/220pmcnaught-43-mins-4c877c4f92.jpg": {
+      "sha256": "8207d3108e4928341709481d116ff649d73f334595a5cac5e0c4a84e6653d7f4",
+      "bytes": 51060
+    },
+    "gallery/images/826db90339447238818381df43e0c546fe9a57495b50ea8ce1cbc30ca40f26f6/ngc-7023-iris-nebula-c27d6a8255.jpg": {
+      "sha256": "826db90339447238818381df43e0c546fe9a57495b50ea8ce1cbc30ca40f26f6",
+      "bytes": 95891
+    },
+    "gallery/images/82ae5025b036795dd22508eea9b42a9911e7fed975e97e6aa9d82d8031518a15/ngc-1499-california-nebula-2-8h-38b9b9c539.jpg": {
+      "sha256": "82ae5025b036795dd22508eea9b42a9911e7fed975e97e6aa9d82d8031518a15",
+      "bytes": 579059
+    },
+    "gallery/images/82dd2c00f50f8b111c0943d7490c2e6e424b2294c4df75458404030b9310aecc/m27-dumbbell-nebula-4-5h-compare-native-ebae421b62.jpg": {
+      "sha256": "82dd2c00f50f8b111c0943d7490c2e6e424b2294c4df75458404030b9310aecc",
+      "bytes": 782598
+    },
+    "gallery/images/835e6bccf8ba5102bc7c7b5ba41ad8c85664b476169ed3f0f419c3a8d733b275/ngc2237-the-rosette-nebula-complex-a943c84816.jpg": {
+      "sha256": "835e6bccf8ba5102bc7c7b5ba41ad8c85664b476169ed3f0f419c3a8d733b275",
+      "bytes": 499044
+    },
+    "gallery/images/83bbd190e2a2588524048f3097d58f97a792d2dd4a47d70e2ca096087861475a/ic1805-ic1848-heart-nebula-soul-nebula-3-hours-67c7cb1e5e.jpg": {
+      "sha256": "83bbd190e2a2588524048f3097d58f97a792d2dd4a47d70e2ca096087861475a",
+      "bytes": 557160
+    },
+    "gallery/images/84dc8555db5f71bc626585338fc6310298e906781b3a402f49f6ef17a9b0e9fc/m27-dumbbell-nebula-4-5h-19c1d70cf0.jpg": {
+      "sha256": "84dc8555db5f71bc626585338fc6310298e906781b3a402f49f6ef17a9b0e9fc",
+      "bytes": 61470
+    },
+    "gallery/images/856246659bc4d79721402d77deb9330dc8261162c691500da4d877a666d18ce3/milkyway-orion-36-mins-8070b1db8b.jpg": {
+      "sha256": "856246659bc4d79721402d77deb9330dc8261162c691500da4d877a666d18ce3",
+      "bytes": 1035253
+    },
+    "gallery/images/85b51a642d5a606b7d96c376722ce7b9309acabdd151519a8365437676e1842a/ngc7331-deer-lick-group-ffa487402d.jpg": {
+      "sha256": "85b51a642d5a606b7d96c376722ce7b9309acabdd151519a8365437676e1842a",
+      "bytes": 77321
+    },
+    "gallery/images/85f20b03d0619b6359ed79c7694e5b3b296a5240fd37099a8991385212b7785e/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--84addfae71.jpg": {
+      "sha256": "85f20b03d0619b6359ed79c7694e5b3b296a5240fd37099a8991385212b7785e",
+      "bytes": 649604
+    },
+    "gallery/images/868db6c3dfe9d5f945829bc52c641a8eb0f94e0548acbebd2688ff8e6230efe6/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-312-minutes-a14a4a89d3.jpg": {
+      "sha256": "868db6c3dfe9d5f945829bc52c641a8eb0f94e0548acbebd2688ff8e6230efe6",
+      "bytes": 633095
+    },
+    "gallery/images/871e273a586d3762c1d34ad5c60ce1ba3251af0b03c0897dac807da109c7a4ac/ngc7331-deer-lick-group-compare-isolated-sn2026aaiv-56c4409dd9.jpg": {
+      "sha256": "871e273a586d3762c1d34ad5c60ce1ba3251af0b03c0897dac807da109c7a4ac",
+      "bytes": 32257
+    },
+    "gallery/images/874ab0ad23fd5534ecfe35370f22bd0b5fa3af1648736212883624af64dfbadd/ic1396-elephant-trunk-nebula-11-hours-compare-hoo-a271c76006.jpg": {
+      "sha256": "874ab0ad23fd5534ecfe35370f22bd0b5fa3af1648736212883624af64dfbadd",
+      "bytes": 12804348
+    },
+    "gallery/images/87705fa10d85bdf1680e1cbeead1627c8ea70df400205cbeb7840bfb47f896ac/m81-m82-bodes-galaxy-cigar-galaxy-10-5h-rgb-7h-ha-detail-m81-46b849ba7d.jpg": {
+      "sha256": "87705fa10d85bdf1680e1cbeead1627c8ea70df400205cbeb7840bfb47f896ac",
+      "bytes": 49429
+    },
+    "gallery/images/88456db38b796f315f23ff16bec5d2365de835559854c46713df8314c58da9ba/barnards-loop-8-hours-d0870a7be2.jpg": {
+      "sha256": "88456db38b796f315f23ff16bec5d2365de835559854c46713df8314c58da9ba",
+      "bytes": 251538
+    },
+    "gallery/images/885da37b12ca0bf164dd0049bbb5edcdc5c7ed44e9e0cc3046bde889a1320a6c/ic1848-soul-nebula-99-minutes-fc1ab639f8.jpg": {
+      "sha256": "885da37b12ca0bf164dd0049bbb5edcdc5c7ed44e9e0cc3046bde889a1320a6c",
+      "bytes": 513517
+    },
+    "gallery/images/890f077471fffdde9f70581f39d78a7dacb976c6c10796f990c1628a4ecdcb1d/m98-m99-20-minutes-detail-m99-f83b719bc1.jpg": {
+      "sha256": "890f077471fffdde9f70581f39d78a7dacb976c6c10796f990c1628a4ecdcb1d",
+      "bytes": 185867
+    },
+    "gallery/images/89b3ce8840d3c0ad2d7f52338bf73e33cc667adbad95c67084ded30571836350/milkyway-orion-40-mins-19f188dbc2.jpg": {
+      "sha256": "89b3ce8840d3c0ad2d7f52338bf73e33cc667adbad95c67084ded30571836350",
+      "bytes": 3007106
+    },
+    "gallery/images/8a3c4f7cb876f1bcbb4e828e52d55210e045d0af91c45f944c842a6d68c89f94/ngc-281-pacman-nebula-hoo-starless-compare-c5fb19215d.jpg": {
+      "sha256": "8a3c4f7cb876f1bcbb4e828e52d55210e045d0af91c45f944c842a6d68c89f94",
+      "bytes": 907776
+    },
+    "gallery/images/8a7e9ad49f74a372a775bd14ab7b66a4c1748c56f3b5a4d506c55f2bbea67149/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-e20eae8e11.jpg": {
+      "sha256": "8a7e9ad49f74a372a775bd14ab7b66a4c1748c56f3b5a4d506c55f2bbea67149",
+      "bytes": 1648958
+    },
+    "gallery/images/8d753a5e017080a6378f9197d81969c6c841a41af4e6f43b64f3ef7b7690dcd6/ngc6960-veil-supernova-remnant-7-hours-e5cc1d4c79.jpg": {
+      "sha256": "8d753a5e017080a6378f9197d81969c6c841a41af4e6f43b64f3ef7b7690dcd6",
+      "bytes": 865059
+    },
+    "gallery/images/8d8beb4953011a7190874e224a694a4e31e1839dcc23235b054302d8f79d2757/north-america-on-fire-ngc7000-figure-processing-blue-channel-2c6ce5dcc0.jpg": {
+      "sha256": "8d8beb4953011a7190874e224a694a4e31e1839dcc23235b054302d8f79d2757",
+      "bytes": 203995
+    },
+    "gallery/images/8e4b4e8185a1c0190bd9fb29b00cb86a12d3fa8d91ca0bb50e412a9fe6fa1626/ngc6888-crescent-nebula-sadr-region-2-hours-f2d8aab08d.jpg": {
+      "sha256": "8e4b4e8185a1c0190bd9fb29b00cb86a12d3fa8d91ca0bb50e412a9fe6fa1626",
+      "bytes": 588056
+    },
+    "gallery/images/8ffd1147e50e13929868ec47500ddb8da1db9f1d03119a33fd74c8f8ae7cdbf2/ngc6604-m16-m17-m24-m21-m20-m8-nest-nebula-eagle-nebula-swan-nebula-smal-bbed7ad56e.jpg": {
+      "sha256": "8ffd1147e50e13929868ec47500ddb8da1db9f1d03119a33fd74c8f8ae7cdbf2",
+      "bytes": 144525
+    },
+    "gallery/images/91644dfdc1f8ff85a03b5cd93d21268635cfbf09d0a20ea0c4c5713e0e139468/m44-beehive-cluster-venus-15-minutes-e65d8858ad.jpg": {
+      "sha256": "91644dfdc1f8ff85a03b5cd93d21268635cfbf09d0a20ea0c4c5713e0e139468",
+      "bytes": 142382
+    },
+    "gallery/images/917d1aab9f39b5534c5d03f4565cde8b11e3992d933c6b95867437a84b0ed234/m52-ngc7635-bubble-nebula-compare-hos-75a678af96.jpg": {
+      "sha256": "917d1aab9f39b5534c5d03f4565cde8b11e3992d933c6b95867437a84b0ed234",
+      "bytes": 764602
+    },
+    "gallery/images/91d2ae794e0062c8e588160f45e8c3b69ca68d9be26f16ca357923fd7655b52b/ngc2237-the-rosette-nebula-complex-hoo-22h-77cf70e848.jpg": {
+      "sha256": "91d2ae794e0062c8e588160f45e8c3b69ca68d9be26f16ca357923fd7655b52b",
+      "bytes": 578840
+    },
+    "gallery/images/925678c835b37deb889f0d102208f80cabcd18f1a06f699d4594ff541c91f1a6/ngc-281-pacman-nebula-sv220-compare-f77269119f.jpg": {
+      "sha256": "925678c835b37deb889f0d102208f80cabcd18f1a06f699d4594ff541c91f1a6",
+      "bytes": 222472
+    },
+    "gallery/images/931564a7b370762b5c96656d97f095923f45c62cd78dbb5f29ca340f7f7400f7/sh2-188-firefox-nebula-11h-148f6cb987.jpg": {
+      "sha256": "931564a7b370762b5c96656d97f095923f45c62cd78dbb5f29ca340f7f7400f7",
+      "bytes": 1406680
+    },
+    "gallery/images/9449ae1e5cdf8615b1ce0a1b0fd716cc27aa748f9dd0452c0ed8ffd21860d54e/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-l-extreme-48ecd5ff86.jpg": {
+      "sha256": "9449ae1e5cdf8615b1ce0a1b0fd716cc27aa748f9dd0452c0ed8ffd21860d54e",
+      "bytes": 1085067
+    },
+    "gallery/images/9449ae1e5cdf8615b1ce0a1b0fd716cc27aa748f9dd0452c0ed8ffd21860d54e/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-l-extreme-6bb6fcedc5.jpg": {
+      "sha256": "9449ae1e5cdf8615b1ce0a1b0fd716cc27aa748f9dd0452c0ed8ffd21860d54e",
+      "bytes": 1085067
+    },
+    "gallery/images/95303a1ba38c40fc4e26751cc61758ec8e488766f7349870d70884d271a300c7/m52-ngc7635-bubble-nebula-compare-oss-944fb26a80.jpg": {
+      "sha256": "95303a1ba38c40fc4e26751cc61758ec8e488766f7349870d70884d271a300c7",
+      "bytes": 753627
+    },
+    "gallery/images/95a322e6998be84ed9e9f4689f540f4a0c4cdf0846dd22828b7f1923f8c5c274/ngc1579-northern-trifid-nebula-1-5h-0c4595a7ad.jpg": {
+      "sha256": "95a322e6998be84ed9e9f4689f540f4a0c4cdf0846dd22828b7f1923f8c5c274",
+      "bytes": 250068
+    },
+    "gallery/images/962fe439132083250ec6d39f45e229f3dda013328f5d6ab01d7f9ba1d94380d1/m44-beehive-cluster-venus-15-minutes-detail-m44-10d21d1a35.jpg": {
+      "sha256": "962fe439132083250ec6d39f45e229f3dda013328f5d6ab01d7f9ba1d94380d1",
+      "bytes": 139486
+    },
+    "gallery/images/9659bdf6aff0b4eeb95eb0bc590e6f6cc80db809cc5a23edbfff1615706ad55b/ngc7000-north-america-nebula-2-hours-d5300-fma135-clean-compare-db5a3555a3.jpg": {
+      "sha256": "9659bdf6aff0b4eeb95eb0bc590e6f6cc80db809cc5a23edbfff1615706ad55b",
+      "bytes": 3810765
+    },
+    "gallery/images/965dbe6f0f0d4401e5f90abd0930e81838851e65f904d3a987046c7b72ead684/ngc2237-the-rosette-nebula-complex-sho-ha-4h-sii-3h15m-053c9d0fdb.jpg": {
+      "sha256": "965dbe6f0f0d4401e5f90abd0930e81838851e65f904d3a987046c7b72ead684",
+      "bytes": 262648
+    },
+    "gallery/images/96d30d5bedb9400bdff2fd1542734564b03592651f2223ccba08f8323df40175/ic1848-soul-nebula-5h-ha-5-5h-sii-dccce901c7.jpg": {
+      "sha256": "96d30d5bedb9400bdff2fd1542734564b03592651f2223ccba08f8323df40175",
+      "bytes": 298929
+    },
+    "gallery/images/975cf94d2bd376a47da899d855c7be05da5836ff0a34672a684de25edcad81ac/milkyway-aurigae-1h-30m-8ea3f95d35.jpg": {
+      "sha256": "975cf94d2bd376a47da899d855c7be05da5836ff0a34672a684de25edcad81ac",
+      "bytes": 3590559
+    },
+    "gallery/images/996810b530aa1075f4928d87fbbe16644b77f9df049a385b8096a02a223e8ffc/ngc281-pacman-nebula-compare-seestar-10h-87a8d79a5c.jpg": {
+      "sha256": "996810b530aa1075f4928d87fbbe16644b77f9df049a385b8096a02a223e8ffc",
+      "bytes": 525474
+    },
+    "gallery/images/99e0bccea3d72078efc66a90f7c39ac6e3e184b889a1dfc5d9aae49ee2c8d9da/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-07bad2ec38.jpg": {
+      "sha256": "99e0bccea3d72078efc66a90f7c39ac6e3e184b889a1dfc5d9aae49ee2c8d9da",
+      "bytes": 5191128
+    },
+    "gallery/images/9a99f5a6770eef22a084d8b219fc385f25a11d2cf3e6972254b6044c0186c984/north-america-on-fire-ngc7000-figure-telescope-workshop-multi-rig-compar-1e36c1ee77.jpg": {
+      "sha256": "9a99f5a6770eef22a084d8b219fc385f25a11d2cf3e6972254b6044c0186c984",
+      "bytes": 56706
+    },
+    "gallery/images/9ad9afe50f27e107c5b5820a748af135fd38812b3bc2db75e911b5c03a9c175b/m74-66-mins-7662dd564e.jpg": {
+      "sha256": "9ad9afe50f27e107c5b5820a748af135fd38812b3bc2db75e911b5c03a9c175b",
+      "bytes": 44686
+    },
+    "gallery/images/9bb43de9678d16e6d86e8972e669c11deae2ca0134ac4c93dba82c34ab516dee/m97-m108-owl-nebula-surfboard-galaxy-8-hours-detail-m108-19c15f21e1.jpg": {
+      "sha256": "9bb43de9678d16e6d86e8972e669c11deae2ca0134ac4c93dba82c34ab516dee",
+      "bytes": 27053
+    },
+    "gallery/images/9c6038af966fbee66b97f086d4219a16f100b28ffe5c706988797ed5d16a730a/ncg7331-deer-lick-galaxy-group-45-mins-84a5718822.jpg": {
+      "sha256": "9c6038af966fbee66b97f086d4219a16f100b28ffe5c706988797ed5d16a730a",
+      "bytes": 148650
+    },
+    "gallery/images/9cc70337f6ee397458e640883bdace562d84d227a1c40ba3ee535ab13ba1f8da/ic1396-elephant-trunk-nebula-4-hours-b43100e40c.jpg": {
+      "sha256": "9cc70337f6ee397458e640883bdace562d84d227a1c40ba3ee535ab13ba1f8da",
+      "bytes": 620786
+    },
+    "gallery/images/9cf6c6993be303c5ace4be1e6b34469033c73624b96bed204b9dc692555ce154/m20-m21-trifid-nebula-webbs-cross-4-hours-hero-e37d1362e2.jpg": {
+      "sha256": "9cf6c6993be303c5ace4be1e6b34469033c73624b96bed204b9dc692555ce154",
+      "bytes": 1984813
+    },
+    "gallery/images/9d111217b3bd9674771fe95055d8bb1fad7cef00cd0fc4b4c0860028c0f60415/ngc-281-pacman-nebula-hoo-starless-compare-e11a6e0ffa.jpg": {
+      "sha256": "9d111217b3bd9674771fe95055d8bb1fad7cef00cd0fc4b4c0860028c0f60415",
+      "bytes": 3250048
+    },
+    "gallery/images/9e5d9a786e985ca4ce95f586109e418a13147278323e7fc3467e695b04b06c3c/m65-m66-leos-triplet-197-minutes-detail-m66-896694d65c.jpg": {
+      "sha256": "9e5d9a786e985ca4ce95f586109e418a13147278323e7fc3467e695b04b06c3c",
+      "bytes": 24939
+    },
+    "gallery/images/9eb60812451b2942c2b9eafde8c853f2e6b6dcc8a1f5bce414e8c5e60e4974ff/m52-ngc7635-bubble-nebula-detail-m52-c977a3e4bd.jpg": {
+      "sha256": "9eb60812451b2942c2b9eafde8c853f2e6b6dcc8a1f5bce414e8c5e60e4974ff",
+      "bytes": 58909
+    },
+    "gallery/images/9ed625d90db164bf0da698cf759cead02147347b353fdc71ce7218c227e7028c/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-5c2c04756a.jpg": {
+      "sha256": "9ed625d90db164bf0da698cf759cead02147347b353fdc71ce7218c227e7028c",
+      "bytes": 1164317
+    },
+    "gallery/images/9f9618c129be8ef00dd1b58a40e9d62628a2cd85978c3d336caa22e9ad7f95ad/m16-eagle-nebula-13h-ha-12h-sii-detail-m16-e0bd8c1004.jpg": {
+      "sha256": "9f9618c129be8ef00dd1b58a40e9d62628a2cd85978c3d336caa22e9ad7f95ad",
+      "bytes": 99433
+    },
+    "gallery/images/9fe11c4eb3fc979e885cf0c1fe702ec8c4b4139754311c17265a178e397ac1d9/ngc7000-north-america-nebula-2-hours-d5300-fma135-annotated-compare-14763f82c5.jpg": {
+      "sha256": "9fe11c4eb3fc979e885cf0c1fe702ec8c4b4139754311c17265a178e397ac1d9",
+      "bytes": 3493946
+    },
+    "gallery/images/a0dabe84d7a6ebf589ed3761258429ab43e0d6343db96414338aab4f7b3eaa3f/m42-m43-orion-349-minutes-8bf11730b6.jpg": {
+      "sha256": "a0dabe84d7a6ebf589ed3761258429ab43e0d6343db96414338aab4f7b3eaa3f",
+      "bytes": 134637
+    },
+    "gallery/images/a13189139ac1b70a812a20fc651d7472185bee35d45c5002e2380bb1d8c5a296/ngc1333-2h15m-4bbaa959da.jpg": {
+      "sha256": "a13189139ac1b70a812a20fc651d7472185bee35d45c5002e2380bb1d8c5a296",
+      "bytes": 155350
+    },
+    "gallery/images/a352c039be8b14a667f661bd6d97b4a7ac027d467717e2148d6a6947c049c068/ngc-281-pacman-nebula-sho-starless-compare-2012167db3.jpg": {
+      "sha256": "a352c039be8b14a667f661bd6d97b4a7ac027d467717e2148d6a6947c049c068",
+      "bytes": 1825856
+    },
+    "gallery/images/a430065daa04c7fffec47721b161bcd20c17e8c7b1bb4e5c10b5eee7369f2f07/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-sho-b59be64be7.jpg": {
+      "sha256": "a430065daa04c7fffec47721b161bcd20c17e8c7b1bb4e5c10b5eee7369f2f07",
+      "bytes": 917618
+    },
+    "gallery/images/a4dc02093efb393cf5b507cb014b10c8a58a432bea7358338f2c2008d1a14d7a/m90-m89-20-mins-detail-m89-e331f3cf4e.jpg": {
+      "sha256": "a4dc02093efb393cf5b507cb014b10c8a58a432bea7358338f2c2008d1a14d7a",
+      "bytes": 13347
+    },
+    "gallery/images/a5f78565fb723ca6b9c33c8c1da49f76652f946b65e2b96a7fac176a5d805612/m-8-lagoon-nebula-3h-ha-90min-sii-luminance-extraction-dee591471c.jpg": {
+      "sha256": "a5f78565fb723ca6b9c33c8c1da49f76652f946b65e2b96a7fac176a5d805612",
+      "bytes": 358172
+    },
+    "gallery/images/a67ab285040c1981549289ec194bbf772f5ee7a384ef48531d2e9bb205bff12b/ngc7000-north-america-nebula-2-hours-d5300-fma135-clean-compare-82b2c11e05.jpg": {
+      "sha256": "a67ab285040c1981549289ec194bbf772f5ee7a384ef48531d2e9bb205bff12b",
+      "bytes": 9491320
+    },
+    "gallery/images/a69a6763b10073981570025edefc23d870feb5c07c06fb3aaf41db21ef6a308f/m31-m32-m110-andromeda-galaxy-4h-rgb-5h-ha-warm-9b2b3af94e.jpg": {
+      "sha256": "a69a6763b10073981570025edefc23d870feb5c07c06fb3aaf41db21ef6a308f",
+      "bytes": 371907
+    },
+    "gallery/images/a69a996ad7d01731266f6296d0e5691e23f0e1b6198add1a9ff6d558011c5a77/m27-dumbell-nebula-5h-d3726a2d41.jpg": {
+      "sha256": "a69a996ad7d01731266f6296d0e5691e23f0e1b6198add1a9ff6d558011c5a77",
+      "bytes": 368766
+    },
+    "gallery/images/a731359332da0ec03bcb949c8c153d7f3bd16bc661e38c55f871c4a43a3ceeee/m20-m21-trifid-nebula-webbs-cross-75-minutes-b2780f7349.jpg": {
+      "sha256": "a731359332da0ec03bcb949c8c153d7f3bd16bc661e38c55f871c4a43a3ceeee",
+      "bytes": 295158
+    },
+    "gallery/images/a778b0ecd48ba8ee572219a62a9b83179c2f127eb01c69138698746f70af7e0e/m81-m82-bodes-galaxy-cigar-galaxy-10-5h-rgb-7h-ha-detail-m82-3f791b48fe.jpg": {
+      "sha256": "a778b0ecd48ba8ee572219a62a9b83179c2f127eb01c69138698746f70af7e0e",
+      "bytes": 31553
+    },
+    "gallery/images/a79065a23b3407b5d9995b8b0d485422998d7d4aa631249e4cf1890144b24a5e/ngc2237-the-rosette-nebula-complex-detail-rosette-compare-sho-8f5c914680.jpg": {
+      "sha256": "a79065a23b3407b5d9995b8b0d485422998d7d4aa631249e4cf1890144b24a5e",
+      "bytes": 709661
+    },
+    "gallery/images/a7fbb8788f5f5f72aff0ecdb910c6a009a545fb55d5d51a9f639a6be494bb341/ic4604-rho-ophiuchi-nebula-105-mins-833d8a98dc.jpg": {
+      "sha256": "a7fbb8788f5f5f72aff0ecdb910c6a009a545fb55d5d51a9f639a6be494bb341",
+      "bytes": 524214
+    },
+    "gallery/images/a81d114b4ef4f91c5996c33d47117b30434711964b9fa231af93864d99773b50/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-6e3ce9a61a.jpg": {
+      "sha256": "a81d114b4ef4f91c5996c33d47117b30434711964b9fa231af93864d99773b50",
+      "bytes": 168364
+    },
+    "gallery/images/a81dc1fe70d70e4b933241b64d892b87fcdbe2f5201073e661b8fb27aebdbf9f/m101-166-minutes-ebe44948c0.jpg": {
+      "sha256": "a81dc1fe70d70e4b933241b64d892b87fcdbe2f5201073e661b8fb27aebdbf9f",
+      "bytes": 481663
+    },
+    "gallery/images/a9c972b0988a85977c65a2b9aa5edc01e902dcddd94881c8793b7e660efbeedf/sh2157-ngc7635-ngc7538-m52-lobster-claw-nebula-bubble-nebula-northern-la-5e02ee6feb.jpg": {
+      "sha256": "a9c972b0988a85977c65a2b9aa5edc01e902dcddd94881c8793b7e660efbeedf",
+      "bytes": 241926
+    },
+    "gallery/images/aac8f7fb28a6dde6ee3b0c238e2ab5ccb7177350b5a84bce56db37b00c5abaae/m104-26-mins-c71e359fe2.jpg": {
+      "sha256": "aac8f7fb28a6dde6ee3b0c238e2ab5ccb7177350b5a84bce56db37b00c5abaae",
+      "bytes": 156243
+    },
+    "gallery/images/aad37d2b44469c220b225caabbdefd192c706b1f3f3556f32757602a5a28cee6/ngc6960-veil-nebula-2h-20m-246d657ce0.jpg": {
+      "sha256": "aad37d2b44469c220b225caabbdefd192c706b1f3f3556f32757602a5a28cee6",
+      "bytes": 452102
+    },
+    "gallery/images/abf5de894a79bdf6cc1e0226d2e0d837a5a088bf51363ea06c6874ac18ba3665/m16-m17-eagle-nebula-swan-nebula-228m-sii-236m-ha-f35186cab3.jpg": {
+      "sha256": "abf5de894a79bdf6cc1e0226d2e0d837a5a088bf51363ea06c6874ac18ba3665",
+      "bytes": 511600
+    },
+    "gallery/images/ac8e3e59da3554477a7f6120351ff7d07cd6bda63bfd401858c1c4ffd4f609c0/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--e239617b1e.jpg": {
+      "sha256": "ac8e3e59da3554477a7f6120351ff7d07cd6bda63bfd401858c1c4ffd4f609c0",
+      "bytes": 2711929
+    },
+    "gallery/images/ad24b70e1e6ffd1e338f338619996d5971e066fe15006ed9212e913a06e3cce9/ngc-281-pacman-nebula-1731c8a428.jpg": {
+      "sha256": "ad24b70e1e6ffd1e338f338619996d5971e066fe15006ed9212e913a06e3cce9",
+      "bytes": 314013
+    },
+    "gallery/images/af5aeab41f4cd06f06e2549f4713f757d6d6e587fb0ab54f150d384f4431924c/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--8e4ff1ac27.jpg": {
+      "sha256": "af5aeab41f4cd06f06e2549f4713f757d6d6e587fb0ab54f150d384f4431924c",
+      "bytes": 17897
+    },
+    "gallery/images/afe22c43e262de5dc2d1a619d83341b25dd1e4759695e7b4d9b3709a7dd91fb2/ngc2359-thors-helmet-2h-7m-bcd950e519.jpg": {
+      "sha256": "afe22c43e262de5dc2d1a619d83341b25dd1e4759695e7b4d9b3709a7dd91fb2",
+      "bytes": 234013
+    },
+    "gallery/images/b04cfda2d8029c6241b6f4ea4bf25d300dddb14e1fe6a304601787439c23c2ae/m8-m20-lagoon-nebula-trifid-nebula-hero-a5d04d79b6.jpg": {
+      "sha256": "b04cfda2d8029c6241b6f4ea4bf25d300dddb14e1fe6a304601787439c23c2ae",
+      "bytes": 3617607
+    },
+    "gallery/images/b1821aa18faf9106ca0be01657b609d71450f32159e35eb8d2fdf130f5449565/m22-41-mins-a10cee1b0c.jpg": {
+      "sha256": "b1821aa18faf9106ca0be01657b609d71450f32159e35eb8d2fdf130f5449565",
+      "bytes": 303021
+    },
+    "gallery/images/b21b9b89efd6052d3a486bef2e09ba659a491d1c7952dbe0a4f732cc980065dc/ngc7293-helix-nebula-2h-15m-3175c47168.jpg": {
+      "sha256": "b21b9b89efd6052d3a486bef2e09ba659a491d1c7952dbe0a4f732cc980065dc",
+      "bytes": 1357603
+    },
+    "gallery/images/b27ed4222850f34951ae272899649b717a023c25b40f75097d021c885941fee4/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--14cbbf1082.jpg": {
+      "sha256": "b27ed4222850f34951ae272899649b717a023c25b40f75097d021c885941fee4",
+      "bytes": 17183
+    },
+    "gallery/images/b2f97e5de66e3e70d5e2cf2e3e0d839f215f0eef4d9b1f1c81889c2f1e9f3c51/ic434-horsehead-nebula-2h15m-b27accd866.jpg": {
+      "sha256": "b2f97e5de66e3e70d5e2cf2e3e0d839f215f0eef4d9b1f1c81889c2f1e9f3c51",
+      "bytes": 587720
+    },
+    "gallery/images/b38a79fbc516e5b295fd66e1d17e6bb147f4c70441a3374f7dea1528b89b6eeb/m94-1-hour-97825438cb.jpg": {
+      "sha256": "b38a79fbc516e5b295fd66e1d17e6bb147f4c70441a3374f7dea1528b89b6eeb",
+      "bytes": 122972
+    },
+    "gallery/images/b4f07e23cc40994e1cd03e11108bec4ac868201f104634c86308fa356da3cb90/ngc-281-pacman-nebula-sho-compare-ebbca6e08b.jpg": {
+      "sha256": "b4f07e23cc40994e1cd03e11108bec4ac868201f104634c86308fa356da3cb90",
+      "bytes": 1973730
+    },
+    "gallery/images/b5606b558622757c947d4203b55b15213a477ad5d120d9b52c565ed6410e660d/ic1805-ic1848-heart-nebula-soul-nebula-detail-heart-nebula-785d699df8.jpg": {
+      "sha256": "b5606b558622757c947d4203b55b15213a477ad5d120d9b52c565ed6410e660d",
+      "bytes": 297240
+    },
+    "gallery/images/b58f3dc94974a9df4faf59e169d6da5f2c2ad1ef4b30cf6e8b3fc3d781ee0d44/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--98eb3f6d2a.jpg": {
+      "sha256": "b58f3dc94974a9df4faf59e169d6da5f2c2ad1ef4b30cf6e8b3fc3d781ee0d44",
+      "bytes": 21268
+    },
+    "gallery/images/b6108d64817f2fa8bba15847dc8bc74006695329c3c48983b3c50781fb9981d6/sh2101-ngc6888-ic1318-tulip-nebula-crescent-nebula-sadr-region-463-minut-592a76fc3a.jpg": {
+      "sha256": "b6108d64817f2fa8bba15847dc8bc74006695329c3c48983b3c50781fb9981d6",
+      "bytes": 306636
+    },
+    "gallery/images/b6c187308227c2cccb99b1af44ae405630389f211fc28ae69550a1b055a63b74/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-detail-m80-215e35104c.jpg": {
+      "sha256": "b6c187308227c2cccb99b1af44ae405630389f211fc28ae69550a1b055a63b74",
+      "bytes": 35508
+    },
+    "gallery/images/b6f767f8c2de09153574038f6b1923922e7fbc99a2866b656cb8a80837adae1a/ic1396-elephant-trunk-nebula-11-hours-ef229c7e3c.jpg": {
+      "sha256": "b6f767f8c2de09153574038f6b1923922e7fbc99a2866b656cb8a80837adae1a",
+      "bytes": 617875
+    },
+    "gallery/images/b83436c50a889896a39aef6ebb5dcca043237cfe778d66ddcb589e45482f6eb0/ngc2174-monkey-head-nebula-ha-3h-sii-4h-3c84868829.jpg": {
+      "sha256": "b83436c50a889896a39aef6ebb5dcca043237cfe778d66ddcb589e45482f6eb0",
+      "bytes": 138373
+    },
+    "gallery/images/b948556be815a24298efce12be627d42198ca08ed32c2ee45e2989ba363d8d15/m8-lagoon-nebula-105-minutes-compare-smart-sho-12hha-12hsii-8a2f49e8cf.jpg": {
+      "sha256": "b948556be815a24298efce12be627d42198ca08ed32c2ee45e2989ba363d8d15",
+      "bytes": 475257
+    },
+    "gallery/images/b977ad813a9a2b96e6c90068827cedd167261ef49c7e27b4011ec5167a491f9d/m27-dumbbell-nebula-4-5h-hero-d6cc60f094.jpg": {
+      "sha256": "b977ad813a9a2b96e6c90068827cedd167261ef49c7e27b4011ec5167a491f9d",
+      "bytes": 889491
+    },
+    "gallery/images/b9a856db6c57c17930e6c3dff4eb22d3ac35038a8d18f94f0d195de2f764691d/m8-lagoon-nebula-105-minutes-compare-smart-sho-12hha-12hsii-7377f529fa.jpg": {
+      "sha256": "b9a856db6c57c17930e6c3dff4eb22d3ac35038a8d18f94f0d195de2f764691d",
+      "bytes": 1343248
+    },
+    "gallery/images/ba9ed3de4a985966ae1365d6dc6e27d6afdcd2bb4d9afe6f190c792b505a350f/m97-m108-owl-nebula-surfboard-galaxy-8-hours-detail-m97-c14a93e061.jpg": {
+      "sha256": "ba9ed3de4a985966ae1365d6dc6e27d6afdcd2bb4d9afe6f190c792b505a350f",
+      "bytes": 69599
+    },
+    "gallery/images/bab3385a07ad78accd24c6489586e62588c392e5d3c67265d17395c9d94ff141/m90-m89-20-mins-detail-m90-bb75289656.jpg": {
+      "sha256": "bab3385a07ad78accd24c6489586e62588c392e5d3c67265d17395c9d94ff141",
+      "bytes": 19213
+    },
+    "gallery/images/bb433a48d8f0760703d7a482dc6927b22a56daa439000d9142a6056104ab08c1/ngc7000-ic5070-ic1318-north-america-nebula-pelican-nebula-butterfly-nebu-1f8d3c7a3a.jpg": {
+      "sha256": "bb433a48d8f0760703d7a482dc6927b22a56daa439000d9142a6056104ab08c1",
+      "bytes": 2056854
+    },
+    "gallery/images/bb71c378b3b50aaa75b4ce851050cf9903aca34b872aae2edb10af5ed1653bef/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-ea2877ac4a.jpg": {
+      "sha256": "bb71c378b3b50aaa75b4ce851050cf9903aca34b872aae2edb10af5ed1653bef",
+      "bytes": 46510
+    },
+    "gallery/images/bc241308046d0e643515883db6b80179b057ff7334c3ab93c6ad709971f34508/m87-with-visible-relativistic-black-hole-jet-detail-jet-64f5f14c7a.jpg": {
+      "sha256": "bc241308046d0e643515883db6b80179b057ff7334c3ab93c6ad709971f34508",
+      "bytes": 14919
+    },
+    "gallery/images/bd185d4d51fef26b2908ab5b0b61b5ee78cfeeee76e69c6eefb19c6045c874c2/ngc7331-deer-lick-group-detail-stephans-quintet-2197864aec.jpg": {
+      "sha256": "bd185d4d51fef26b2908ab5b0b61b5ee78cfeeee76e69c6eefb19c6045c874c2",
+      "bytes": 140937
+    },
+    "gallery/images/bd40ff7f98076fb4ee751d97072eb2c589a0ca5664584ceef4b9d6d916429ee6/m45-pleiades-6-hours-detail-m45-00ba1f7454.jpg": {
+      "sha256": "bd40ff7f98076fb4ee751d97072eb2c589a0ca5664584ceef4b9d6d916429ee6",
+      "bytes": 734398
+    },
+    "gallery/images/bda2702f098c99f65c296b0a61cac5c9d0085011881dde1bed40108ca7bc40ce/m81-m82-bodes-galaxy-cigar-galaxy-254-minutes-0114f75892.jpg": {
+      "sha256": "bda2702f098c99f65c296b0a61cac5c9d0085011881dde1bed40108ca7bc40ce",
+      "bytes": 318126
+    },
+    "gallery/images/be03eb23190f26f8cc6839b4b3071e10fc0f6b31203ac74cc32a7d761a885b82/ngc281-pacman-nebula-compare-mono-11h-1123915f1e.jpg": {
+      "sha256": "be03eb23190f26f8cc6839b4b3071e10fc0f6b31203ac74cc32a7d761a885b82",
+      "bytes": 502413
+    },
+    "gallery/images/be16c99d5733a09853ad02415a9452fa4af3aaf087feefe0ade0b674ce9e7adb/ic1318-m29-butterfly-nebula-cooling-tower-cluster-2-hours-detail-m29-74af37fbde.jpg": {
+      "sha256": "be16c99d5733a09853ad02415a9452fa4af3aaf087feefe0ade0b674ce9e7adb",
+      "bytes": 48146
+    },
+    "gallery/images/be5d999baf8e37ab1a5ae3fb5473a5c77420dbafe354c41ab04db32c021e019b/m8-m20-lagoon-nebula-trifid-nebula-detail-trifid-compare-bortle-2-49-min-7f3dcb7040.jpg": {
+      "sha256": "be5d999baf8e37ab1a5ae3fb5473a5c77420dbafe354c41ab04db32c021e019b",
+      "bytes": 1175226
+    },
+    "gallery/images/be68a9c30cbe9ed8f576f77b7e4e1bc0b3f2f5a847ac7fa0414a43fb8270af2a/m16-eagle-nebula-sho-7h-ha-10hsii-d29d8c7740.jpg": {
+      "sha256": "be68a9c30cbe9ed8f576f77b7e4e1bc0b3f2f5a847ac7fa0414a43fb8270af2a",
+      "bytes": 208023
+    },
+    "gallery/images/be76d317ebf3850fdd095184f24e3318587d624985231d242e6201b6ce3b9618/ic1805-ic1848-heart-nebula-soul-nebula-compare-draft-0912ec0eab.jpg": {
+      "sha256": "be76d317ebf3850fdd095184f24e3318587d624985231d242e6201b6ce3b9618",
+      "bytes": 1185375
+    },
+    "gallery/images/bea9b6d79392b857a0ec101c7b4aaf199979ea8e44a3bb622838a3a2648a7595/ngc7293-helix-nebula-4-5-hours-9b41dc18c5.jpg": {
+      "sha256": "bea9b6d79392b857a0ec101c7b4aaf199979ea8e44a3bb622838a3a2648a7595",
+      "bytes": 118118
+    },
+    "gallery/images/beb220b2940e9a2effefa8e736b7c4806a148b843eb761857e3e10f879a0a95f/sh2101-ngc6888-ic1318-tulip-nebula-crescent-nebula-sadr-region-414-minut-8f7144a204.jpg": {
+      "sha256": "beb220b2940e9a2effefa8e736b7c4806a148b843eb761857e3e10f879a0a95f",
+      "bytes": 222446
+    },
+    "gallery/images/becb3088353f3eaf8abcc894a65da197fb2be896759a4bc382731951268081a4/ic1805-ic1848-heart-nebula-soul-nebula-compare-dramatic-cb2387c9de.jpg": {
+      "sha256": "becb3088353f3eaf8abcc894a65da197fb2be896759a4bc382731951268081a4",
+      "bytes": 764937
+    },
+    "gallery/images/bff4fa2ef657f9e74cc2ecf9850ef89a370860c857867a5b6adf9532526ac3e6/m52-ngc7635-bubble-nebula-compare-oss-3a72cdaba3.jpg": {
+      "sha256": "bff4fa2ef657f9e74cc2ecf9850ef89a370860c857867a5b6adf9532526ac3e6",
+      "bytes": 2068867
+    },
+    "gallery/images/c0ba0436ec3fa8cd6109412fa12c7f2348a76e056cbc4832de8bff9b878834eb/m31-m32-m110-andromeda-galaxy-4h-rgb-5h-ha-warm-detail-m32-0b0b4fd193.jpg": {
+      "sha256": "c0ba0436ec3fa8cd6109412fa12c7f2348a76e056cbc4832de8bff9b878834eb",
+      "bytes": 6063
+    },
+    "gallery/images/c0c8deaf429c53a02b5d877a7bf93f0e24f8154b39bbb8961f4486da3351df4e/barnards-loop-8-hours-hero-18fec1ac21.jpg": {
+      "sha256": "c0c8deaf429c53a02b5d877a7bf93f0e24f8154b39bbb8961f4486da3351df4e",
+      "bytes": 1440956
+    },
+    "gallery/images/c0cef6bc25d84de50e1fdd7066686df4ecfe749a61b4dc5d51f579c1beae1bc6/ngc7000-north-america-nebula-2-hours-d5300-fma135-figure-setup-be70b100ec.jpg": {
+      "sha256": "c0cef6bc25d84de50e1fdd7066686df4ecfe749a61b4dc5d51f579c1beae1bc6",
+      "bytes": 102221
+    },
+    "gallery/images/c0d46210196842ff601ae8c5ee04f8e428ca91f8b15d1ca44fc5202b0726586a/sh2132-lion-nebula-6-hours-928d3cfdab.jpg": {
+      "sha256": "c0d46210196842ff601ae8c5ee04f8e428ca91f8b15d1ca44fc5202b0726586a",
+      "bytes": 811804
+    },
+    "gallery/images/c14ebcdbf4e889f82394a6ca8beb127d8ed5cd3e42385f999cb3790eddfe7494/m8-m20-lagoon-nebula-trifid-nebula-detail-lagoon-compare-bortle-2-49-min-677ab7cba3.jpg": {
+      "sha256": "c14ebcdbf4e889f82394a6ca8beb127d8ed5cd3e42385f999cb3790eddfe7494",
+      "bytes": 401834
+    },
+    "gallery/images/c1c5bf1ae25435bec5cddbc3af914aceffe9e07f28eccf079cb8c7976acc784d/ic1805-ic1848-heart-nebula-soul-nebula-detail-soul-nebula-2c808fc50b.jpg": {
+      "sha256": "c1c5bf1ae25435bec5cddbc3af914aceffe9e07f28eccf079cb8c7976acc784d",
+      "bytes": 257629
+    },
+    "gallery/images/c2373e4b8d6c3636e55d98be9d6b36cc994875b30c27a521e661d6b32e7f3fbb/m106-4-hours-b803669b0e.jpg": {
+      "sha256": "c2373e4b8d6c3636e55d98be9d6b36cc994875b30c27a521e661d6b32e7f3fbb",
+      "bytes": 161233
+    },
+    "gallery/images/c26f9ad8f2a06734ede319d2c8ceead9554ec6f5e669237c3e4f23d5cc74e174/m51-whirlpool-271-minutes-a45bfbb5a0.jpg": {
+      "sha256": "c26f9ad8f2a06734ede319d2c8ceead9554ec6f5e669237c3e4f23d5cc74e174",
+      "bytes": 287975
+    },
+    "gallery/images/c28997a0f6eee78fa2f95d3b8e4bc83dc40f3e47b2927f17d6d2b4cebfe4c814/m31-m32-m110-andromeda-galaxy-4h-rgb-5h-ha-warm-detail-m31-7d6a56eceb.jpg": {
+      "sha256": "c28997a0f6eee78fa2f95d3b8e4bc83dc40f3e47b2927f17d6d2b4cebfe4c814",
+      "bytes": 417268
+    },
+    "gallery/images/c29bc6f6da764d188221b57657ad1761526f219575eb26eba0641431e1da3d21/m102-144-mins-551d834916.jpg": {
+      "sha256": "c29bc6f6da764d188221b57657ad1761526f219575eb26eba0641431e1da3d21",
+      "bytes": 177077
+    },
+    "gallery/images/c2a429d6d62970fbde5efdf1c5c32f4555106231770ceca7d720d1e859142f2f/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--85e11173e2.jpg": {
+      "sha256": "c2a429d6d62970fbde5efdf1c5c32f4555106231770ceca7d720d1e859142f2f",
+      "bytes": 10178
+    },
+    "gallery/images/c2b9ce57e39bf362570d92e7ec879347515734d6a12e30010e25376d5a708b9f/m8-m20-lagoon-nebula-trifid-nebula-compare-bortle-5-247-mins-42af64caaa.jpg": {
+      "sha256": "c2b9ce57e39bf362570d92e7ec879347515734d6a12e30010e25376d5a708b9f",
+      "bytes": 1754127
+    },
+    "gallery/images/c392c06d7428cd057acaf7e27220bab52a5459ec0dbbaf7002ef7a593d153f4f/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-sho-93d220a2b3.jpg": {
+      "sha256": "c392c06d7428cd057acaf7e27220bab52a5459ec0dbbaf7002ef7a593d153f4f",
+      "bytes": 369923
+    },
+    "gallery/images/c392c06d7428cd057acaf7e27220bab52a5459ec0dbbaf7002ef7a593d153f4f/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-sho-db389ed417.jpg": {
+      "sha256": "c392c06d7428cd057acaf7e27220bab52a5459ec0dbbaf7002ef7a593d153f4f",
+      "bytes": 369923
+    },
+    "gallery/images/c398c908ad7a060a87c4de86f30eab6cf14ecf50cf5adaf3dd5f0cdaec98a432/m16-eagle-nebula-ha-90m-sii-1h-794efb85ae.jpg": {
+      "sha256": "c398c908ad7a060a87c4de86f30eab6cf14ecf50cf5adaf3dd5f0cdaec98a432",
+      "bytes": 237287
+    },
+    "gallery/images/c3ddc0c2a080558704a5936a27ea7a7154fe200a4c2544745e7de6124a85749e/ic1396-elephant-trunk-nebula-4h-ha-5h-sii-e8d0deb259.jpg": {
+      "sha256": "c3ddc0c2a080558704a5936a27ea7a7154fe200a4c2544745e7de6124a85749e",
+      "bytes": 763287
+    },
+    "gallery/images/c413258ecd6364fee301310427d80c7c8ad9c538a6866a65581ac56360fe697e/ngc2237-the-rosette-nebula-complex-annotated-69897a5280.jpg": {
+      "sha256": "c413258ecd6364fee301310427d80c7c8ad9c538a6866a65581ac56360fe697e",
+      "bytes": 13904761
+    },
+    "gallery/images/c4228c343a96c92b8d1e2f655228407a5b87714de0648f5892d8a1d7788cb2b7/ic5146-cocoon-nebula-150mins-27eb2efc30.jpg": {
+      "sha256": "c4228c343a96c92b8d1e2f655228407a5b87714de0648f5892d8a1d7788cb2b7",
+      "bytes": 774941
+    },
+    "gallery/images/c5c1539e37e61673202a1db3c004576d766a8a7f60a960615b61ed5925e90164/m85-35-mins-7ad7ca55c5.jpg": {
+      "sha256": "c5c1539e37e61673202a1db3c004576d766a8a7f60a960615b61ed5925e90164",
+      "bytes": 104867
+    },
+    "gallery/images/c60e2a34acfb14b6960dea91d2a20c8a3c75b3ed7a37fa857cd7c83b183d3d8c/ic1396-elephant-trunk-nebula-11-hours-detail-star-dust-c2cc5c4eda.jpg": {
+      "sha256": "c60e2a34acfb14b6960dea91d2a20c8a3c75b3ed7a37fa857cd7c83b183d3d8c",
+      "bytes": 330395
+    },
+    "gallery/images/c61947648b9caa4d20a14ca02692e95be499fbd4d8b94fa95feb2f175da5a1d5/ngc1499-california-nebula-6-hours-ce0e415966.jpg": {
+      "sha256": "c61947648b9caa4d20a14ca02692e95be499fbd4d8b94fa95feb2f175da5a1d5",
+      "bytes": 373977
+    },
+    "gallery/images/c6a9d94c1d7041525759a5f9ed4ac8773633709dd1893c627486727c2c96a7fa/ngc6604-m16-m17-m24-m21-m20-m8-nest-nebula-eagle-nebula-swan-nebula-smal-d7060a2921.jpg": {
+      "sha256": "c6a9d94c1d7041525759a5f9ed4ac8773633709dd1893c627486727c2c96a7fa",
+      "bytes": 183257
+    },
+    "gallery/images/c6f1521c40b847d16809f3f5083bd9adc3f6d73ca83aa5bfb457377e42adf8f4/m31-andromeda-galaxy-25h-compare-before-at2026aabo-90ea2fa9ca.jpg": {
+      "sha256": "c6f1521c40b847d16809f3f5083bd9adc3f6d73ca83aa5bfb457377e42adf8f4",
+      "bytes": 892560
+    },
+    "gallery/images/c8c6f3f1e71192ccc9095ed2e314ecdedf5c22099d15ea7fabec9c05faa6a928/ngc7331-deer-lick-group-detail-c30-and-surrounding-galaxies-0b0477942e.jpg": {
+      "sha256": "c8c6f3f1e71192ccc9095ed2e314ecdedf5c22099d15ea7fabec9c05faa6a928",
+      "bytes": 227034
+    },
+    "gallery/images/c8ccd0fbe616bab0fd96579a94806ad30732136ee60619526f6b0a6bad5f9412/m42-m43-orion-12-hours-detail-m42-3a1e642614.jpg": {
+      "sha256": "c8ccd0fbe616bab0fd96579a94806ad30732136ee60619526f6b0a6bad5f9412",
+      "bytes": 129815
+    },
+    "gallery/images/c976da6c95e29142158b66d1e27db955ec20473eda32b0e1b802b34a8cb85dae/m98-m99-20-minutes-detail-m98-4c107c7a85.jpg": {
+      "sha256": "c976da6c95e29142158b66d1e27db955ec20473eda32b0e1b802b34a8cb85dae",
+      "bytes": 154945
+    },
+    "gallery/images/c9f14b12aa7a9ef535d20bdc4a6c381b06f9ce549a36e715a1bea14000939336/milkyway-extended-cygnus-region-5h-compare-annotated-60f579d1e9.jpg": {
+      "sha256": "c9f14b12aa7a9ef535d20bdc4a6c381b06f9ce549a36e715a1bea14000939336",
+      "bytes": 2833958
+    },
+    "gallery/images/ca749dca411ea8db981af0f886aec35c1f8d84e9d05538d7f724074f653b3c18/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-224-minutes-detail-m2-7ca428872e.jpg": {
+      "sha256": "ca749dca411ea8db981af0f886aec35c1f8d84e9d05538d7f724074f653b3c18",
+      "bytes": 44273
+    },
+    "gallery/images/cb22e866cac283a3c22a0978f58ac00775e8da49ecf7b5294d7c232379d4b0a4/ngc2237-the-rosette-nebula-complex-compare-sho-925d583295.jpg": {
+      "sha256": "cb22e866cac283a3c22a0978f58ac00775e8da49ecf7b5294d7c232379d4b0a4",
+      "bytes": 6848161
+    },
+    "gallery/images/cc2b989fd14f31e289f0d842bbf0b4767d83df53b4d121c19b231a1790c899da/m31-m32-m110-andromeda-galaxy-3-hours-096b2e83d0.jpg": {
+      "sha256": "cc2b989fd14f31e289f0d842bbf0b4767d83df53b4d121c19b231a1790c899da",
+      "bytes": 369405
+    },
+    "gallery/images/cc2b9966574946a4a18dab062342839c49d8a187c228024b4c68d5c2ac30bd0a/ngc7000-ic5070-north-america-nebula-pelican-nebula-127m-sii-256m-ha-extr-fda2a5341f.jpg": {
+      "sha256": "cc2b9966574946a4a18dab062342839c49d8a187c228024b4c68d5c2ac30bd0a",
+      "bytes": 1283612
+    },
+    "gallery/images/cc5756aabe45dbef13c9a69149beb42565b24df2357ffaa8c1b9b75c5624c41f/ngc7331-deer-lick-group-detail-annotated-field-4fc9849b4d.jpg": {
+      "sha256": "cc5756aabe45dbef13c9a69149beb42565b24df2357ffaa8c1b9b75c5624c41f",
+      "bytes": 117421
+    },
+    "gallery/images/cd2332bc96576525f3abafd7b6420d98ea88faa996f782369828b68bdce271da/ngc7000-north-america-nebula-2-hours-d5300-fma135-processed-compare-b806c2f006.jpg": {
+      "sha256": "cd2332bc96576525f3abafd7b6420d98ea88faa996f782369828b68bdce271da",
+      "bytes": 3163072
+    },
+    "gallery/images/cd6ddfc5f8a6d73210b5ecaa6e39684ba1cb7758fd16bada8b6d0029e5ff84af/m27-dumbbell-nebula-4-5h-compare-lanczos4-f4ce79863c.jpg": {
+      "sha256": "cd6ddfc5f8a6d73210b5ecaa6e39684ba1cb7758fd16bada8b6d0029e5ff84af",
+      "bytes": 257729
+    },
+    "gallery/images/cddb1c9e181c9caf317c4207657bebddaaac4f4859202a5b354ccbbb08c5313c/sh2157-ngc7635-m52-lobster-claw-nebula-bubble-nebula-salt-and-pepper-clu-0b14404747.jpg": {
+      "sha256": "cddb1c9e181c9caf317c4207657bebddaaac4f4859202a5b354ccbbb08c5313c",
+      "bytes": 677492
+    },
+    "gallery/images/cf05ae3e76844ef3d099d4b8fe0cb3045ab242290904213d50c264a1305e5d8e/m26-10-mins-c5d7b1fc26.jpg": {
+      "sha256": "cf05ae3e76844ef3d099d4b8fe0cb3045ab242290904213d50c264a1305e5d8e",
+      "bytes": 109743
+    },
+    "gallery/images/cf76f0be48f83d8f5f94ce79efdee794b8d6330c5ff0dca00a73a999b6ca5c4e/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-d686c90b54.jpg": {
+      "sha256": "cf76f0be48f83d8f5f94ce79efdee794b8d6330c5ff0dca00a73a999b6ca5c4e",
+      "bytes": 312990
+    },
+    "gallery/images/cf76f0be48f83d8f5f94ce79efdee794b8d6330c5ff0dca00a73a999b6ca5c4e/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-7931157d77.jpg": {
+      "sha256": "cf76f0be48f83d8f5f94ce79efdee794b8d6330c5ff0dca00a73a999b6ca5c4e",
+      "bytes": 312990
+    },
+    "gallery/images/cfca5e118c50b8385c5a446e44969ebefb9aaa8cc9ace3a5593def42d2a7a633/m100-42-mins-a16bc0deea.jpg": {
+      "sha256": "cfca5e118c50b8385c5a446e44969ebefb9aaa8cc9ace3a5593def42d2a7a633",
+      "bytes": 407666
+    },
+    "gallery/images/d021185d05eb0e544b0a1bff67198ea3d560950dfe31d7cb9e8953b6b5f1ad0a/ic1805-ic1848-heart-nebula-soul-nebula-compare-dramatic-3688614303.jpg": {
+      "sha256": "d021185d05eb0e544b0a1bff67198ea3d560950dfe31d7cb9e8953b6b5f1ad0a",
+      "bytes": 1968460
+    },
+    "gallery/images/d148c7210278d2d251b160345963f30ff15473ce957991e4ef11617d3328beb5/ngc2237-the-rosette-nebula-complex-hoo-22h-3aa98a72e8.jpg": {
+      "sha256": "d148c7210278d2d251b160345963f30ff15473ce957991e4ef11617d3328beb5",
+      "bytes": 13026628
+    },
+    "gallery/images/d1527e0898b4f7e1d0e31545a14e16dcd7362fd9c175e7707e5e048a9974d5d2/ngc6946-ngc6939-fireworks-galaxy-1h-ce03a0ebf0.jpg": {
+      "sha256": "d1527e0898b4f7e1d0e31545a14e16dcd7362fd9c175e7707e5e048a9974d5d2",
+      "bytes": 251569
+    },
+    "gallery/images/d19d65d562aa9cd2e67e75e08f385218aaa9e2a8c37fbc591b6ec44b9404e003/ic1805-ic1848-heart-nebula-soul-nebula-variant-raw-e84770aa6b.jpg": {
+      "sha256": "d19d65d562aa9cd2e67e75e08f385218aaa9e2a8c37fbc591b6ec44b9404e003",
+      "bytes": 687734
+    },
+    "gallery/images/d26eecef69212d89bd2cc13f0861e7085db70fa6a2f83f9a918fa172e15312b6/ngc281-pacman-nebula-hero-282c50586a.jpg": {
+      "sha256": "d26eecef69212d89bd2cc13f0861e7085db70fa6a2f83f9a918fa172e15312b6",
+      "bytes": 1932010
+    },
+    "gallery/images/d2ef9cc82d61fd06c995d2c7951bcadc1bc7d445877672fcdb686e09f4c8e928/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--fccc4f4d1e.jpg": {
+      "sha256": "d2ef9cc82d61fd06c995d2c7951bcadc1bc7d445877672fcdb686e09f4c8e928",
+      "bytes": 10484
+    },
+    "gallery/images/d37c2cd3d4e5afc19fa040be9bcb785f993a03c363fec857874aca8ef436ea75/ic1805-ic1848-heart-nebula-soul-nebula-variant-dramatic-8976828bfd.jpg": {
+      "sha256": "d37c2cd3d4e5afc19fa040be9bcb785f993a03c363fec857874aca8ef436ea75",
+      "bytes": 552037
+    },
+    "gallery/images/d4b97962a7bef253f35d39d46beaa559dc1d35ffa8ac3fc12faf01b4aa8e16d5/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-19d17a9f93.jpg": {
+      "sha256": "d4b97962a7bef253f35d39d46beaa559dc1d35ffa8ac3fc12faf01b4aa8e16d5",
+      "bytes": 962035
+    },
+    "gallery/images/d4de5e1f1a231554059858d75363d18058eb2ece8d2a06766da8370290970a74/m8-m20-lagoon-nebula-trifid-nebula-detail-lagoon-compare-bortle-5-247-mi-bac5d24491.jpg": {
+      "sha256": "d4de5e1f1a231554059858d75363d18058eb2ece8d2a06766da8370290970a74",
+      "bytes": 382796
+    },
+    "gallery/images/d53cd94fae7401451097840e0f70811bbdae0df09e3fa154e29837efdb643ee9/m104-26-mins-detail-m104-d36ab2e781.jpg": {
+      "sha256": "d53cd94fae7401451097840e0f70811bbdae0df09e3fa154e29837efdb643ee9",
+      "bytes": 30823
+    },
+    "gallery/images/d5f198a4e6e24cebf763c654d56bdb11cd715a75670aedccee19c75a24cadabe/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-sv220sii-1e463a2402.jpg": {
+      "sha256": "d5f198a4e6e24cebf763c654d56bdb11cd715a75670aedccee19c75a24cadabe",
+      "bytes": 322218
+    },
+    "gallery/images/d5f198a4e6e24cebf763c654d56bdb11cd715a75670aedccee19c75a24cadabe/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-sv220sii-cea5e35bbd.jpg": {
+      "sha256": "d5f198a4e6e24cebf763c654d56bdb11cd715a75670aedccee19c75a24cadabe",
+      "bytes": 322218
+    },
+    "gallery/images/d9bcee6b63ab843f6443cd8023c308dfdf4ec477de61e1eb5f10433f67b02d7c/m51-18-hours-ae4da907b1.jpg": {
+      "sha256": "d9bcee6b63ab843f6443cd8023c308dfdf4ec477de61e1eb5f10433f67b02d7c",
+      "bytes": 144867
+    },
+    "gallery/images/d9dee373a5fde4a395dfffeab00afc8f3103fe75dec74d87e3cf74d0c1246655/ngc7635-bubble-nebula-2h-40m-61c60f5dc4.jpg": {
+      "sha256": "d9dee373a5fde4a395dfffeab00afc8f3103fe75dec74d87e3cf74d0c1246655",
+      "bytes": 3721041
+    },
+    "gallery/images/da53828e9bd100b1a9cd4dd412138b41b5345b9ebb1260eb62a86085970b70b7/m78-151-minutes-8f280c7b96.jpg": {
+      "sha256": "da53828e9bd100b1a9cd4dd412138b41b5345b9ebb1260eb62a86085970b70b7",
+      "bytes": 261903
+    },
+    "gallery/images/dcce68f417f43905e1e5ce3fc22e03148e44e1424fb69c0b6cc5527caa404b19/ngc2237-the-rosette-nebula-complex-detail-foxfur-compare-hoo-7482f0a5fc.jpg": {
+      "sha256": "dcce68f417f43905e1e5ce3fc22e03148e44e1424fb69c0b6cc5527caa404b19",
+      "bytes": 4777427
+    },
+    "gallery/images/dd0fc3fe90429a9f740c132c6dd28bd28f11fe740d059e4b1570bef58c0967f6/m31-m32-m110-andromeda-galaxy-4h-rgb-5h-ha-cool-2519652c19.jpg": {
+      "sha256": "dd0fc3fe90429a9f740c132c6dd28bd28f11fe740d059e4b1570bef58c0967f6",
+      "bytes": 318167
+    },
+    "gallery/images/dd19a82a3ae6d51b1f8c4461347654fced592fe303d2fb929ede687fbcb140e4/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-sho-4bc83d2545.jpg": {
+      "sha256": "dd19a82a3ae6d51b1f8c4461347654fced592fe303d2fb929ede687fbcb140e4",
+      "bytes": 135863
+    },
+    "gallery/images/dd19a82a3ae6d51b1f8c4461347654fced592fe303d2fb929ede687fbcb140e4/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-sho-467e9cef35.jpg": {
+      "sha256": "dd19a82a3ae6d51b1f8c4461347654fced592fe303d2fb929ede687fbcb140e4",
+      "bytes": 135863
+    },
+    "gallery/images/dd73a856ae226ca71199e658d766eb0f5937f4bf3030ae4fb64598802e7929f3/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-3b294fce60.jpg": {
+      "sha256": "dd73a856ae226ca71199e658d766eb0f5937f4bf3030ae4fb64598802e7929f3",
+      "bytes": 924434
+    },
+    "gallery/images/de97895823226eabdece73dd40e499a6306673a5834739339ac91472c03589c5/monkey-head-147-minutes-9f0f6c6e32.jpg": {
+      "sha256": "de97895823226eabdece73dd40e499a6306673a5834739339ac91472c03589c5",
+      "bytes": 428171
+    },
+    "gallery/images/de9ee8b381cd8a1e6aa7ad361dd2141493ee53b4106730b845c0060b9d3c65a8/m52-ngc7635-bubble-nebula-compare-sho-453a8cc9b1.jpg": {
+      "sha256": "de9ee8b381cd8a1e6aa7ad361dd2141493ee53b4106730b845c0060b9d3c65a8",
+      "bytes": 623099
+    },
+    "gallery/images/ded16d36e4b0bf9dd1d1fdc616c281ddb9bfc5627514c344eba36057f628be89/milkyway-cepheus-and-cygnus-200-mins-19727bf699.jpg": {
+      "sha256": "ded16d36e4b0bf9dd1d1fdc616c281ddb9bfc5627514c344eba36057f628be89",
+      "bytes": 755106
+    },
+    "gallery/images/df85c53d49cd85717329f00bcc8686b95fe12e56e0f122638a4f80760799330a/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-a680d8ae3a.jpg": {
+      "sha256": "df85c53d49cd85717329f00bcc8686b95fe12e56e0f122638a4f80760799330a",
+      "bytes": 7536313
+    },
+    "gallery/images/dfff58f216294a6fa0d2bb564ba9290b794c9a858ab9a13968a0eb88248bdbc8/m1-crab-nebula-3-45-hours-detail-m1-a8005cc9b3.jpg": {
+      "sha256": "dfff58f216294a6fa0d2bb564ba9290b794c9a858ab9a13968a0eb88248bdbc8",
+      "bytes": 29664
+    },
+    "gallery/images/e02332e477d73a551fed2585c52a85960fd520b769f5da1ded6e4aabb91815e3/ngc7380-wizard-nebula-97-mins-49fa6f2a4f.jpg": {
+      "sha256": "e02332e477d73a551fed2585c52a85960fd520b769f5da1ded6e4aabb91815e3",
+      "bytes": 267472
+    },
+    "gallery/images/e07f98fc8ddafc10bec9972cd4ba66ea878c0fbcb56fa76344ac6a4c0073cfc2/ngc7331-deer-lick-group-hero-8c0c7c3f38.jpg": {
+      "sha256": "e07f98fc8ddafc10bec9972cd4ba66ea878c0fbcb56fa76344ac6a4c0073cfc2",
+      "bytes": 177152
+    },
+    "gallery/images/e119faf2684b4757d7fb0d22fb830071f9086dc0efa72c2805cf33a80a0f2910/m101-7-5-hours-59ed75fddf.jpg": {
+      "sha256": "e119faf2684b4757d7fb0d22fb830071f9086dc0efa72c2805cf33a80a0f2910",
+      "bytes": 489366
+    },
+    "gallery/images/e11bd1eda8483a3f56bcfac87d1f79cb6ee65bf1773df1b672208dfe71faa08e/ngc7331-deer-lick-group-compare-after-sn2026aaiv-c4a3b36a85.jpg": {
+      "sha256": "e11bd1eda8483a3f56bcfac87d1f79cb6ee65bf1773df1b672208dfe71faa08e",
+      "bytes": 268802
+    },
+    "gallery/images/e14028ec33c93821d6d2d220c57beb9e788b8fa2c689a9bc498a6452f67691a4/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--de7e6102f7.jpg": {
+      "sha256": "e14028ec33c93821d6d2d220c57beb9e788b8fa2c689a9bc498a6452f67691a4",
+      "bytes": 175113
+    },
+    "gallery/images/e19b882ab89b9a751831ab20d0f67421d7ff801282f5a0b0acd053f4b6f48b41/ngc281-pacman-nebula-compare-mono-11h-8268349de1.jpg": {
+      "sha256": "e19b882ab89b9a751831ab20d0f67421d7ff801282f5a0b0acd053f4b6f48b41",
+      "bytes": 1795788
+    },
+    "gallery/images/e22283f7a42d8ea98a9cdfba657c41e5a665036de6b32cadda1c9d8412af4fa5/ngc7331-deer-lick-group-compare-before-sn2026aaiv-19d05feca3.jpg": {
+      "sha256": "e22283f7a42d8ea98a9cdfba657c41e5a665036de6b32cadda1c9d8412af4fa5",
+      "bytes": 253739
+    },
+    "gallery/images/e2dc6d03068a79bfa43a693ebc40571b4c274b8813d881af2d10d33c6f6e38f7/ldn1235-ldn1217-dark-shark-nebula-wolfs-cave-nebula-6-5h-4834a5ccfb.jpg": {
+      "sha256": "e2dc6d03068a79bfa43a693ebc40571b4c274b8813d881af2d10d33c6f6e38f7",
+      "bytes": 265406
+    },
+    "gallery/images/e44f7357b90124b6ad48361a35cc89e1e9ef20e9cfaa5d6d949709fb9997b580/milkyway-cepehus-thorugh-vulpecula-2-5h-9551edb317.jpg": {
+      "sha256": "e44f7357b90124b6ad48361a35cc89e1e9ef20e9cfaa5d6d949709fb9997b580",
+      "bytes": 311343
+    },
+    "gallery/images/e5a6b71913e91688d44c58d7b3d0b85ea449cbdbf2414d09946ef66442923e5f/ngc7000-north-america-nebula-2-hours-d5300-fma135-ce1ad65149.jpg": {
+      "sha256": "e5a6b71913e91688d44c58d7b3d0b85ea449cbdbf2414d09946ef66442923e5f",
+      "bytes": 1167492
+    },
+    "gallery/images/e61cb5efebb0eafc237877b678831963664d6d7e8c155513dfa125773834662d/m3-18-mins-177420847b.jpg": {
+      "sha256": "e61cb5efebb0eafc237877b678831963664d6d7e8c155513dfa125773834662d",
+      "bytes": 126632
+    },
+    "gallery/images/e660330f89ccb72c3616ddb7f7bec224bd39cd7b030f8321d4f0a831f22e3359/m45-pleiades-6-hours-9a2c334e20.jpg": {
+      "sha256": "e660330f89ccb72c3616ddb7f7bec224bd39cd7b030f8321d4f0a831f22e3359",
+      "bytes": 445604
+    },
+    "gallery/images/e68d47310c8015d4a9813c74075594fef4371223ebeeafed4c9d8f1536fc2dff/ngc7635-m52-bubble-nebula-254-minutes-detail-m52-de3540965d.jpg": {
+      "sha256": "e68d47310c8015d4a9813c74075594fef4371223ebeeafed4c9d8f1536fc2dff",
+      "bytes": 43376
+    },
+    "gallery/images/e6c455b97e914c8b4d3e73fae29b55b4d950692fcd9567819c44570f993d5216/milkyway-cepheus-through-vulpecula-2-5h-8dd347efb5.jpg": {
+      "sha256": "e6c455b97e914c8b4d3e73fae29b55b4d950692fcd9567819c44570f993d5216",
+      "bytes": 12286193
+    },
+    "gallery/images/e6d84c5318e3632f629ef37cbe04ddecbfbbb536f612c28f7503e2aaa39a1da9/ngc-281-pacman-nebula-hoo-compare-7c672b9c26.jpg": {
+      "sha256": "e6d84c5318e3632f629ef37cbe04ddecbfbbb536f612c28f7503e2aaa39a1da9",
+      "bytes": 954370
+    },
+    "gallery/images/e7c7c41f97ea3ca6a67dfc01c9dd6288eade1ff64e3d80da1471225f7c4b4f59/ngc-7000-sh2119-ic5070-north-america-nebula-clamshell-nebula-pelican-neb-0f7b0c4c40.jpg": {
+      "sha256": "e7c7c41f97ea3ca6a67dfc01c9dd6288eade1ff64e3d80da1471225f7c4b4f59",
+      "bytes": 376701
+    },
+    "gallery/images/e7dde598c949f5144e0720fd8f914fa66505195d991e202feec0d1b7b7628c00/m8-lagoon-nebula-105-minutes-compare-wing-hoo-105mins-505dfed07d.jpg": {
+      "sha256": "e7dde598c949f5144e0720fd8f914fa66505195d991e202feec0d1b7b7628c00",
+      "bytes": 1167984
+    },
+    "gallery/images/e8959aedda61ddc147926eb499777995a122305cb03fb6cfc7d7eeda987a6515/ic1318-m29-butterfly-nebula-cooling-tower-cluster-2-hours-ca61a8c7f6.jpg": {
+      "sha256": "e8959aedda61ddc147926eb499777995a122305cb03fb6cfc7d7eeda987a6515",
+      "bytes": 570106
+    },
+    "gallery/images/e898923f8482ac649b95f0ff1f528b92fd2492fd9b133e2b6be2427672e9693a/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-8fcdcdccc7.jpg": {
+      "sha256": "e898923f8482ac649b95f0ff1f528b92fd2492fd9b133e2b6be2427672e9693a",
+      "bytes": 154033
+    },
+    "gallery/images/e8f8a2de2a0e8d085a8c8463bca85f480233a2fcfc2f07cb58c275813568e6be/ngc281-pacman-nebula-2h-5m-f5497bf5b5.jpg": {
+      "sha256": "e8f8a2de2a0e8d085a8c8463bca85f480233a2fcfc2f07cb58c275813568e6be",
+      "bytes": 3473336
+    },
+    "gallery/images/e9632721977ad0634aac0c673e397ec431dc4f61f8c092ea6a19ba06044e9133/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-740a167c28.jpg": {
+      "sha256": "e9632721977ad0634aac0c673e397ec431dc4f61f8c092ea6a19ba06044e9133",
+      "bytes": 5608496
+    },
+    "gallery/images/e99e315efb3cdc713c7ea35b14efdfca16b7bdcc5aae48c491d8cddc8ff8ac05/ngc2237-the-rosette-nebula-complex-annotated-31dc0da0e9.jpg": {
+      "sha256": "e99e315efb3cdc713c7ea35b14efdfca16b7bdcc5aae48c491d8cddc8ff8ac05",
+      "bytes": 2014320
+    },
+    "gallery/images/e9bf25cc4382f012d6be3a616a3e89378815a153d94d06e633b2d67c59789229/m5-36-mins-a418d6e9b5.jpg": {
+      "sha256": "e9bf25cc4382f012d6be3a616a3e89378815a153d94d06e633b2d67c59789229",
+      "bytes": 148033
+    },
+    "gallery/images/ea92a968ccda80f206511d6c7c4bf46740695a492207731343f0a860ea917479/north-america-on-fire-ngc7000-figure-capture-studio-ngc7000-composition-b6f053f8fc.jpg": {
+      "sha256": "ea92a968ccda80f206511d6c7c4bf46740695a492207731343f0a860ea917479",
+      "bytes": 195233
+    },
+    "gallery/images/eb29da271b76ceed729b7556854f0d38961d5fba223986b217132330280b76c3/ic1805-ic1848-heart-and-soul-nebula-3h-ha-3h-sii-compare-sv220sii-3427281389.jpg": {
+      "sha256": "eb29da271b76ceed729b7556854f0d38961d5fba223986b217132330280b76c3",
+      "bytes": 1095030
+    },
+    "gallery/images/eb29da271b76ceed729b7556854f0d38961d5fba223986b217132330280b76c3/ic1805-ic1848-heart-nebula-soul-nebula-3h-ha-3h-sii-compare-sv220sii-b1b56beef1.jpg": {
+      "sha256": "eb29da271b76ceed729b7556854f0d38961d5fba223986b217132330280b76c3",
+      "bytes": 1095030
+    },
+    "gallery/images/ebc89125b0d2fdce50dc20fff78706b44f5320897e62b13fb1ba4da8d7a3d7d7/ngc6604-m16-m17-nest-nebula-eagle-nebula-swan-nebula-10h-ha-13h-sii-take-7a027231d3.jpg": {
+      "sha256": "ebc89125b0d2fdce50dc20fff78706b44f5320897e62b13fb1ba4da8d7a3d7d7",
+      "bytes": 432986
+    },
+    "gallery/images/ebcad58cee4b5435f0ed63b64febab01537666a1536eab5762143013a11cf4a5/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-nebu-d7b392627b.jpg": {
+      "sha256": "ebcad58cee4b5435f0ed63b64febab01537666a1536eab5762143013a11cf4a5",
+      "bytes": 219296
+    },
+    "gallery/images/ebe5a4180611efad7ec1ce6b552c7ccf23386c679513a3db985e40370444bfe0/m65-m66-leos-triplet-197-minutes-detail-m65-be0f03fc73.jpg": {
+      "sha256": "ebe5a4180611efad7ec1ce6b552c7ccf23386c679513a3db985e40370444bfe0",
+      "bytes": 19841
+    },
+    "gallery/images/ebfe377dde08ae3418058241a7646eb7f097e15bf65a095722933f5e3d6cebfd/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-b7c21ceb3d.jpg": {
+      "sha256": "ebfe377dde08ae3418058241a7646eb7f097e15bf65a095722933f5e3d6cebfd",
+      "bytes": 2413995
+    },
+    "gallery/images/ec473caea863274d571af74ee8e0f1f9984e7d10992f28ea05194bc95aa3954a/m51-whirlpool-380-minutes-457f8a534e.jpg": {
+      "sha256": "ec473caea863274d571af74ee8e0f1f9984e7d10992f28ea05194bc95aa3954a",
+      "bytes": 255874
+    },
+    "gallery/images/ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd/barnards-loop-8-hours-detail-m42-b1ef3b9bc6.jpg": {
+      "sha256": "ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd",
+      "bytes": 253227
+    },
+    "gallery/images/ee3e3bc5a30a7627379bb682dd2235a215f20fdc7f35034b3b86f8b771d3c40e/m42-orion-nebula-9hha-55msii-944904c48b.jpg": {
+      "sha256": "ee3e3bc5a30a7627379bb682dd2235a215f20fdc7f35034b3b86f8b771d3c40e",
+      "bytes": 331925
+    },
+    "gallery/images/ee3ec671d74ca863fbe8c99cee7834e61276ecd882e9a1ae840d691f5ccc1c76/m51-18-hours-detail-m51-ad4e17cb38.jpg": {
+      "sha256": "ee3ec671d74ca863fbe8c99cee7834e61276ecd882e9a1ae840d691f5ccc1c76",
+      "bytes": 41495
+    },
+    "gallery/images/ee850fd3825bc1bdb03242eb3cc0c7268755a8129b65588acf882813af5de086/ngc6604-m16-m17-m24-m21-m20-m8-nest-nebula-eagle-nebula-swan-nebula-sagi-c5bd536579.jpg": {
+      "sha256": "ee850fd3825bc1bdb03242eb3cc0c7268755a8129b65588acf882813af5de086",
+      "bytes": 267115
+    },
+    "gallery/images/eec5965c87b05977cfd66088c8df3f2d62b7aaac2eb194761866e840477777f2/ngc1333-2h15m-detail-ngc1333-ee3c0c429b.jpg": {
+      "sha256": "eec5965c87b05977cfd66088c8df3f2d62b7aaac2eb194761866e840477777f2",
+      "bytes": 94770
+    },
+    "gallery/images/eed86ed3f7cd32f4976f8b1caddd6e9b96eb7fa6451db50b27365bc8972684ac/sh2-101-tulip-nebula-82-mins-b9b6a40037.jpg": {
+      "sha256": "eed86ed3f7cd32f4976f8b1caddd6e9b96eb7fa6451db50b27365bc8972684ac",
+      "bytes": 936170
+    },
+    "gallery/images/eedc598f3f8333af37043601fd3790874b16b3b9ce0175279aee43b50818cd57/ngc7331-deer-lick-group-compare-isolated-sn2026aaiv-b4edfe188f.jpg": {
+      "sha256": "eedc598f3f8333af37043601fd3790874b16b3b9ce0175279aee43b50818cd57",
+      "bytes": 201988
+    },
+    "gallery/images/ef1cc002ab33c23fc22141d2754744d57c22f628ac18772b70c8562bd80e93a8/ic1848-soul-nebula-5-hours-642a74687b.jpg": {
+      "sha256": "ef1cc002ab33c23fc22141d2754744d57c22f628ac18772b70c8562bd80e93a8",
+      "bytes": 330783
+    },
+    "gallery/images/f0b1208bb54712c44d89a203430ed98b0975c4236068fc852008a52492117bb5/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-detail-m4-4025013a23.jpg": {
+      "sha256": "f0b1208bb54712c44d89a203430ed98b0975c4236068fc852008a52492117bb5",
+      "bytes": 87460
+    },
+    "gallery/images/f0f48636426ec9f7b0c2a0c5f10d54c5c08de80da89094cd89d98bc377ff7a6a/ngc7380-wizard-nebula-6-75-hours-0ceb4c4863.jpg": {
+      "sha256": "f0f48636426ec9f7b0c2a0c5f10d54c5c08de80da89094cd89d98bc377ff7a6a",
+      "bytes": 180090
+    },
+    "gallery/images/f168330df4067523bea6c980040c553696c6d8f7029575db2f875fd1cac231d5/ic434-horsehead-nebula-3h15m-second-draft-hero-cf5e840837.jpg": {
+      "sha256": "f168330df4067523bea6c980040c553696c6d8f7029575db2f875fd1cac231d5",
+      "bytes": 2270590
+    },
+    "gallery/images/f180e3c50edc963952243093eeb4ca9b4b941d20a562992811ec1b30e66b7da5/ic1805-ic1848-heart-nebula-soul-nebula-3-hours-hero-dd72c3424f.jpg": {
+      "sha256": "f180e3c50edc963952243093eeb4ca9b4b941d20a562992811ec1b30e66b7da5",
+      "bytes": 1655050
+    },
+    "gallery/images/f195f8c7e0106530daf1c7253aed00b1d83d85c805a6a4263ca0b393d16114c8/m8-m20-m21-ngc6559-lagoon-nebula-trifid-nebula-webbs-cross-loreta-nebula-6d1686fafc.jpg": {
+      "sha256": "f195f8c7e0106530daf1c7253aed00b1d83d85c805a6a4263ca0b393d16114c8",
+      "bytes": 1128532
+    },
+    "gallery/images/f1a54f93a62a8f83f3998f114834bcd67e9326391ea9d56046354e6a539d2371/m42-orion-nebula-9hha-55msii-detail-m42-e5c88c33ef.jpg": {
+      "sha256": "f1a54f93a62a8f83f3998f114834bcd67e9326391ea9d56046354e6a539d2371",
+      "bytes": 270061
+    },
+    "gallery/images/f1bc2154868b0f269ad0419163984f9f10e71e1a156b81323926d29e4be09bb7/ic1396-elephant-trunk-nebula-11-hours-compare-sho-03791c5e48.jpg": {
+      "sha256": "f1bc2154868b0f269ad0419163984f9f10e71e1a156b81323926d29e4be09bb7",
+      "bytes": 10043595
+    },
+    "gallery/images/f216ccb817087c5a3f1eb10d7985efb5f5cb6433fd7a37165a8449a88027de3b/m97-m108-owl-nebula-surfboard-galaxy-958f6c18dd.jpg": {
+      "sha256": "f216ccb817087c5a3f1eb10d7985efb5f5cb6433fd7a37165a8449a88027de3b",
+      "bytes": 373128
+    },
+    "gallery/images/f296ba1479bb53949a7d3ea5bfc68c357638b7997888b85c85b99da19076a7cd/m81-m82-bodes-galaxy-cigar-galaxy-90-minutes-8e3e897306.jpg": {
+      "sha256": "f296ba1479bb53949a7d3ea5bfc68c357638b7997888b85c85b99da19076a7cd",
+      "bytes": 411100
+    },
+    "gallery/images/f4999542a78dafad439fc386a1961d3914f5940f36e2d6fcb4bddc99bd0e907f/ngc7000-north-america-nebula-88-si-102-ha-sho-e3947e9218.jpg": {
+      "sha256": "f4999542a78dafad439fc386a1961d3914f5940f36e2d6fcb4bddc99bd0e907f",
+      "bytes": 514130
+    },
+    "gallery/images/f5915fa248f99e5b9f0aaf8f971b8fcc22096658fb559129c20a51a92872c1e8/m45-123-mins-e8c0b56736.jpg": {
+      "sha256": "f5915fa248f99e5b9f0aaf8f971b8fcc22096658fb559129c20a51a92872c1e8",
+      "bytes": 404297
+    },
+    "gallery/images/f6e2152cd50cba6944c99745945d56ff389ef0483bd698221359aa733200ee20/ngc-1909-witches-head-nebula-138m-hero-26b7f1be1a.jpg": {
+      "sha256": "f6e2152cd50cba6944c99745945d56ff389ef0483bd698221359aa733200ee20",
+      "bytes": 3935975
+    },
+    "gallery/images/f74270c2048b70009be373e11bd2be822dcbd099a8d4b0a1cc5efa920f44c9fa/ngc6960-veil-nebula-93mins-2117fa6528.jpg": {
+      "sha256": "f74270c2048b70009be373e11bd2be822dcbd099a8d4b0a1cc5efa920f44c9fa",
+      "bytes": 675016
+    },
+    "gallery/images/f7b88cd4b7c63afc4df202f730d04f5625894aa4e7a7a618e90c6e3fef8b05a9/ngc6960-veil-supernova-remnant-143-mins-detail-western-veil-7696ab4bd1.jpg": {
+      "sha256": "f7b88cd4b7c63afc4df202f730d04f5625894aa4e7a7a618e90c6e3fef8b05a9",
+      "bytes": 213040
+    },
+    "gallery/images/f81fc7c1a4688b07d20387f1baa7ecdec8f6951ba160def6ccf262f229d0a100/ic434-horsehead-nebula-111-mins-deeeb6d689.jpg": {
+      "sha256": "f81fc7c1a4688b07d20387f1baa7ecdec8f6951ba160def6ccf262f229d0a100",
+      "bytes": 537572
+    },
+    "gallery/images/f8d3ee5ccea453e21eafc39e0930c21838972796137d4e408b63bddb5e3f883d/m33-triangulum-galaxy-3-hours-7ec88eec83.jpg": {
+      "sha256": "f8d3ee5ccea453e21eafc39e0930c21838972796137d4e408b63bddb5e3f883d",
+      "bytes": 369708
+    },
+    "gallery/images/f97b97f3b677a2225e87ce61001ab4a647fe0d9594b2e1adf5cca5593957e406/m8-lagoon-nebula-105-minutes-compare-wing-hoo-105mins-b625730e3c.jpg": {
+      "sha256": "f97b97f3b677a2225e87ce61001ab4a647fe0d9594b2e1adf5cca5593957e406",
+      "bytes": 322961
+    },
+    "gallery/images/fa2b7962ea04afde477893cf66a7dc569f8840592643c2db69b77d7d5a055054/ngc2237-the-rosette-nebula-complex-detail-rosette-compare-sho-a3e58ad05e.jpg": {
+      "sha256": "fa2b7962ea04afde477893cf66a7dc569f8840592643c2db69b77d7d5a055054",
+      "bytes": 2983668
+    },
+    "gallery/images/fad7dccd080b0357967d72f8b4fbbbf19e0a8e7a1e972a1dbd52f0d3ea256de0/m90-m89-20-mins-89ddc38078.jpg": {
+      "sha256": "fad7dccd080b0357967d72f8b4fbbbf19e0a8e7a1e972a1dbd52f0d3ea256de0",
+      "bytes": 370844
+    },
+    "gallery/images/fadab4c1846e58b121892baf62f7f82c24e91dc40d6ac25019c9edba4b7d45dc/andromeda-region-bortle3-3c07bfbb54.jpg": {
+      "sha256": "fadab4c1846e58b121892baf62f7f82c24e91dc40d6ac25019c9edba4b7d45dc",
+      "bytes": 229883
+    },
+    "gallery/images/fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3/ngc2237-the-rosette-nebula-complex-hero-b752022bde.jpg": {
+      "sha256": "fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3",
+      "bytes": 1801648
+    },
+    "gallery/images/fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f/m52-ngc7635-bubble-nebula-compare-hos-e674b63bf1.jpg": {
+      "sha256": "fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f",
+      "bytes": 2202885
+    },
+    "gallery/images/fc7648ed11e145700ec9c011e25c801ba8e71c828346a3e7e408775ceedbd8c8/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-hoo-ab431faff5.jpg": {
+      "sha256": "fc7648ed11e145700ec9c011e25c801ba8e71c828346a3e7e408775ceedbd8c8",
+      "bytes": 761855
+    },
+    "gallery/images/fd8274e68e69b2f05c7bb99220ca6cd97c4af28730434d2be2497829c64bd93b/m31-andromeda-galaxy-25h-detail-annotated-banner-702c638792.jpg": {
+      "sha256": "fd8274e68e69b2f05c7bb99220ca6cd97c4af28730434d2be2497829c64bd93b",
+      "bytes": 277605
+    },
+    "gallery/images/fd88709eae6a3645027b1245ebad3d0718506e8556fecec73ee44a2bf0f5e533/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-sho-dcb8448f6d.jpg": {
+      "sha256": "fd88709eae6a3645027b1245ebad3d0718506e8556fecec73ee44a2bf0f5e533",
+      "bytes": 296210
+    },
+    "gallery/images/fdb8540056da8b9e1aac8df298056c683fd3a1fcf1b5e73d736047353f982e9f/ic417-ic410-ic405-spider-nebula-tadpoles-nebula-flaming-star-nebula-13h--ac115baca6.jpg": {
+      "sha256": "fdb8540056da8b9e1aac8df298056c683fd3a1fcf1b5e73d736047353f982e9f",
+      "bytes": 183259
+    },
+    "gallery/images/fe22235c0ae26f93b0c3773fa2b529baf5bc43b2c479efcc59c6d86f56aea79c/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-sho-12h-ha-12h-sv-det-662d5653cc.jpg": {
+      "sha256": "fe22235c0ae26f93b0c3773fa2b529baf5bc43b2c479efcc59c6d86f56aea79c",
+      "bytes": 617105
+    },
+    "gallery/images/ff953d14e427b57ead4709670d4bfc75fa3e99e02a40bde8142b2d986d77ecd9/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-312-minutes-dutch-d3e78a84e9.jpg": {
+      "sha256": "ff953d14e427b57ead4709670d4bfc75fa3e99e02a40bde8142b2d986d77ecd9",
+      "bytes": 585213
+    }
+  }
+}
