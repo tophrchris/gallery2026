@@ -470,6 +470,10 @@
       "sha256": "338eb5aa3a1e31ae852a8c182736c9eff55e5028d469240951c2904e26929fdf",
       "bytes": 1156022
     },
+    "gallery/images/33e4694da034f5b2a542c79c81a5201d4409a8f693553b3f9eca6d5b95f11f3a/m42-orion-nebula-ha-5h-sv-4h45m-53bf6f8bf2.jpg": {
+      "sha256": "33e4694da034f5b2a542c79c81a5201d4409a8f693553b3f9eca6d5b95f11f3a",
+      "bytes": 114067
+    },
     "gallery/images/34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267/milkyway-sagittarius-1-hour-b5c78dcfe7.jpg": {
       "sha256": "34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267",
       "bytes": 479420
@@ -642,6 +646,10 @@
       "sha256": "5085f6992cad82130a9c20d74eb95e3deb2213689422e16f3e4fabf430007ad7",
       "bytes": 1852200
     },
+    "gallery/images/51c51e15b5b801a0a068aaad7630b9eb28d9f0d1a644ddbe07fac21eed892c33/m81-m82-bodes-galaxy-cigar-galaxy-12h-rgb-5h-ha-detail-m81-b9d8fa2e8a.jpg": {
+      "sha256": "51c51e15b5b801a0a068aaad7630b9eb28d9f0d1a644ddbe07fac21eed892c33",
+      "bytes": 394565
+    },
     "gallery/images/531c6bf687b34446fbe9a323deb9447fb1f866179e9c45e0b6d032aeb4e8090d/ngc7000-ic5070-ic1318-north-america-nebula-pelican-nebula-butterfly-nebu-a761af9d12.jpg": {
       "sha256": "531c6bf687b34446fbe9a323deb9447fb1f866179e9c45e0b6d032aeb4e8090d",
       "bytes": 339708
@@ -741,6 +749,10 @@
     "gallery/images/5be103949398b309944a955a0b167ea6bd27c771d12fd8c3eaeb6a85a992f404/milkyway-sagittarius-5h-15m-70966892c1.jpg": {
       "sha256": "5be103949398b309944a955a0b167ea6bd27c771d12fd8c3eaeb6a85a992f404",
       "bytes": 1030389
+    },
+    "gallery/images/5ce98cf983a50977bda78eee0127563241dbe72887468af98f080f6869c9e22c/m81-m82-bodes-galaxy-cigar-galaxy-12h-rgb-5h-ha-f4bea647ff.jpg": {
+      "sha256": "5ce98cf983a50977bda78eee0127563241dbe72887468af98f080f6869c9e22c",
+      "bytes": 148575
     },
     "gallery/images/5e94da8cbc7197aa66f11b483f5f4e7f8de689877b59db4329a2e794b2e42422/ngc6960-veil-supernova-remnant-143-mins-a933263fbd.jpg": {
       "sha256": "5e94da8cbc7197aa66f11b483f5f4e7f8de689877b59db4329a2e794b2e42422",
@@ -1342,6 +1354,10 @@
       "sha256": "b38a79fbc516e5b295fd66e1d17e6bb147f4c70441a3374f7dea1528b89b6eeb",
       "bytes": 122972
     },
+    "gallery/images/b430af8e8e05a4bbd544d11ded56b49ad84703f8f97e758155a41fa52b1f4ac3/m42-orion-nebula-ha-5h-sv-4h45m-detail-m43-879cc9e519.jpg": {
+      "sha256": "b430af8e8e05a4bbd544d11ded56b49ad84703f8f97e758155a41fa52b1f4ac3",
+      "bytes": 126013
+    },
     "gallery/images/b4f07e23cc40994e1cd03e11108bec4ac868201f104634c86308fa356da3cb90/ngc-281-pacman-nebula-sho-compare-ebbca6e08b.jpg": {
       "sha256": "b4f07e23cc40994e1cd03e11108bec4ac868201f104634c86308fa356da3cb90",
       "bytes": 1973730
@@ -1682,6 +1698,10 @@
       "sha256": "dd19a82a3ae6d51b1f8c4461347654fced592fe303d2fb929ede687fbcb140e4",
       "bytes": 135863
     },
+    "gallery/images/dd6ff224593ea56013cd912010368a0e6164444d02d9a79cede93ee0ee24f601/m81-m82-bodes-galaxy-cigar-galaxy-12h-rgb-5h-ha-detail-m82-62f99d4aba.jpg": {
+      "sha256": "dd6ff224593ea56013cd912010368a0e6164444d02d9a79cede93ee0ee24f601",
+      "bytes": 494802
+    },
     "gallery/images/dd73a856ae226ca71199e658d766eb0f5937f4bf3030ae4fb64598802e7929f3/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-3b294fce60.jpg": {
       "sha256": "dd73a856ae226ca71199e658d766eb0f5937f4bf3030ae4fb64598802e7929f3",
       "bytes": 924434
@@ -1749,6 +1769,10 @@
     "gallery/images/e61cb5efebb0eafc237877b678831963664d6d7e8c155513dfa125773834662d/m3-18-mins-177420847b.jpg": {
       "sha256": "e61cb5efebb0eafc237877b678831963664d6d7e8c155513dfa125773834662d",
       "bytes": 126632
+    },
+    "gallery/images/e6306b70ab819e1ddcee26423e97bc2d5ddc556d27ed89c8484f8dfddff089c5/m42-orion-nebula-ha-5h-sv-4h45m-detail-m42-41196719d1.jpg": {
+      "sha256": "e6306b70ab819e1ddcee26423e97bc2d5ddc556d27ed89c8484f8dfddff089c5",
+      "bytes": 73392
     },
     "gallery/images/e660330f89ccb72c3616ddb7f7bec224bd39cd7b030f8321d4f0a831f22e3359/m45-pleiades-6-hours-9a2c334e20.jpg": {
       "sha256": "e660330f89ccb72c3616ddb7f7bec224bd39cd7b030f8321d4f0a831f22e3359",
@@ -1945,6 +1969,10 @@
     "gallery/images/fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3/ngc2237-the-rosette-nebula-complex-hero-b752022bde.jpg": {
       "sha256": "fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3",
       "bytes": 1801648
+    },
+    "gallery/images/fb8354d32d6888fc2f662291b28ace7f56b4628a40ce6098a9fe1f64bb466f8d/milkyway-orion-69-mins-623f3d52a2.jpg": {
+      "sha256": "fb8354d32d6888fc2f662291b28ace7f56b4628a40ce6098a9fe1f64bb466f8d",
+      "bytes": 12745870
     },
     "gallery/images/fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f/m52-ngc7635-bubble-nebula-compare-hos-e674b63bf1.jpg": {
       "sha256": "fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f",
