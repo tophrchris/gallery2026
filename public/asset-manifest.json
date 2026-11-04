@@ -42,6 +42,10 @@
       "sha256": "02beabb0b7372f8229fb7de42b1bf3d869adcb06058f51b56a2b8c64010785b6",
       "bytes": 580403
     },
+    "gallery/images/044ad10b5866355c15b1acf3eb9541c916ef8e5a10196afd9c6d536d3cb5b0b7/m78-casper-the-friendly-ghost-nebula-9h-hero-f3fe6994a3.jpg": {
+      "sha256": "044ad10b5866355c15b1acf3eb9541c916ef8e5a10196afd9c6d536d3cb5b0b7",
+      "bytes": 1058175
+    },
     "gallery/images/0472226898f3cacd08b99ae8fee2ccf6fb7d8c954776da39230483f055028e12/ngc281-pacman-nebula-ha-5-5h-sii-5-5h-89e5c32058.jpg": {
       "sha256": "0472226898f3cacd08b99ae8fee2ccf6fb7d8c954776da39230483f055028e12",
       "bytes": 271979
@@ -505,6 +509,10 @@
     "gallery/images/37ad316f0ef25b6b2df73870c881713e6da2d00a1ef8b096dd7728d183608901/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-sho-12h-ha-12h-sv-e119bebf86.jpg": {
       "sha256": "37ad316f0ef25b6b2df73870c881713e6da2d00a1ef8b096dd7728d183608901",
       "bytes": 482081
+    },
+    "gallery/images/388572fed77d98ebcbf25c1941db5f44eaaef7069c3745167034e5f77145909d/ngc2244-rosette-nebula-ha-11h-sii-12h-d9b8874718.jpg": {
+      "sha256": "388572fed77d98ebcbf25c1941db5f44eaaef7069c3745167034e5f77145909d",
+      "bytes": 262515
     },
     "gallery/images/39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879/ngc7331-deer-lick-region-148-mins-2584d03210.jpg": {
       "sha256": "39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879",
@@ -1537,6 +1545,10 @@
     "gallery/images/c4228c343a96c92b8d1e2f655228407a5b87714de0648f5892d8a1d7788cb2b7/ic5146-cocoon-nebula-150mins-27eb2efc30.jpg": {
       "sha256": "c4228c343a96c92b8d1e2f655228407a5b87714de0648f5892d8a1d7788cb2b7",
       "bytes": 774941
+    },
+    "gallery/images/c59ad24e584550d95a01dc04527b6f00ddaea6b144f8e5b2c751bf5e143f5685/m78-casper-the-friendly-ghost-nebula-9h-19fcd1e4a6.jpg": {
+      "sha256": "c59ad24e584550d95a01dc04527b6f00ddaea6b144f8e5b2c751bf5e143f5685",
+      "bytes": 184810
     },
     "gallery/images/c5c1539e37e61673202a1db3c004576d766a8a7f60a960615b61ed5925e90164/m85-35-mins-7ad7ca55c5.jpg": {
       "sha256": "c5c1539e37e61673202a1db3c004576d766a8a7f60a960615b61ed5925e90164",
