@@ -1606,6 +1606,10 @@
       "sha256": "cc5756aabe45dbef13c9a69149beb42565b24df2357ffaa8c1b9b75c5624c41f",
       "bytes": 117421
     },
+    "gallery/images/ccc34ed1cb83c7a4c779d9ad28722d53eed45b968e09c1dad74256e6bf9dfe8b/ngc2170-angel-nebula-2h-7a4e7c82ad.jpg": {
+      "sha256": "ccc34ed1cb83c7a4c779d9ad28722d53eed45b968e09c1dad74256e6bf9dfe8b",
+      "bytes": 371344
+    },
     "gallery/images/cd2332bc96576525f3abafd7b6420d98ea88faa996f782369828b68bdce271da/ngc7000-north-america-nebula-2-hours-d5300-fma135-processed-compare-b806c2f006.jpg": {
       "sha256": "cd2332bc96576525f3abafd7b6420d98ea88faa996f782369828b68bdce271da",
       "bytes": 3163072
@@ -1897,6 +1901,10 @@
     "gallery/images/ef1cc002ab33c23fc22141d2754744d57c22f628ac18772b70c8562bd80e93a8/ic1848-soul-nebula-5-hours-642a74687b.jpg": {
       "sha256": "ef1cc002ab33c23fc22141d2754744d57c22f628ac18772b70c8562bd80e93a8",
       "bytes": 330783
+    },
+    "gallery/images/ef8e8ff79a2558799415828efc8f082a87a776f1dfcd1c1ea41673a6ac139968/ic-5070-pelican-nebula-s-2h-h-1h-o-2h-rgb-47m-f98f0ff7ad.jpg": {
+      "sha256": "ef8e8ff79a2558799415828efc8f082a87a776f1dfcd1c1ea41673a6ac139968",
+      "bytes": 452000
     },
     "gallery/images/f0b1208bb54712c44d89a203430ed98b0975c4236068fc852008a52492117bb5/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-detail-m4-4025013a23.jpg": {
       "sha256": "f0b1208bb54712c44d89a203430ed98b0975c4236068fc852008a52492117bb5",
