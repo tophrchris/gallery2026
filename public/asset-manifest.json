@@ -654,6 +654,10 @@
       "sha256": "4f525c70a9a2ff5d1ceccca12a3d32b50ff558cf8993d1fbfd18adcdeede3b53",
       "bytes": 19655
     },
+    "gallery/images/50642c56205b84df9677fe6f42affcd4cbe204392f4706c66b9562b684d78920/ldn1622-m78-ic434-m42-ngc1999-bogeyman-nebula-casper-the-friendly-ghost--b30cedb9c9.jpg": {
+      "sha256": "50642c56205b84df9677fe6f42affcd4cbe204392f4706c66b9562b684d78920",
+      "bytes": 70174
+    },
     "gallery/images/5085f6992cad82130a9c20d74eb95e3deb2213689422e16f3e4fabf430007ad7/ngc2237-the-rosette-nebula-complex-compare-hoo-15a39c2100.jpg": {
       "sha256": "5085f6992cad82130a9c20d74eb95e3deb2213689422e16f3e4fabf430007ad7",
       "bytes": 1852200
@@ -801,6 +805,10 @@
     "gallery/images/61e2ea628974ab30a1f5683f1e117b2d9a72f04c968513eea492fa3126e0441c/milkyway-extended-cygnus-region-5h-compare-raw-f5f34dd9c5.jpg": {
       "sha256": "61e2ea628974ab30a1f5683f1e117b2d9a72f04c968513eea492fa3126e0441c",
       "bytes": 2578030
+    },
+    "gallery/images/628086f6690397b453a0f9603e1c1844e5e395c4a202e07d23ae52d6da0bd0bb/ngc7000-ic5070-north-america-nebula-pelican-nebula-3h-sii-2h15m-ha-bb752cc053.jpg": {
+      "sha256": "628086f6690397b453a0f9603e1c1844e5e395c4a202e07d23ae52d6da0bd0bb",
+      "bytes": 560027
     },
     "gallery/images/62c7c74ed0ff618f19eca20cdb9f9c01803a81e4ccdfef519694d15abc128905/ngc7000-north-america-region-111-minutes-ad865772ca.jpg": {
       "sha256": "62c7c74ed0ff618f19eca20cdb9f9c01803a81e4ccdfef519694d15abc128905",
@@ -1105,6 +1113,10 @@
     "gallery/images/885da37b12ca0bf164dd0049bbb5edcdc5c7ed44e9e0cc3046bde889a1320a6c/ic1848-soul-nebula-99-minutes-fc1ab639f8.jpg": {
       "sha256": "885da37b12ca0bf164dd0049bbb5edcdc5c7ed44e9e0cc3046bde889a1320a6c",
       "bytes": 513517
+    },
+    "gallery/images/8870d09cf1a7a85584b1ac318be8f69f6719f2fd2f96c4ee7a1c55443cc22612/m42-orion-nebula-3h15m-ha-5h-sv-2h-rgb-4a81c6fe17.jpg": {
+      "sha256": "8870d09cf1a7a85584b1ac318be8f69f6719f2fd2f96c4ee7a1c55443cc22612",
+      "bytes": 211985
     },
     "gallery/images/890f077471fffdde9f70581f39d78a7dacb976c6c10796f990c1628a4ecdcb1d/m98-m99-20-minutes-detail-m99-f83b719bc1.jpg": {
       "sha256": "890f077471fffdde9f70581f39d78a7dacb976c6c10796f990c1628a4ecdcb1d",
@@ -2001,6 +2013,10 @@
     "gallery/images/fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f/m52-ngc7635-bubble-nebula-compare-hos-e674b63bf1.jpg": {
       "sha256": "fc10bce92cf2fb99bc975a468cdb9b78d28f81701d6edefc7dc14e96614a018f",
       "bytes": 2202885
+    },
+    "gallery/images/fc6a8b950aadee4006d2fa5492e71305ee672b2daa26ccfa56eae2a37c1f55e3/m33-triangulum-galaxy-153-minutes-29e3efdbeb.jpg": {
+      "sha256": "fc6a8b950aadee4006d2fa5492e71305ee672b2daa26ccfa56eae2a37c1f55e3",
+      "bytes": 164308
     },
     "gallery/images/fc7648ed11e145700ec9c011e25c801ba8e71c828346a3e7e408775ceedbd8c8/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-hoo-ab431faff5.jpg": {
       "sha256": "fc7648ed11e145700ec9c011e25c801ba8e71c828346a3e7e408775ceedbd8c8",
