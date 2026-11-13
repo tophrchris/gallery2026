@@ -478,6 +478,10 @@
       "sha256": "32f1f79c5aaaf738dca030cb271480f148a86e1c4b4f590f7a89aa66c3f85f75",
       "bytes": 122924
     },
+    "gallery/images/338298a5f599b50583715108fb17a5282237c6f128a83f399c336156b840ff82/m31-andromeda-galaxy-18h-rgb-5hha-6326da1df0.jpg": {
+      "sha256": "338298a5f599b50583715108fb17a5282237c6f128a83f399c336156b840ff82",
+      "bytes": 374545
+    },
     "gallery/images/338eb5aa3a1e31ae852a8c182736c9eff55e5028d469240951c2904e26929fdf/milkyway-cygnus-vulpecula-2-hours-cfa45d34f6.jpg": {
       "sha256": "338eb5aa3a1e31ae852a8c182736c9eff55e5028d469240951c2904e26929fdf",
       "bytes": 1156022
@@ -1294,6 +1298,10 @@
       "sha256": "a352c039be8b14a667f661bd6d97b4a7ac027d467717e2148d6a6947c049c068",
       "bytes": 1825856
     },
+    "gallery/images/a3cc234ff833af3269fd226b97d4e33df225a746f9090d7f2f2eec5034b47002/m31-andromeda-galaxy-18h-rgb-5hha-detail-wide-a01f5f05aa.jpg": {
+      "sha256": "a3cc234ff833af3269fd226b97d4e33df225a746f9090d7f2f2eec5034b47002",
+      "bytes": 268866
+    },
     "gallery/images/a430065daa04c7fffec47721b161bcd20c17e8c7b1bb4e5c10b5eee7369f2f07/ngc7380-wizard-nebula-sho-6-75h-ha-6-25h-sii-compare-sho-b59be64be7.jpg": {
       "sha256": "a430065daa04c7fffec47721b161bcd20c17e8c7b1bb4e5c10b5eee7369f2f07",
       "bytes": 917618
@@ -1726,6 +1734,10 @@
       "sha256": "d5f198a4e6e24cebf763c654d56bdb11cd715a75670aedccee19c75a24cadabe",
       "bytes": 322218
     },
+    "gallery/images/d924b1a5ca9b082c0dd253314d52feb6708730a66e601dc2ea649946d487b7ec/m31-andromeda-galaxy-18h-rgb-5hha-detail-m31-6a2076bd85.jpg": {
+      "sha256": "d924b1a5ca9b082c0dd253314d52feb6708730a66e601dc2ea649946d487b7ec",
+      "bytes": 108244
+    },
     "gallery/images/d9bcee6b63ab843f6443cd8023c308dfdf4ec477de61e1eb5f10433f67b02d7c/m51-18-hours-ae4da907b1.jpg": {
       "sha256": "d9bcee6b63ab843f6443cd8023c308dfdf4ec477de61e1eb5f10433f67b02d7c",
       "bytes": 144867
@@ -1913,6 +1925,10 @@
     "gallery/images/ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd/barnards-loop-8-hours-detail-m42-b1ef3b9bc6.jpg": {
       "sha256": "ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd",
       "bytes": 253227
+    },
+    "gallery/images/ee1540e7b4edc4358fe304de9b0f710cfa31785cbbe0ad146c9d859544ca0ad9/m31-andromeda-galaxy-18h-rgb-5hha-hero-d2b82eeffb.jpg": {
+      "sha256": "ee1540e7b4edc4358fe304de9b0f710cfa31785cbbe0ad146c9d859544ca0ad9",
+      "bytes": 347740
     },
     "gallery/images/ee3e3bc5a30a7627379bb682dd2235a215f20fdc7f35034b3b86f8b771d3c40e/m42-orion-nebula-9hha-55msii-944904c48b.jpg": {
       "sha256": "ee3e3bc5a30a7627379bb682dd2235a215f20fdc7f35034b3b86f8b771d3c40e",
