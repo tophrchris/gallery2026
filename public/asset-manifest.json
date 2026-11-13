@@ -250,6 +250,10 @@
       "sha256": "1bb00d29940e4d292fc8db9bad77e8b26d98acbf80f759249f085b36feac8c1a",
       "bytes": 1697171
     },
+    "gallery/images/1bcccfbe6078144653a5add1e31e9c0b15c997abafdb173f2d37e94feb1313c5/m30-57m-1ef1921cf3.jpg": {
+      "sha256": "1bcccfbe6078144653a5add1e31e9c0b15c997abafdb173f2d37e94feb1313c5",
+      "bytes": 326382
+    },
     "gallery/images/1be45817e314fe8a6d870b8143e6bf2d3713df8bd12417049b4d516c604da144/milkyway-extended-cygnus-region-5h-compare-processed-2ee64d4115.jpg": {
       "sha256": "1be45817e314fe8a6d870b8143e6bf2d3713df8bd12417049b4d516c604da144",
       "bytes": 742999
@@ -526,6 +530,10 @@
       "sha256": "388572fed77d98ebcbf25c1941db5f44eaaef7069c3745167034e5f77145909d",
       "bytes": 262515
     },
+    "gallery/images/3990e346bd3653b04629f49cca0754aac0dcfb73d8380ff7b7e01289c99bcc26/m103-40mins-cbe3397ca0.jpg": {
+      "sha256": "3990e346bd3653b04629f49cca0754aac0dcfb73d8380ff7b7e01289c99bcc26",
+      "bytes": 287126
+    },
     "gallery/images/39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879/ngc7331-deer-lick-region-148-mins-2584d03210.jpg": {
       "sha256": "39f3ece64303b75a90fdfd9304e6cf122ce4093db19b97aa463412bdfe105879",
       "bytes": 101919
@@ -629,6 +637,10 @@
     "gallery/images/45abb29cedd2785126c1d9cda016a1ec0ff0b22d160168abcd5c25a76e8ccd4a/fly-nebula-spider-nebula-tadpoles-nebula-flaming-star-nebula-detail-m36-c94116fcd2.jpg": {
       "sha256": "45abb29cedd2785126c1d9cda016a1ec0ff0b22d160168abcd5c25a76e8ccd4a",
       "bytes": 19348
+    },
+    "gallery/images/460ee7f3ace8c1dd463a152c75050d39c58fbc76fc6ac463330035c79c9d0e0d/m79-47m-c3a24ecbf8.jpg": {
+      "sha256": "460ee7f3ace8c1dd463a152c75050d39c58fbc76fc6ac463330035c79c9d0e0d",
+      "bytes": 367311
     },
     "gallery/images/47b77ddccffeb4e8df65dc3bdc44171c4978e50b6f3a87e2fd8d4dc8637ca9c2/m105-m96-m95-3h45m-d13c4bc1d0.jpg": {
       "sha256": "47b77ddccffeb4e8df65dc3bdc44171c4978e50b6f3a87e2fd8d4dc8637ca9c2",
@@ -1617,6 +1629,10 @@
     "gallery/images/c6f1521c40b847d16809f3f5083bd9adc3f6d73ca83aa5bfb457377e42adf8f4/m31-andromeda-galaxy-25h-compare-before-at2026aabo-90ea2fa9ca.jpg": {
       "sha256": "c6f1521c40b847d16809f3f5083bd9adc3f6d73ca83aa5bfb457377e42adf8f4",
       "bytes": 892560
+    },
+    "gallery/images/c7cf373430f937faf4a62b5b3e42c36630f101d1082ee6103326a3c872bba5ff/m37-2h30m-7f3e9cdd1a.jpg": {
+      "sha256": "c7cf373430f937faf4a62b5b3e42c36630f101d1082ee6103326a3c872bba5ff",
+      "bytes": 514440
     },
     "gallery/images/c8c6f3f1e71192ccc9095ed2e314ecdedf5c22099d15ea7fabec9c05faa6a928/ngc7331-deer-lick-group-detail-c30-and-surrounding-galaxies-0b0477942e.jpg": {
       "sha256": "c8c6f3f1e71192ccc9095ed2e314ecdedf5c22099d15ea7fabec9c05faa6a928",
