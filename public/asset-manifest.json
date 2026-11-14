@@ -614,6 +614,10 @@
       "sha256": "3feafbab179c3bcaefc029901d93c2e60d30cf2e2efc5f5d3109e00b1457955b",
       "bytes": 313809
     },
+    "gallery/images/4042827050ba890b5b07c0673690a41339022a1aaa9b9dbd90d619809c3e6e50/m65-m66-leos-triplet-4h15m-detail-ngc3628-a457234024.jpg": {
+      "sha256": "4042827050ba890b5b07c0673690a41339022a1aaa9b9dbd90d619809c3e6e50",
+      "bytes": 210798
+    },
     "gallery/images/4091749a959ad5eaf06bd13c9c53ad289159a16a954d6971a52658ac61d1f8e1/m8-m20-m21-lagoon-nebula-trifid-nebula-webbs-cross-sho-12h-ha-12h-sv-det-a9523a44cc.jpg": {
       "sha256": "4091749a959ad5eaf06bd13c9c53ad289159a16a954d6971a52658ac61d1f8e1",
       "bytes": 154172
@@ -1230,6 +1234,10 @@
       "sha256": "9449ae1e5cdf8615b1ce0a1b0fd716cc27aa748f9dd0452c0ed8ffd21860d54e",
       "bytes": 1085067
     },
+    "gallery/images/944bb6a33c71ed2367362a4305a35e27d281d64f65f7dc7b09256a3602d4b8d0/m65-m66-leos-triplet-4h15m-detail-m65-6d985eba73.jpg": {
+      "sha256": "944bb6a33c71ed2367362a4305a35e27d281d64f65f7dc7b09256a3602d4b8d0",
+      "bytes": 148475
+    },
     "gallery/images/95303a1ba38c40fc4e26751cc61758ec8e488766f7349870d70884d271a300c7/m52-ngc7635-bubble-nebula-compare-oss-944fb26a80.jpg": {
       "sha256": "95303a1ba38c40fc4e26751cc61758ec8e488766f7349870d70884d271a300c7",
       "bytes": 753627
@@ -1406,6 +1414,10 @@
       "sha256": "ad24b70e1e6ffd1e338f338619996d5971e066fe15006ed9212e913a06e3cce9",
       "bytes": 314013
     },
+    "gallery/images/adea57dcbacc963e4080a6c3dee00c2597465300db1542d451cd12cbc938a26d/m65-m66-leos-triplet-4h15m-80bd72870b.jpg": {
+      "sha256": "adea57dcbacc963e4080a6c3dee00c2597465300db1542d451cd12cbc938a26d",
+      "bytes": 102023
+    },
     "gallery/images/af5aeab41f4cd06f06e2549f4713f757d6d6e587fb0ab54f150d384f4431924c/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--8e4ff1ac27.jpg": {
       "sha256": "af5aeab41f4cd06f06e2549f4713f757d6d6e587fb0ab54f150d384f4431924c",
       "bytes": 17897
@@ -1509,6 +1521,10 @@
     "gallery/images/bd40ff7f98076fb4ee751d97072eb2c589a0ca5664584ceef4b9d6d916429ee6/m45-pleiades-6-hours-detail-m45-00ba1f7454.jpg": {
       "sha256": "bd40ff7f98076fb4ee751d97072eb2c589a0ca5664584ceef4b9d6d916429ee6",
       "bytes": 734398
+    },
+    "gallery/images/bd8ab80b467ab28db45d6deec04367171b91cf34826daa54b523b965dfd51141/m65-m66-leos-triplet-4h15m-detail-m66-5143d1c6cb.jpg": {
+      "sha256": "bd8ab80b467ab28db45d6deec04367171b91cf34826daa54b523b965dfd51141",
+      "bytes": 207357
     },
     "gallery/images/bda2702f098c99f65c296b0a61cac5c9d0085011881dde1bed40108ca7bc40ce/m81-m82-bodes-galaxy-cigar-galaxy-254-minutes-0114f75892.jpg": {
       "sha256": "bda2702f098c99f65c296b0a61cac5c9d0085011881dde1bed40108ca7bc40ce",
