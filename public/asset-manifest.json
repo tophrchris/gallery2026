@@ -946,6 +946,10 @@
       "sha256": "6a0d69cb401e50d75efe40a80f2d369ad4152107c106b4c4d3ff7d92e6eceed9",
       "bytes": 3430716
     },
+    "gallery/images/6bd66ce7894495d1b1cd88886afb17c6366bdb4f4a3cfd5cfd032d0ac523e0c8/ngc1333-embryo-nebula-6h30m-hero-2d149c7c45.jpg": {
+      "sha256": "6bd66ce7894495d1b1cd88886afb17c6366bdb4f4a3cfd5cfd032d0ac523e0c8",
+      "bytes": 1635303
+    },
     "gallery/images/6c2480d594bdd4241fabe92a52bf617f873d451a6f6060c585c07babba317481/m27-dumbbell-nebula-4-5h-compare-lanczos4-d28bb7942e.jpg": {
       "sha256": "6c2480d594bdd4241fabe92a52bf617f873d451a6f6060c585c07babba317481",
       "bytes": 945553
@@ -1353,6 +1357,10 @@
     "gallery/images/a4dc02093efb393cf5b507cb014b10c8a58a432bea7358338f2c2008d1a14d7a/m90-m89-20-mins-detail-m89-e331f3cf4e.jpg": {
       "sha256": "a4dc02093efb393cf5b507cb014b10c8a58a432bea7358338f2c2008d1a14d7a",
       "bytes": 13347
+    },
+    "gallery/images/a51a611163440212172cb7f515403f5a5a49baf0f420a834558d9df62a3e4f49/ldn1622-m78-ic434-m42-ngc1999-bogeyman-nebula-casper-the-friendly-ghost--0114628054.jpg": {
+      "sha256": "a51a611163440212172cb7f515403f5a5a49baf0f420a834558d9df62a3e4f49",
+      "bytes": 78924
     },
     "gallery/images/a5f78565fb723ca6b9c33c8c1da49f76652f946b65e2b96a7fac176a5d805612/m-8-lagoon-nebula-3h-ha-90min-sii-luminance-extraction-dee591471c.jpg": {
       "sha256": "a5f78565fb723ca6b9c33c8c1da49f76652f946b65e2b96a7fac176a5d805612",
@@ -1930,6 +1938,10 @@
       "sha256": "e7dde598c949f5144e0720fd8f914fa66505195d991e202feec0d1b7b7628c00",
       "bytes": 1167984
     },
+    "gallery/images/e80070880880736d63b8a9ea46b07c801194c980234c447c2325503e6d59157d/cygnus-region-28-hours-annotated-1eb466bc88.jpg": {
+      "sha256": "e80070880880736d63b8a9ea46b07c801194c980234c447c2325503e6d59157d",
+      "bytes": 149230
+    },
     "gallery/images/e8959aedda61ddc147926eb499777995a122305cb03fb6cfc7d7eeda987a6515/ic1318-m29-butterfly-nebula-cooling-tower-cluster-2-hours-ca61a8c7f6.jpg": {
       "sha256": "e8959aedda61ddc147926eb499777995a122305cb03fb6cfc7d7eeda987a6515",
       "bytes": 570106
@@ -2077,6 +2089,10 @@
     "gallery/images/f74270c2048b70009be373e11bd2be822dcbd099a8d4b0a1cc5efa920f44c9fa/ngc6960-veil-nebula-93mins-2117fa6528.jpg": {
       "sha256": "f74270c2048b70009be373e11bd2be822dcbd099a8d4b0a1cc5efa920f44c9fa",
       "bytes": 675016
+    },
+    "gallery/images/f77d81c300ad6bd1db995dd5784def318f358e636986b04407f93ef739e884b0/ngc1333-embryo-nebula-6h30m-ad8d563afa.jpg": {
+      "sha256": "f77d81c300ad6bd1db995dd5784def318f358e636986b04407f93ef739e884b0",
+      "bytes": 222480
     },
     "gallery/images/f7b88cd4b7c63afc4df202f730d04f5625894aa4e7a7a618e90c6e3fef8b05a9/ngc6960-veil-supernova-remnant-143-mins-detail-western-veil-7696ab4bd1.jpg": {
       "sha256": "f7b88cd4b7c63afc4df202f730d04f5625894aa4e7a7a618e90c6e3fef8b05a9",
