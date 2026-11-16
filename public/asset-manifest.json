@@ -62,6 +62,10 @@
       "sha256": "064e0a8a358112ad391411d36ec36726ed521117b8cfc2ed35d363aae8853f10",
       "bytes": 357374
     },
+    "gallery/images/0652d92b1af9435a5d576b97eae3a05ecf9e87491a960005ee7f5b5373132e75/sh2101-tulip-nebula-8h-sho-9h45m-hoo-69d43e4d4e.jpg": {
+      "sha256": "0652d92b1af9435a5d576b97eae3a05ecf9e87491a960005ee7f5b5373132e75",
+      "bytes": 460945
+    },
     "gallery/images/07682208ff6d707b340ead4ed71b426bfeeff1c5984adeea6928a97bb8808b7b/ngc7000-ic5070-sh2-119-north-america-nebula-pelican-nebula-clamshell-neb-dd89a1ec31.jpg": {
       "sha256": "07682208ff6d707b340ead4ed71b426bfeeff1c5984adeea6928a97bb8808b7b",
       "bytes": 433421
@@ -125,6 +129,10 @@
     "gallery/images/0ef5b6640748afa51b09c531f4bcb4c655c39f586d324c5708aab7764d00f7a0/ngc2237-the-rosette-nebula-complex-hero-0d3f88d48d.jpg": {
       "sha256": "0ef5b6640748afa51b09c531f4bcb4c655c39f586d324c5708aab7764d00f7a0",
       "bytes": 1308337
+    },
+    "gallery/images/0f171c0ddd0eac616a49465ad835abdcea72d292d682c51aa293166dd2b27291/cygnus-region-28-hours-f50a62e420.jpg": {
+      "sha256": "0f171c0ddd0eac616a49465ad835abdcea72d292d682c51aa293166dd2b27291",
+      "bytes": 140194
     },
     "gallery/images/0f7ebe10adcb18a9c17484ec275c8a58b0c4cc11cd896041e31cb0d8484f78ae/sh2-157-ngc7635-m52-lobster-claw-bubble-5h-ha-2h-sii-9331214b86.jpg": {
       "sha256": "0f7ebe10adcb18a9c17484ec275c8a58b0c4cc11cd896041e31cb0d8484f78ae",
