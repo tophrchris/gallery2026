@@ -1646,6 +1646,10 @@
       "sha256": "c4228c343a96c92b8d1e2f655228407a5b87714de0648f5892d8a1d7788cb2b7",
       "bytes": 774941
     },
+    "gallery/images/c499d3209482b82215522876c4e7402232babd6c085fe2dda4cb48f1d5658c36/cygnus-region-28-hours-hero-e156ff37aa.jpg": {
+      "sha256": "c499d3209482b82215522876c4e7402232babd6c085fe2dda4cb48f1d5658c36",
+      "bytes": 3355791
+    },
     "gallery/images/c59ad24e584550d95a01dc04527b6f00ddaea6b144f8e5b2c751bf5e143f5685/m78-casper-the-friendly-ghost-nebula-9h-19fcd1e4a6.jpg": {
       "sha256": "c59ad24e584550d95a01dc04527b6f00ddaea6b144f8e5b2c751bf5e143f5685",
       "bytes": 184810
@@ -1761,6 +1765,10 @@
     "gallery/images/d26eecef69212d89bd2cc13f0861e7085db70fa6a2f83f9a918fa172e15312b6/ngc281-pacman-nebula-hero-282c50586a.jpg": {
       "sha256": "d26eecef69212d89bd2cc13f0861e7085db70fa6a2f83f9a918fa172e15312b6",
       "bytes": 1932010
+    },
+    "gallery/images/d2bc9a12c12dc1fdf385e5e505e55df32db2ebaac4afad44b3cba031153ec221/ldn1622-m78-ic434-m42-ngc1999-bogeyman-nebula-casper-the-friendly-ghost--e15a07bd03.jpg": {
+      "sha256": "d2bc9a12c12dc1fdf385e5e505e55df32db2ebaac4afad44b3cba031153ec221",
+      "bytes": 843273
     },
     "gallery/images/d2ef9cc82d61fd06c995d2c7951bcadc1bc7d445877672fcdb686e09f4c8e928/m58-m59-m60-m84-m86-m87-m88-m89-m90-m91-m98-m99-m100-markarians-chain-8--fccc4f4d1e.jpg": {
       "sha256": "d2ef9cc82d61fd06c995d2c7951bcadc1bc7d445877672fcdb686e09f4c8e928",
