@@ -430,6 +430,10 @@
       "sha256": "2b288a79869ecead7c7cce55bc62e38e6b3b293af824b1dca4d2b6fc7bb37104",
       "bytes": 366351
     },
+    "gallery/images/2becabf9aab59426219cd485f048912ba80fcc5567ff44813432854728363f2e/ngc40-bow-tie-nebula-37-mins-b2774b25ec.jpg": {
+      "sha256": "2becabf9aab59426219cd485f048912ba80fcc5567ff44813432854728363f2e",
+      "bytes": 167065
+    },
     "gallery/images/2c529932ff2685609d07c2b7c97df4bad78827c72b3011356a557a081b61eed8/ngc2264-cone-nebula-6-5h-3a1a11460c.jpg": {
       "sha256": "2c529932ff2685609d07c2b7c97df4bad78827c72b3011356a557a081b61eed8",
       "bytes": 298772
@@ -513,6 +517,10 @@
     "gallery/images/33e4694da034f5b2a542c79c81a5201d4409a8f693553b3f9eca6d5b95f11f3a/m42-orion-nebula-ha-5h-sv-4h45m-53bf6f8bf2.jpg": {
       "sha256": "33e4694da034f5b2a542c79c81a5201d4409a8f693553b3f9eca6d5b95f11f3a",
       "bytes": 114067
+    },
+    "gallery/images/3492a5ece685f6f9f30b0c0a0b88a86f78963d71dd8c6e31214298399e2f20d3/ic423-ic343-ngc1977-m42-teardrop-nebula-horsehead-nebula-runningman-nebu-a63b2a8ad9.jpg": {
+      "sha256": "3492a5ece685f6f9f30b0c0a0b88a86f78963d71dd8c6e31214298399e2f20d3",
+      "bytes": 527660
     },
     "gallery/images/34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267/milkyway-sagittarius-1-hour-b5c78dcfe7.jpg": {
       "sha256": "34a5c52f15cb9d3f07e9ec0cbaa0c3cb3b87887ccb1722d46b00ab5fd7d20267",
@@ -1318,6 +1326,10 @@
       "sha256": "9d111217b3bd9674771fe95055d8bb1fad7cef00cd0fc4b4c0860028c0f60415",
       "bytes": 3250048
     },
+    "gallery/images/9d459ae0a78fe1722e210b5f26901b80999eac22fe2a2c2599f1462b4cd6aa0c/ic63-the-ghost-of-cassiopeia-nebula-3h-hero-9a32c06b54.jpg": {
+      "sha256": "9d459ae0a78fe1722e210b5f26901b80999eac22fe2a2c2599f1462b4cd6aa0c",
+      "bytes": 1112914
+    },
     "gallery/images/9e5d9a786e985ca4ce95f586109e418a13147278323e7fc3467e695b04b06c3c/m65-m66-leos-triplet-197-minutes-detail-m66-896694d65c.jpg": {
       "sha256": "9e5d9a786e985ca4ce95f586109e418a13147278323e7fc3467e695b04b06c3c",
       "bytes": 24939
@@ -1489,6 +1501,10 @@
     "gallery/images/b6108d64817f2fa8bba15847dc8bc74006695329c3c48983b3c50781fb9981d6/sh2101-ngc6888-ic1318-tulip-nebula-crescent-nebula-sadr-region-463-minut-592a76fc3a.jpg": {
       "sha256": "b6108d64817f2fa8bba15847dc8bc74006695329c3c48983b3c50781fb9981d6",
       "bytes": 306636
+    },
+    "gallery/images/b68b76a9e54d9c03008f9eaca68009457415cfb5770ff78f973b9f28427e089c/ic63-the-ghost-of-cassiopeia-nebula-3h-eb8e8d444b.jpg": {
+      "sha256": "b68b76a9e54d9c03008f9eaca68009457415cfb5770ff78f973b9f28427e089c",
+      "bytes": 680627
     },
     "gallery/images/b6c187308227c2cccb99b1af44ae405630389f211fc28ae69550a1b055a63b74/ic4604-m4-m80-rho-ophiuchi-nebula-11hours-detail-m80-215e35104c.jpg": {
       "sha256": "b6c187308227c2cccb99b1af44ae405630389f211fc28ae69550a1b055a63b74",
@@ -1762,6 +1778,10 @@
       "sha256": "d021185d05eb0e544b0a1bff67198ea3d560950dfe31d7cb9e8953b6b5f1ad0a",
       "bytes": 1968460
     },
+    "gallery/images/d090b1ccfe6f435110ffa778eaf68b1551aa5993370dd9776a0517e49cb82015/ngc1499-california-nebula-7-hours-5b1e794b10.jpg": {
+      "sha256": "d090b1ccfe6f435110ffa778eaf68b1551aa5993370dd9776a0517e49cb82015",
+      "bytes": 355098
+    },
     "gallery/images/d148c7210278d2d251b160345963f30ff15473ce957991e4ef11617d3328beb5/ngc2237-the-rosette-nebula-complex-hoo-22h-3aa98a72e8.jpg": {
       "sha256": "d148c7210278d2d251b160345963f30ff15473ce957991e4ef11617d3328beb5",
       "bytes": 13026628
@@ -1897,6 +1917,10 @@
     "gallery/images/e22283f7a42d8ea98a9cdfba657c41e5a665036de6b32cadda1c9d8412af4fa5/ngc7331-deer-lick-group-compare-before-sn2026aaiv-19d05feca3.jpg": {
       "sha256": "e22283f7a42d8ea98a9cdfba657c41e5a665036de6b32cadda1c9d8412af4fa5",
       "bytes": 253739
+    },
+    "gallery/images/e2d57577108de0911b4548742763fe7cad13612e020cbccb498281fa4c21e273/sh2274-medussa-nebula-5h30m-63439d3c33.jpg": {
+      "sha256": "e2d57577108de0911b4548742763fe7cad13612e020cbccb498281fa4c21e273",
+      "bytes": 397589
     },
     "gallery/images/e2dc6d03068a79bfa43a693ebc40571b4c274b8813d881af2d10d33c6f6e38f7/ldn1235-ldn1217-dark-shark-nebula-wolfs-cave-nebula-6-5h-4834a5ccfb.jpg": {
       "sha256": "e2dc6d03068a79bfa43a693ebc40571b4c274b8813d881af2d10d33c6f6e38f7",
@@ -2133,6 +2157,10 @@
     "gallery/images/fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3/ngc2237-the-rosette-nebula-complex-hero-b752022bde.jpg": {
       "sha256": "fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3",
       "bytes": 1801648
+    },
+    "gallery/images/fb7e2034eca3ca0cd2c188ad3375f9a288d69505123d0364b19817f36dfa2706/m65-m66-leos-triplet-4h15m-hero-51d435609a.jpg": {
+      "sha256": "fb7e2034eca3ca0cd2c188ad3375f9a288d69505123d0364b19817f36dfa2706",
+      "bytes": 399942
     },
     "gallery/images/fb8354d32d6888fc2f662291b28ace7f56b4628a40ce6098a9fe1f64bb466f8d/milkyway-orion-69-mins-623f3d52a2.jpg": {
       "sha256": "fb8354d32d6888fc2f662291b28ace7f56b4628a40ce6098a9fe1f64bb466f8d",
