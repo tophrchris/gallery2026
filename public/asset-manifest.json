@@ -198,6 +198,10 @@
       "sha256": "13dd8045fbf7343918b6b6bb84f81529553837b13ed4cd52152198ea41597a2c",
       "bytes": 23891
     },
+    "gallery/images/14132e0a4fc203c554f362d2f5733bdb70e057abb3a8b7f16631a08f322c09ac/ic443-jellyfish-nebula-16h-67f2f4856b.jpg": {
+      "sha256": "14132e0a4fc203c554f362d2f5733bdb70e057abb3a8b7f16631a08f322c09ac",
+      "bytes": 474093
+    },
     "gallery/images/1484f5e5e844a29647a9000f964ecc6e69ad7d3e98352384e60df73c6deb2908/ngc6604-m16-m17-nest-eagle-swan-sho-10h-ha-13h-sii-76f99ec275.jpg": {
       "sha256": "1484f5e5e844a29647a9000f964ecc6e69ad7d3e98352384e60df73c6deb2908",
       "bytes": 295301
@@ -890,6 +894,10 @@
       "sha256": "636377ed72da92ed265593d68c89d3c3ea49fdd3dd5c30aa7d67592de32d2df6",
       "bytes": 12616156
     },
+    "gallery/images/63a3e3d5c5f95f4dfd36e13e0bf8bf0cee6ee5b259e127388ed4bb0a378a1a4a/m35-1c7866de9b.jpg": {
+      "sha256": "63a3e3d5c5f95f4dfd36e13e0bf8bf0cee6ee5b259e127388ed4bb0a378a1a4a",
+      "bytes": 304812
+    },
     "gallery/images/63a6273675fba067d9e74180f0d7e9cc809c95c7d16bda9870319664617917f4/ngc281-pacman-nebula-mono-11h-fe6d809e1b.jpg": {
       "sha256": "63a6273675fba067d9e74180f0d7e9cc809c95c7d16bda9870319664617917f4",
       "bytes": 35261752
@@ -1225,6 +1233,10 @@
     "gallery/images/8e4b4e8185a1c0190bd9fb29b00cb86a12d3fa8d91ca0bb50e412a9fe6fa1626/ngc6888-crescent-nebula-sadr-region-2-hours-f2d8aab08d.jpg": {
       "sha256": "8e4b4e8185a1c0190bd9fb29b00cb86a12d3fa8d91ca0bb50e412a9fe6fa1626",
       "bytes": 588056
+    },
+    "gallery/images/8fa8823743932d2867320227d6d4154db8d06813d4ec0c6eb2bfe7f721abcfc3/ngc2467-skull-and-crossbones-nebula-2h45m-98bc499acd.jpg": {
+      "sha256": "8fa8823743932d2867320227d6d4154db8d06813d4ec0c6eb2bfe7f721abcfc3",
+      "bytes": 438402
     },
     "gallery/images/8ffd1147e50e13929868ec47500ddb8da1db9f1d03119a33fd74c8f8ae7cdbf2/ngc6604-m16-m17-m24-m21-m20-m8-nest-nebula-eagle-nebula-swan-nebula-smal-bbed7ad56e.jpg": {
       "sha256": "8ffd1147e50e13929868ec47500ddb8da1db9f1d03119a33fd74c8f8ae7cdbf2",
@@ -1686,6 +1698,10 @@
       "sha256": "c5c1539e37e61673202a1db3c004576d766a8a7f60a960615b61ed5925e90164",
       "bytes": 104867
     },
+    "gallery/images/c5edd9a05a71608fecd6045946605797b30dabe72ecba07f98a75bfc0e2c46a5/ngc2335-seagull-nebula-ha10h-sii-1h-efa9c6d39b.jpg": {
+      "sha256": "c5edd9a05a71608fecd6045946605797b30dabe72ecba07f98a75bfc0e2c46a5",
+      "bytes": 651676
+    },
     "gallery/images/c60e2a34acfb14b6960dea91d2a20c8a3c75b3ed7a37fa857cd7c83b183d3d8c/ic1396-elephant-trunk-nebula-11-hours-detail-star-dust-c2cc5c4eda.jpg": {
       "sha256": "c60e2a34acfb14b6960dea91d2a20c8a3c75b3ed7a37fa857cd7c83b183d3d8c",
       "bytes": 330395
@@ -1841,6 +1857,10 @@
     "gallery/images/d9dee373a5fde4a395dfffeab00afc8f3103fe75dec74d87e3cf74d0c1246655/ngc7635-bubble-nebula-2h-40m-61c60f5dc4.jpg": {
       "sha256": "d9dee373a5fde4a395dfffeab00afc8f3103fe75dec74d87e3cf74d0c1246655",
       "bytes": 3721041
+    },
+    "gallery/images/da3d1812616113266dc04ab5292c4b364e9cce64d0d0b6455c69374cf7617819/m50-2h-ca0c10a90d.jpg": {
+      "sha256": "da3d1812616113266dc04ab5292c4b364e9cce64d0d0b6455c69374cf7617819",
+      "bytes": 203185
     },
     "gallery/images/da53828e9bd100b1a9cd4dd412138b41b5345b9ebb1260eb62a86085970b70b7/m78-151-minutes-8f280c7b96.jpg": {
       "sha256": "da53828e9bd100b1a9cd4dd412138b41b5345b9ebb1260eb62a86085970b70b7",
