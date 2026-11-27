@@ -710,6 +710,10 @@
       "sha256": "4ae9a979f4d899becd5f46f1a48f39baa9dceeb65b07385ff2e357778f2f293d",
       "bytes": 438921
     },
+    "gallery/images/4bed41ef82097ca2f350056e61cb3544f8bf5138e1fe144fa96cff23633b91e7/cygnus-region-hoo-28-hours-6ab15245f9.jpg": {
+      "sha256": "4bed41ef82097ca2f350056e61cb3544f8bf5138e1fe144fa96cff23633b91e7",
+      "bytes": 136676
+    },
     "gallery/images/4c4a702c90291f2f3e9eaafdb998efa2dcd2fa62a0a88756240bad2bdce00819/sh2-157-ngc7635-m52-lobster-claw-bubble-4ha-2sii-911ebd3d66.jpg": {
       "sha256": "4c4a702c90291f2f3e9eaafdb998efa2dcd2fa62a0a88756240bad2bdce00819",
       "bytes": 558921
@@ -941,6 +945,10 @@
     "gallery/images/67fb6e37252c0b2c19d9f29a59e1d179ee301194fc3d6039996dd0126e548245/ngc281-pacman-nebula-ha-2h30m-sii-2h5m-af693175fe.jpg": {
       "sha256": "67fb6e37252c0b2c19d9f29a59e1d179ee301194fc3d6039996dd0126e548245",
       "bytes": 276130
+    },
+    "gallery/images/67fbc53b1e9c6a410146f7c0a55507f36d3b81c395debf704e845f6bdda5bddb/cygnus-region-sho-ha-28h-sii-18h-ed4dbc2722.jpg": {
+      "sha256": "67fbc53b1e9c6a410146f7c0a55507f36d3b81c395debf704e845f6bdda5bddb",
+      "bytes": 158994
     },
     "gallery/images/6852e8a95e58ecedd5af4ee8673df4be80adb229a2a9a8cb51d72d47867c5849/ic1805-ic1848-heart-nebula-soul-nebula-compare-raw-c5190f2556.jpg": {
       "sha256": "6852e8a95e58ecedd5af4ee8673df4be80adb229a2a9a8cb51d72d47867c5849",
@@ -2046,6 +2054,10 @@
       "sha256": "ec473caea863274d571af74ee8e0f1f9984e7d10992f28ea05194bc95aa3954a",
       "bytes": 255874
     },
+    "gallery/images/ecc10f259c792e5723d46ae5700031a4dfce8de2930f20a079b015b6020a9439/cygnus-region-sho-ha-28h-sii-18h-annotated-fd1a371c40.jpg": {
+      "sha256": "ecc10f259c792e5723d46ae5700031a4dfce8de2930f20a079b015b6020a9439",
+      "bytes": 167184
+    },
     "gallery/images/ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd/barnards-loop-8-hours-detail-m42-b1ef3b9bc6.jpg": {
       "sha256": "ed51c954f8bf5d82d109c6a546c1aa586367ea19e3c5bcb4b516c52684f3e3dd",
       "bytes": 253227
@@ -2126,6 +2138,10 @@
       "sha256": "f4999542a78dafad439fc386a1961d3914f5940f36e2d6fcb4bddc99bd0e907f",
       "bytes": 514130
     },
+    "gallery/images/f4fde77864d64379a1ce70ce7a469dcd5e4421645b273800ec255c8039ae463a/ic434-horsehead-nebula-2h45m-3d4e1944ca.jpg": {
+      "sha256": "f4fde77864d64379a1ce70ce7a469dcd5e4421645b273800ec255c8039ae463a",
+      "bytes": 203254
+    },
     "gallery/images/f5915fa248f99e5b9f0aaf8f971b8fcc22096658fb559129c20a51a92872c1e8/m45-123-mins-e8c0b56736.jpg": {
       "sha256": "f5915fa248f99e5b9f0aaf8f971b8fcc22096658fb559129c20a51a92872c1e8",
       "bytes": 404297
@@ -2173,6 +2189,10 @@
     "gallery/images/fadab4c1846e58b121892baf62f7f82c24e91dc40d6ac25019c9edba4b7d45dc/andromeda-region-bortle3-3c07bfbb54.jpg": {
       "sha256": "fadab4c1846e58b121892baf62f7f82c24e91dc40d6ac25019c9edba4b7d45dc",
       "bytes": 229883
+    },
+    "gallery/images/fb2f2174478da816b4ad8f68f19fe26439616843030377fe996216063e4d0fe6/m42-orion-nebula-2h20m-ede0719bdb.jpg": {
+      "sha256": "fb2f2174478da816b4ad8f68f19fe26439616843030377fe996216063e4d0fe6",
+      "bytes": 188492
     },
     "gallery/images/fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3/ngc2237-the-rosette-nebula-complex-hero-b752022bde.jpg": {
       "sha256": "fb2fc0b4921e2dab4bf91431255fa6046cc5692ad22c51a969de085080c894d3",
